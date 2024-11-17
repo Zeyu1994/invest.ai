@@ -1,0 +1,2010 @@
+[00:00:00] SPEAKER_05: LeMang Song is a nut.
+[00:00:01] SPEAKER_05: He's like, we will make Samsung into this monster.
+[00:00:04] SPEAKER_05: He does not care about people.
+[00:00:05] SPEAKER_05: He does not care about business.
+[00:00:06] SPEAKER_05: He wants to take it to the limit.
+[00:00:08] SPEAKER_05: The only thing.
+[00:00:09] SPEAKER_04: There's no fucking way you can pay for the scale of clusters that are being planned to be built next year for open AI unless they raise like 50 to 100 billion dollars.
+[00:00:16] SPEAKER_02: Hold on, hold on, we've already lost John.
+[00:00:18] SPEAKER_04: We've already accepted GPT-5 would be good.
+[00:00:20] SPEAKER_04: But yeah, you got it, you know.
+[00:00:21] SPEAKER_06: Yeah, you got it.
+[00:00:23] SPEAKER_04: Bro, like, life is so much more fun when you just, like, are delusionally, like, you know?
+[00:00:27] SPEAKER_04: We're just ripping bong pits, hey, are we?
+[00:00:29] SPEAKER_04: We're not even close to the dot-com bubble.
+[00:00:31] SPEAKER_04: Why wouldn't this one be bigger?
+[00:00:32] SPEAKER_04: We're going to rip, baby.
+[00:00:33] SPEAKER_04: Rip that bong, baby.
+[00:00:34] SPEAKER_04: You could freeze AI for another two decades.
+[00:00:37] SPEAKER_04: If you are Xi Jinping and scale-pilled, you must now centralize the compute resources, right?
+[00:00:42] SPEAKER_04: They could have a bigger model than any of the labs next year.
+[00:00:46] SPEAKER_01: Today, I'm chatting with Dylan Patel, who runs Semianalysis, and John, who runs the Asianometry YouTube channel.
+[00:00:53] SPEAKER_01: Does he have a last name?
+[00:00:53] SPEAKER_01: No, I do not.
+[00:00:55] SPEAKER_01: No, I'm just kidding.
+[00:00:55] SPEAKER_01: John, why?
+[00:00:56] SPEAKER_04: Sorry, what is it?
+[00:00:57] SPEAKER_04: John, why?
+[00:00:58] SPEAKER_04: Wait, why is it only one letter?
+[00:01:01] SPEAKER_05: Because why is the best letter.
+[00:01:05] SPEAKER_04: Why is your face covered?
+[00:01:07] SPEAKER_05: Why not?
+[00:01:09] SPEAKER_05: No, seriously, why is it covered?
+[00:01:11] SPEAKER_01: Because I'm afraid of looking at myself get older and fatter over the years.
+[00:01:16] SPEAKER_01: But seriously, it's like anonymity, right?
+[00:01:18] SPEAKER_01: Anonymity.
+[00:01:19] SPEAKER_01: Okay.
+[00:01:19] SPEAKER_01: Yeah.
+[00:01:20] SPEAKER_01: By the way, so do you know what Dylan's middle name is?
+[00:01:22] SPEAKER_01: Actually, no.
+[00:01:23] SPEAKER_01: I don't know.
+[00:01:23] SPEAKER_01: He just told me.
+[00:01:24] SPEAKER_01: What's my father's name?
+[00:01:26] SPEAKER_01: I'm not gonna say it, but I remember.
+[00:01:27] SPEAKER_04: You could say it.
+[00:01:28] SPEAKER_04: It's fine.
+[00:01:30] SPEAKER_04: Sanjay?
+[00:01:31] SPEAKER_04: Yes.
+[00:01:31] SPEAKER_04: What's his middle name?
+[00:01:33] SPEAKER_01: That's right.
+[00:01:34] SPEAKER_01: Wow.
+[00:01:34] SPEAKER_01: So I'm the war cash Sanjay Patel.
+[00:01:36] SPEAKER_01: He's Dylan Sanjay Patel.
+[00:01:38] SPEAKER_04: It's like literally my white name It's it's unfortunate my parents decided between my older brother and me to give me a white name and I could have been dorkish Like, you know, how amazing it would have been if we had the same day Like butterfly effect at all.
+[00:01:52] SPEAKER_04: It was probably one of all would have turned out the same way But like maybe it would have been even closer.
+[00:01:55] SPEAKER_01: We would have met each other sooner, you know Yeah, yeah in the world.
+[00:01:59] SPEAKER_01: Yeah.
+[00:01:59] SPEAKER_01: Yeah.
+[00:02:00] SPEAKER_01: All right first question.
+[00:02:02] SPEAKER_01: I
+[00:02:02] SPEAKER_01: If you're a Xi Jinping and you're scaling payload, what is it that you do?
+[00:02:05] SPEAKER_01: Don't answer that question, John.
+[00:02:07] SPEAKER_01: That's bad for AI safety.
+[00:02:08] SPEAKER_05: I would basically be contacting every foreigner.
+[00:02:11] SPEAKER_05: I would be contacting every Chinese national with family back home and saying, I want information.
+[00:02:16] SPEAKER_05: I want to know your recipes.
+[00:02:17] SPEAKER_05: I want to know, I want context.
+[00:02:18] SPEAKER_01: What kind of, like AI lab foreigners or hardware foreigners?
+[00:02:21] SPEAKER_05: Honeypotting open AI?
+[00:02:22] SPEAKER_05: I would basically, like I, this is totally off cycle, but like this is off the reservation, but like I was doing a video about Yugoslavia's nuclear program.
+[00:02:32] SPEAKER_05: nuclear weapons program started absolutely nothing one guy from Paris and then one guy in Paris he showed up and he was like and then he had who knows what he did he knows a little bit about making atomic nuclear weapons but like he was like okay well do I need help and then the state secret police is like I would get to everything and then like I shouldn't do that but I was getting you everything and for like a span of four years
+[00:02:57] SPEAKER_05: They basically, they drew up a list.
+[00:02:59] SPEAKER_05: What do you need?
+[00:03:00] SPEAKER_05: What do you want?
+[00:03:03] SPEAKER_05: What is it going to be for?
+[00:03:04] SPEAKER_05: And they just, state police just got everything.
+[00:03:07] SPEAKER_05: If I was running a country and I needed catch up on that, that's the sort of thing that I would be doing.
+[00:03:11] SPEAKER_01: So, okay, let's talk about the espionage.
+[00:03:16] SPEAKER_01: What is the most valuable piece of, if you could have this blueprint, this one megabyte of information, do you want it from TSMC?
+[00:03:24] SPEAKER_01: Do you want it from NVIDIA?
+[00:03:25] SPEAKER_01: Do you want it from OpenAI?
+[00:03:27] SPEAKER_01: What is the first thing you would try to steal?
+[00:03:29] SPEAKER_04: I guess you have to stack every layer, right?
+[00:03:33] SPEAKER_04: The beautiful thing about AI is because it's growing so freaking fast, every layer is being stressed to some incredible degree.
+[00:03:40] SPEAKER_04: Of course, China has been hacking ASML for over five years and, you know, ASML is kind of like, oh, it's fine.
+[00:03:45] SPEAKER_04: The Dutch government's really pissed off, but it's fine, right?
+[00:03:47] SPEAKER_04: I think it's, they already have those files.
+[00:03:49] SPEAKER_04: right, in my view.
+[00:03:51] SPEAKER_04: It's just a, it's a very difficult thing to build, right?
+[00:03:55] SPEAKER_04: I think, I think the same applies for like fab recipes, right?
+[00:03:58] SPEAKER_04: They can poach Taiwanese nationals very like, not, not that difficult, right?
+[00:04:02] SPEAKER_04: Because TSMC employees do not make absurd amounts of money.
+[00:04:06] SPEAKER_04: You can just poach them and give them a much better life.
+[00:04:08] SPEAKER_04: And they have, right?
+[00:04:08] SPEAKER_04: A lot of SMIC's employees are TSMC, you know, Taiwanese nationals.
+[00:04:13] SPEAKER_04: right?
+[00:04:14] SPEAKER_04: A lot of the really good ones, high up ones, especially, right?
+[00:04:17] SPEAKER_04: And then you go up like the next layers of the stack.
+[00:04:19] SPEAKER_04: And it's like, I think, I think, yeah, of course, there's tons of model secrets.
+[00:04:23] SPEAKER_04: But then, like, you know, how many of those model secrets do you not already have, and you just haven't deployed or implemented, you know, organized, right?
+[00:04:31] SPEAKER_04: That's the that's the one thing I would say is like, China just hasn't, they clearly are still not scale build, in my view.
+[00:04:37] SPEAKER_01: So these people are
+[00:04:40] SPEAKER_01: I don't know if you could like hire them, probably worth a lot to you, right?
+[00:04:43] SPEAKER_01: Because you're building a fab that's worth 10s of billions of dollars.
+[00:04:46] SPEAKER_01: And this talent is like, they know a lot of shit.
+[00:04:50] SPEAKER_01: How often do they get poached?
+[00:04:51] SPEAKER_01: Do they get poached by like foreign adversaries?
+[00:04:53] SPEAKER_01: Or do they just get poached by other companies within the same industry, but in the same country?
+[00:04:59] SPEAKER_01: And then yeah, well, like, why doesn't that like sort of drive up their wages?
+[00:05:02] SPEAKER_05: I think it's because it's it's very compartmentalized.
+[00:05:05] SPEAKER_05: And I think like back in the 2000s, prior to TS, before SMIC got big, it was actually much more kind of open, more flat.
+[00:05:13] SPEAKER_05: I think after that, there was like, after Daemong Song, and after all the Samsung issues, and after all the SMIC's rise, when you literally saw
+[00:05:22] SPEAKER_04: I think you should tell that story, actually, the TSMC guy that went to Samsung and SMIC and all that.
+[00:05:27] SPEAKER_04: I think you should tell that story.
+[00:05:28] SPEAKER_05: There are two stories.
+[00:05:29] SPEAKER_05: There's a guy, he ran a semiconductor company in Taiwan called Worldwide Semiconductor.
+[00:05:33] SPEAKER_05: And this guy, Richard Chang, was very religious.
+[00:05:35] SPEAKER_05: I mean, all the TSMC people are pretty religious.
+[00:05:37] SPEAKER_05: But he, in particular, was very fervent, and he wanted to bring religion to China.
+[00:05:42] SPEAKER_05: So after he sold his company to TSMC,
+[00:05:45] SPEAKER_05: Huge cooperatism.
+[00:05:46] SPEAKER_05: He worked there for about eight or nine months and he was like, all right, I'll go to China.
+[00:05:50] SPEAKER_05: Because back then, the relations between China and Taiwan were much more different.
+[00:05:55] SPEAKER_05: And so he goes over there, Shanghai says, we'll give you a bunch of money.
+[00:05:57] SPEAKER_05: And then Richard Chang basically recruits half of like a whole bunch.
+[00:06:02] SPEAKER_05: It's like a conga line of like Taiwanese, just like they get on the plane, they flying over.
+[00:06:07] SPEAKER_05: And generally that's actually a lot of like acceleration points within China's semiconductor industry.
+[00:06:13] SPEAKER_05: It's from talent flowing from Taiwan.
+[00:06:15] SPEAKER_05: And then the second thing was like Liang Meng Song.
+[00:06:17] SPEAKER_05: Liang Meng Song is a nut.
+[00:06:19] SPEAKER_05: And I've met him— I've not met him.
+[00:06:21] SPEAKER_05: I've met people who work with him.
+[00:06:23] SPEAKER_05: And they say he is a nut.
+[00:06:24] SPEAKER_05: He is probably on the spectrum and he does not care about people.
+[00:06:28] SPEAKER_05: He does not care about business.
+[00:06:30] SPEAKER_05: He does not care about anything.
+[00:06:31] SPEAKER_05: He wants to take it to the limit.
+[00:06:33] SPEAKER_05: The only thing, that's the only thing he cares about.
+[00:06:34] SPEAKER_05: He worked for TSMC, literal genius, 300 patents or whatever, 285, works all the way to like the top
+[00:06:42] SPEAKER_05: top tier, and then one day he decides he loses out on some sort of power game within TSMC and gets demoted.
+[00:06:51] SPEAKER_05: And he was like head of R&D, right, or something?
+[00:06:52] SPEAKER_05: He was like one of the top R&D.
+[00:06:53] SPEAKER_05: He was like second or third place.
+[00:06:55] SPEAKER_04: And it was for the head of R&D position, basically.
+[00:06:57] SPEAKER_04: Correct.
+[00:06:57] SPEAKER_05: More of the head R&D position.
+[00:06:58] SPEAKER_05: He's like, I can't deal with this.
+[00:07:00] SPEAKER_05: And he goes to Samsung, and he steals a whole bunch of talent from TSMC.
+[00:07:04] SPEAKER_05: Literally, again, Conga line goes and just emails people saying, we will pay
+[00:07:09] SPEAKER_05: At some point, some of these people were getting paid more than the Samsung chairman, which, not really comparable, but you know what I mean.
+[00:07:15] SPEAKER_04: Isn't the Samsung chairman usually part of the family that owns Samsung?
+[00:07:19] SPEAKER_04: Correctamundo.
+[00:07:20] SPEAKER_04: Okay, yeah, so it's kind of relevant.
+[00:07:22] SPEAKER_05: But he goes over there and he's like, well, we will make Samsung into this monster.
+[00:07:28] SPEAKER_05: We forget everything.
+[00:07:30] SPEAKER_05: Forget all of the stuff you've been trying to do, like incremental.
+[00:07:33] SPEAKER_05: Toss that out.
+[00:07:34] SPEAKER_05: We are going to the leading edge and that is it.
+[00:07:36] SPEAKER_05: They go to the leading edge.
+[00:07:38] SPEAKER_05: The guys like... They win Apple's business.
+[00:07:40] SPEAKER_05: They win Apple's business.
+[00:07:42] SPEAKER_05: They win it back from TSMC.
+[00:07:43] SPEAKER_05: Or did they win it back from TSMC?
+[00:07:45] SPEAKER_05: They had a portion of the... They had a big portion of it.
+[00:07:47] SPEAKER_05: And then TSMC, Morris Tang is like, at this time, was running the company.
+[00:07:52] SPEAKER_05: And he's like, I'm not letting this happen.
+[00:07:53] SPEAKER_05: Because that guy...
+[00:07:56] SPEAKER_05: toxic to work for as well, but also goddamn brilliant and also like very good at motivating people.
+[00:08:02] SPEAKER_05: He's like, we will work literally day or night.
+[00:08:05] SPEAKER_05: Sets up what is called the Nightingale Army, where you have, they split a bunch of people and they say, you are working R&D night shift.
+[00:08:13] SPEAKER_05: There is no rest at the TSMC fab.
+[00:08:17] SPEAKER_05: You will go in.
+[00:08:19] SPEAKER_05: As you go in, there'll be a day shift going out.
+[00:08:21] SPEAKER_05: They called it the, it's like, you're burning your liver.
+[00:08:24] SPEAKER_05: Because in Taiwan, they said, like, if you get old, like, as you work, you're sacrificing your liver.
+[00:08:30] SPEAKER_05: They call it the liver buster.
+[00:08:31] SPEAKER_05: So they basically did this Nightingale armory for like a year, two years.
+[00:08:36] SPEAKER_05: They finished FinFET.
+[00:08:38] SPEAKER_05: They basically just blow away Samsung.
+[00:08:41] SPEAKER_05: And at the same time, they sue Liang Meng-sung directly for stealing trade secrets.
+[00:08:47] SPEAKER_05: Samsung basically separates from Neumongsong and Neumongsong goes to SMIC.
+[00:08:52] SPEAKER_04: And so Samsung like at one point was better than TSMC.
+[00:08:56] SPEAKER_04: And then yeah, he goes to SMIC and SMIC is now better than, or not better, but they caught up rapidly as well after.
+[00:09:00] SPEAKER_05: Very rapid.
+[00:09:01] SPEAKER_04: That guy's a genius.
+[00:09:02] SPEAKER_05: That guy's a genius.
+[00:09:03] SPEAKER_05: I mean, I don't even know what to say about him.
+[00:09:05] SPEAKER_05: He's like 78 and he's like,
+[00:09:08] SPEAKER_01: beyond brilliant, does not care about people.
+[00:09:10] SPEAKER_01: Like, yeah, what is research to make the next process node look like?
+[00:09:14] SPEAKER_01: Is it just a matter of like, 100 researchers go in, they do like the next n plus one, then the next morning, the next 100 researchers go in?
+[00:09:23] SPEAKER_01: It's experiments.
+[00:09:25] SPEAKER_05: They have a recipe, and what they do, every recipe, a TSMC recipe,
+[00:09:29] SPEAKER_05: is the culmination of a long, long years of research, right?
+[00:09:34] SPEAKER_05: It's highly secret, and the idea is that what you're going to do is that you go, you look at one particular part of it, and you say, experiment, run an experiment.
+[00:09:42] SPEAKER_05: Is it better?
+[00:09:42] SPEAKER_05: Is it not?
+[00:09:43] SPEAKER_05: Is it better or not?
+[00:09:44] SPEAKER_05: Kind of a thing like that.
+[00:09:45] SPEAKER_04: you're basically it's it's it's multivariable problem that each every single tool sequentially you're processing the whole thing you you turn up knobs up and down on every single tool you can increase the pressure on this one specific deposition tool or and what are you trying to measure is it like does it increase the yield or like what is it
+[00:10:00] SPEAKER_04: that it's not its yield, its performance, its power.
+[00:10:04] SPEAKER_04: It's not just a one, it's not just better or worse, right?
+[00:10:06] SPEAKER_01: It's a multivariable search space.
+[00:10:07] SPEAKER_01: And what do these people know such that they can do this is they understand the chemistry and physics.
+[00:10:12] SPEAKER_01: So it's a lot of intuition.
+[00:10:13] SPEAKER_04: But yeah, it's it's PhDs in chemistry, PhDs in physics, PhDs in EE, brilliant geniuses, people and they all just
+[00:10:20] SPEAKER_04: And they don't even know about the end chip a lot of times.
+[00:10:23] SPEAKER_04: It's like, oh, I am an etch engineer, and all I focus on is how hydrogen fluoride etches this, right?
+[00:10:30] SPEAKER_04: And that's all I know.
+[00:10:31] SPEAKER_04: And if I do it at different pressures, if I do it at different temperatures, if I do it with a slightly different recipe of chemicals, it changes everything.
+[00:10:38] SPEAKER_05: I remember, like, someone told me this when I was speaking, like, how did America lose the ability to do this sort of thing, like etch and hydrofluoric and acid, all of that?
+[00:10:46] SPEAKER_05: I told them, like, he told me basically was like, it's very apprentice, master apprentice, like, you know, in Star Wars, Sith, there's only one, right?
+[00:10:54] SPEAKER_05: Master apprentice, master apprentice.
+[00:10:57] SPEAKER_05: It used to be that there is a master, there's an apprentice, and they pass on this secret knowledge.
+[00:11:02] SPEAKER_05: This guy knows nothing but etch, nothing but etch.
+[00:11:04] SPEAKER_05: Over time, the apprentices stopped coming.
+[00:11:07] SPEAKER_05: And then in the end, the apprentices moved to Taiwan.
+[00:11:10] SPEAKER_05: And that's the same way it's still run.
+[00:11:11] SPEAKER_05: Like you have the NTU and NTHU, Tsinghua University, National Tsinghua University.
+[00:11:16] SPEAKER_05: There's a bunch of masters, they teach apprentices, and they just pass this secret knowledge down.
+[00:11:22] SPEAKER_01: Who are the most AGI-pilled people in the supply chain?
+[00:11:25] SPEAKER_01: Is there anybody in the supply chain?
+[00:11:27] SPEAKER_04: I gotta have my phone call with Colette right now.
+[00:11:28] SPEAKER_01: Okay, go for it.
+[00:11:29] SPEAKER_01: Sorry, sorry.
+[00:11:30] SPEAKER_01: Could we mention that the podcast at NVIDIA is calling Dylan to update him on the earnings call?
+[00:11:36] SPEAKER_04: Well, it's not exactly that, but...
+[00:11:38] SPEAKER_01: Go for it, go for it.
+[00:11:40] SPEAKER_01: Dylan is back from his call with Jensen Huang.
+[00:11:43] SPEAKER_01: It was not with Jensen, Jesus.
+[00:11:45] SPEAKER_01: What did they tell you, huh?
+[00:11:45] SPEAKER_01: What did they tell you about next year's earnings?
+[00:11:47] SPEAKER_04: No, it was just color around, like, Hopper, Blackwell, and, like, margins.
+[00:11:51] SPEAKER_04: It's, like, quite boring stuff.
+[00:11:53] SPEAKER_01: I'm sure.
+[00:11:54] SPEAKER_04: For most people, I think it's interesting, though.
+[00:11:56] SPEAKER_01: I guess we could start talking about it in video.
+[00:11:58] SPEAKER_01: You know what?
+[00:11:58] SPEAKER_01: Before we do, I think we should go back to China.
+[00:12:00] SPEAKER_01: There's, like, a lot of points there.
+[00:12:01] SPEAKER_01: All right, we covered the trips themselves.
+[00:12:03] SPEAKER_01: How do they get like the 10 gigawatts data center up?
+[00:12:06] SPEAKER_01: What else do they need?
+[00:12:08] SPEAKER_04: I think there is a true like question of how decentralized do you go versus centralized, right?
+[00:12:14] SPEAKER_04: And if you look in the US, right, as far as like labs and such,
+[00:12:19] SPEAKER_04: The, you know, OpenAI, XAI, you know, Anthropic, and then Microsoft having their own effort, Anthropic having their own efforts despite having their partner, and then Meta.
+[00:12:29] SPEAKER_04: And, you know, you go down the list, it's like there's quite a decentralization.
+[00:12:34] SPEAKER_04: And then all the startups, like interesting startups that are out there doing stuff.
+[00:12:37] SPEAKER_04: There's quite a decentralization of efforts.
+[00:12:39] SPEAKER_04: Today in China, it is still quite decentralized, right?
+[00:12:42] SPEAKER_04: It's not like Alibaba, Baidu, you are the champions, right?
+[00:12:45] SPEAKER_04: You have like DeepSeek, like, who the hell are you?
+[00:12:47] SPEAKER_04: Does government even support you, like doing amazing stuff, right?
+[00:12:51] SPEAKER_04: If you are Xi Jinping and scale-pilled, you must now centralize the compute resources, right?
+[00:12:58] SPEAKER_04: You have sanctions on how many NVIDIA GPUs you can get in now.
+[00:13:01] SPEAKER_04: They're still north of a million a year, even post-October last year sanctions.
+[00:13:06] SPEAKER_04: We still have more than a million H20s and other Hopper GPUs getting in through other means, but legally, like the H20s.
+[00:13:14] SPEAKER_04: And then on top of that, you have your domestic chips, right?
+[00:13:18] SPEAKER_04: But that's less than a million chips.
+[00:13:19] SPEAKER_04: So then when you look at it, it's like, well, we're still talking about a million chips.
+[00:13:23] SPEAKER_04: The scale of data centers people are training on today slash over the next six months is 100,000 GPUs.
+[00:13:28] SPEAKER_04: Yeah.
+[00:13:30] SPEAKER_04: OpenAI, XAI, these are quite well-documented, and others.
+[00:13:34] SPEAKER_04: But in China, they have no individual system of that scale yet, right?
+[00:13:40] SPEAKER_04: So then the question is, how do we get there?
+[00:13:44] SPEAKER_04: No company has had the centralization push to have a cluster that large and train on it yet, at least publicly well-known, and the best models seem to be from
+[00:13:53] SPEAKER_04: a company that has got like 10,000 GPUs, right?
+[00:13:56] SPEAKER_04: Or 16,000 GPUs, right?
+[00:13:57] SPEAKER_04: So it's not quite as centralized as the U.S.
+[00:14:00] SPEAKER_04: companies are, and the U.S.
+[00:14:01] SPEAKER_04: companies are quite decentralized.
+[00:14:03] SPEAKER_04: If you're Xi Jinping and you're scale-pilled, do you just say XYZ company is now in charge, and every GPU goes to one place?
+[00:14:12] SPEAKER_04: And then you don't have the same issues as the US, right?
+[00:14:14] SPEAKER_04: In the US, we have a big problem with being able to build big enough data centers, being able to build substations and transformers and all this that are large enough in a dense area.
+[00:14:23] SPEAKER_04: China has no issue with that at all because their supply chain adds as much power as half of Europe every year, right?
+[00:14:31] SPEAKER_04: Or some absurd statistics, right?
+[00:14:34] SPEAKER_04: So they're building transformer substations.
+[00:14:35] SPEAKER_04: They're building new power plants constantly.
+[00:14:38] SPEAKER_04: So they have no problem with getting power density.
+[00:14:40] SPEAKER_04: And you go look at like,
+[00:14:41] SPEAKER_04: Bitcoin mining, right, around the Three Gorges Dam, at one point at least, there was like 10 gigawatts of Bitcoin mining estimated, right?
+[00:14:51] SPEAKER_04: Which, you know, we're talking about gigawatt data centers are coming over 26, 27, or 26-ish in the US, or 27, right?
+[00:15:00] SPEAKER_04: you know, sort of, this is an absurd scale relatively, right?
+[00:15:03] SPEAKER_04: We don't have gigawatt data centers, you know, ready, but like China could just build it in six months, I think, around the Three Gorges Dam or many other places, right?
+[00:15:11] SPEAKER_04: Because they have the ability to do the substations, they have the power generation capabilities, everything can be like done like a flip of a switch, but they haven't done it yet.
+[00:15:18] SPEAKER_04: And then they can centralize the chips like crazy, right?
+[00:15:20] SPEAKER_04: Now, oh, a million chips that Nvidia's shipping in Q3 and Q4, the H20,
+[00:15:26] SPEAKER_04: Let's just put them all in this one data center.
+[00:15:27] SPEAKER_04: They just haven't had that centralization effort.
+[00:15:31] SPEAKER_05: Well, you can argue that like the more you centralize it, the more you start building this monstrous thing within the industry, you start getting attention to it and then suddenly, you know,
+[00:15:41] SPEAKER_05: Lo and behold you have a little bit of a little worm in there suddenly while you're doing your big training run Oh this GPU off.
+[00:15:48] SPEAKER_05: Oh this GPU.
+[00:15:49] SPEAKER_05: Oh, no.
+[00:15:50] SPEAKER_04: Oh, no Just to be clear John is is East Asian he's Chinese I am of East Asian descent half tiny Taiwanese have Chinese I
+[00:16:02] SPEAKER_04: That is right, but like I think I think I don't know if that's like as simple as that to like Cuz cuz training systems are like fire like they're they're water.
+[00:16:11] SPEAKER_04: Is it water gated fire walled?
+[00:16:12] SPEAKER_04: But what is it called not fire walled?
+[00:16:14] SPEAKER_04: I don't know.
+[00:16:14] SPEAKER_04: There's a word for that where they're not like they're what air gaps air gapped You're going through like the all the like a four elements
+[00:16:32] SPEAKER_04: We got the avatar right like you have to build the avatar, okay I think I think that's possible The question is like does that slow down your research?
+[00:16:42] SPEAKER_04: Do you like crush like cracked people like deep-seek who are like clearly like not being?
+[00:16:48] SPEAKER_04: you know, influenced by the government and put some like idiot like, you know, idiot bureaucrat at the top.
+[00:16:53] SPEAKER_05: Suddenly he's all thinking about like, you know, all these politics and he's trying to deal with all these different things.
+[00:17:00] SPEAKER_05: Suddenly you have a single point of failure and that's a that's that's bad.
+[00:17:05] SPEAKER_04: But I mean, on the flip side, right?
+[00:17:07] SPEAKER_04: Like there is like obviously immense gains from being centralized because of the scaling loss, right?
+[00:17:12] SPEAKER_04: And then the flip side is compute efficiency is obviously going to be hurt because
+[00:17:17] SPEAKER_04: you can't do you can't experiment and like have different people lead and try their efforts as much if you're less centralized or more, more centralized.
+[00:17:23] SPEAKER_04: So it's like, there is a balancing act there.
+[00:17:26] SPEAKER_01: The fact that they can centralize I didn't think about this, but that is actually like, because, you know, even if America as a whole,
+[00:17:32] SPEAKER_01: is getting millions of GPUs a year.
+[00:17:35] SPEAKER_01: The fact that any one company is only getting hundreds of thousands or less means that there's no one person who can do a trading run as big in America as if like China as a whole decides to do one together.
+[00:17:47] SPEAKER_01: The 10 gigawatts you mentioned near the Three Gorges Dam
+[00:17:51] SPEAKER_01: Is it like literally like, how widespread is it?
+[00:17:54] SPEAKER_01: Like a state?
+[00:17:54] SPEAKER_01: Is it like one wire?
+[00:17:55] SPEAKER_01: Like how?
+[00:17:56] SPEAKER_04: I think like between not just the dam itself, but like also all of the coal, there's some nuclear reactors there I believe as well.
+[00:18:04] SPEAKER_04: Between all of, and like renewables like solar and wind, between all of that in that region, there is an absurd amount of concentrated power that could be built.
+[00:18:13] SPEAKER_04: I don't think it's, I'm not saying it's like one button, but it's like, hey, within X mile radius, right?
+[00:18:18] SPEAKER_04: is more of the correct way to frame it.
+[00:18:21] SPEAKER_04: And that's how the labs are also framing it, right?
+[00:18:24] SPEAKER_04: In the US.
+[00:18:26] SPEAKER_01: If they started right now, how long does it take to build the biggest AI data center in the world?
+[00:18:33] SPEAKER_04: Actually, I think the other thing is, could we notice it?
+[00:18:38] SPEAKER_04: I don't think so, because the amount of factories that are being spun up, the amount of other construction, manufacturing, et cetera, that's being built,
+[00:18:46] SPEAKER_04: A gigawatt is actually like a drop in the bucket, right?
+[00:18:48] SPEAKER_04: Like a gigawatt is not a lot of power.
+[00:18:49] SPEAKER_04: 10 gigawatts is not an absurd amount of power, right?
+[00:18:53] SPEAKER_04: It's okay, yes, it's like hundreds of thousands of homes, right?
+[00:18:55] SPEAKER_04: Yeah, millions of people, but it's like, you got 1.4 billion people, you got most of the world's extremely energy intensive refining and rare earth refining and all these manufacturing industries are here.
+[00:19:09] SPEAKER_04: It would be very easy to hide it.
+[00:19:11] SPEAKER_04: Really?
+[00:19:11] SPEAKER_04: It would be very easy to just shut down.
+[00:19:13] SPEAKER_04: I think the largest aluminum mill in the world is there, and it's north of 5 gigawatts alone.
+[00:19:17] SPEAKER_04: It's like, oh, could we tell if they stopped making aluminum there and instead started making AIs there or making AI there?
+[00:19:25] SPEAKER_04: I don't know if we could tell, right?
+[00:19:27] SPEAKER_04: Because they could also just easily spawn 10 other aluminum mills, make up for the production, and be fine, right?
+[00:19:32] SPEAKER_04: So there's many ways for them to hide compute as well.
+[00:19:35] SPEAKER_01: to the extent that you could just take out a five gigawatt aluminum refining center and like build a giant data center there, then I guess the way to control Chinese AI has to be the chips, because like everything else they so like, how do you like, just like walk me through how many trips do they have now?
+[00:19:52] SPEAKER_01: How many will they have in the future?
+[00:19:53] SPEAKER_01: What will the like?
+[00:19:54] SPEAKER_01: How many is that in comparison to us and the rest of the world?
+[00:19:57] SPEAKER_04: Yeah, so in the world, I mean, the world we live in is they are not restricted at all in like the physical infrastructure side of things in terms of power, data centers, et cetera, because their supply chain is built for that, right?
+[00:20:07] SPEAKER_04: And it's pretty easy to pivot that, whereas the U.S.
+[00:20:10] SPEAKER_04: adds so little power each year, and Europe loses power every year, the Western sort of industry for power is non-existent in comparison, right?
+[00:20:20] SPEAKER_04: But on the flip side is, quote unquote, Western, including Taiwan, chip manufacturing is way, way, way, way, way larger than
+[00:20:27] SPEAKER_04: especially on leading edge where China theoretically has, depending on the way you look at it, either zero or a very small percentage share.
+[00:20:35] SPEAKER_04: And so there you have equipment, wafer manufacturing, and then you have advanced packaging capacity.
+[00:20:44] SPEAKER_04: And where the US can control China, right?
+[00:20:46] SPEAKER_04: So advanced packaging capacity is kind of a shot because the largest advanced packaging company in the world was Hong Kong headquartered.
+[00:20:53] SPEAKER_04: They just moved to Singapore, but that's effectively in a realm where the US can't sanction it, right?
+[00:20:59] SPEAKER_04: A majority of these other companies are in similar places, right?
+[00:21:03] SPEAKER_04: So advanced packaging capacity is very hard, right?
+[00:21:06] SPEAKER_04: Advanced packaging is useful for stacking memory, stacking chips on co-ops, right?
+[00:21:10] SPEAKER_04: Things like that.
+[00:21:11] SPEAKER_04: And then the step down is wafer fabrication.
+[00:21:14] SPEAKER_04: There is immense capability to restrict China there.
+[00:21:18] SPEAKER_04: And despite the US making some sanctions, China in the most recent quarters was like 48% of ASML's revenue, right?
+[00:21:25] SPEAKER_04: So, you know, and like 45% of like applied materials and you just go down the list.
+[00:21:30] SPEAKER_04: So it's like, obviously it's not being controlled that effectively, but it could be on the equipment side of things.
+[00:21:35] SPEAKER_04: The chip side of things is actually being controlled
+[00:21:38] SPEAKER_04: Quite effectively, I think, right?
+[00:21:39] SPEAKER_04: Yes, there is shipping GPUs through Singapore and Malaysia and other countries in Asia to China, but the amount you can smuggle is quite small.
+[00:21:49] SPEAKER_04: And then the sanctions have limited the chip performance to a point where it's like, this is actually kind of fair, but there is a problem with how everything is restricted, right?
+[00:21:59] SPEAKER_04: Because you want to be able to restrict China from building their own domestic chip manufacturing industry that is better than what we ship them.
+[00:22:07] SPEAKER_04: You want to prevent them from having chips that are better than what we have.
+[00:22:10] SPEAKER_04: And then you want to prevent them from having AIs better.
+[00:22:13] SPEAKER_04: The ultimate goal being, you know, and if you read the restrictions, like very clear, it's about AI.
+[00:22:18] SPEAKER_04: Yeah.
+[00:22:33] SPEAKER_04: you have to let them have at least some level of chip that is better than what they can build internally.
+[00:22:41] SPEAKER_04: But currently, the restrictions are flipped the other way, right?
+[00:22:44] SPEAKER_04: They can build better chips in China, then we restrict them in terms of chips that Nvidia or AMD or an Intel can sell to China.
+[00:22:52] SPEAKER_04: And so there's sort of a problem there in terms of the equipment that is shipped can be used to build chips that are better than what the Western companies can actually ship them.
+[00:23:01] SPEAKER_01: John Dylan seems to think the expert controls are kind of a failure.
+[00:23:04] SPEAKER_01: Do you do you agree with them or that is a very?
+[00:23:07] SPEAKER_05: Interesting question because I think it's like why thank you You're so good.
+[00:23:14] SPEAKER_05: Yeah, you're the best.
+[00:23:16] SPEAKER_05: I think it's I think failure is a tough word to say because I think it's like I
+[00:23:20] SPEAKER_05: what are we trying to achieve, right?
+[00:23:23] SPEAKER_05: They're talking about AI, right?
+[00:23:25] SPEAKER_05: When you do sanctions like that, you need such a deep knowledge of the technologies.
+[00:23:32] SPEAKER_04: You know, just taking lithography, right?
+[00:23:34] SPEAKER_04: If your goal is to restrict China from building chips and you just boil it down to like, hey, lithography is 30% of making a chip, so 25%.
+[00:23:41] SPEAKER_04: Cool, let's sanction lithography.
+[00:23:44] SPEAKER_04: Okay, where do we draw the line?
+[00:23:45] SPEAKER_04: Okay, let me ask, let me ask.
+[00:23:47] SPEAKER_04: Let me figure out where the line is.
+[00:23:49] SPEAKER_04: And if I'm a bureaucrat, if I'm a lawyer at the Commerce Department or what have you, well, obviously I'm going to go talk to ASML and ASML is going to tell me this is the line because they know like, hey, well, you know, this, this, this is, you know, there's like some blending over.
+[00:24:01] SPEAKER_04: There's like, they're like looking at like what's going to cost us the most money.
+[00:24:04] SPEAKER_04: Right.
+[00:24:04] SPEAKER_04: And then they constantly say, like, if you restrict us, then China will have their own industry.
+[00:24:08] SPEAKER_04: Right.
+[00:24:09] SPEAKER_04: And the way I like to look at it is like chip manufacturing is like like 3D chess or like, you know, a massive jigsaw puzzle in that if you take away one piece,
+[00:24:19] SPEAKER_04: China can be like, oh, yeah, that's the piece, let's put it in, right?
+[00:24:23] SPEAKER_04: And currently, this export restrictions, year by year by year, they keep updating them.
+[00:24:28] SPEAKER_04: Ever since like 2018 or so, 19, right, when Trump started, and now Biden's accelerated them, they've been like, they haven't just like take a bat to the table and like break it, right?
+[00:24:37] SPEAKER_04: Like it's like, let's take one jigsaw puzzle out, walk away, oh shit, let's take two more out.
+[00:24:43] SPEAKER_04: oh shit, right?
+[00:24:44] SPEAKER_04: Like, you know, it's like instead if they like, you either have to go kind of like full back to the fricking like table slash wall or chill out, right?
+[00:24:54] SPEAKER_04: Like, and like, you know, let them do whatever they want.
+[00:24:56] SPEAKER_04: Cause the alternative is everything is focused on this thing and they make that.
+[00:25:01] SPEAKER_04: And then now when you take out another two pieces, like, well, I have my domestic industry for this.
+[00:25:05] SPEAKER_04: I can also now make a domestic industry for these.
+[00:25:07] SPEAKER_04: Like you go deeper into the tech tree or what have you.
+[00:25:09] SPEAKER_05: It's a very, it's art, right?
+[00:25:11] SPEAKER_05: In a sense that,
+[00:25:13] SPEAKER_05: there are technologies out there that can compensate.
+[00:25:15] SPEAKER_05: Like, if you believe, the belief that lithography is a linchpin within the system is, it's not exactly true, right?
+[00:25:23] SPEAKER_05: At some point, if you keep pulling, keep pulling a thread, other things will start developing to kind of close that loop.
+[00:25:30] SPEAKER_05: And like, I think it's, it is, that's why I say it's an art, right?
+[00:25:33] SPEAKER_05: I don't think it can stop Chinese semiconductor industry, the semiconductor industry from progressing.
+[00:25:38] SPEAKER_05: I think that's basically impossible.
+[00:25:40] SPEAKER_05: So the question is, the Chinese government believes in the primacy of semiconductor manufacturing.
+[00:25:48] SPEAKER_05: They believed it for a long time, but now they really believe it, right?
+[00:25:51] SPEAKER_04: To some extent, the sanctions have made China believe in the importance of the semiconductor industry more than anything else.
+[00:25:58] SPEAKER_01: So from an AI perspective, what's the point of export controls then?
+[00:26:01] SPEAKER_01: Because even if they're going to be able to get these, if you're concerned about AI, and they're going to be able to build- Well, they're not centralized though.
+[00:26:08] SPEAKER_04: Right?
+[00:26:08] SPEAKER_04: So that's the big question is are they centralized?
+[00:26:11] SPEAKER_04: And then also, you know, there's the belief.
+[00:26:12] SPEAKER_04: I don't really, I'm not sure if I really believe it, but like, you know, prior podcasts, there have been people who talked about nationalization, right?
+[00:26:18] SPEAKER_04: In which case, okay, now you're talking about- Why are you referring to this ambiguously?
+[00:26:23] SPEAKER_01: Well, I think there's a couple- My opponent.
+[00:26:25] SPEAKER_04: No, I love-
+[00:26:28] SPEAKER_04: No, but I think there have been a couple where people have talked about the nationalization, right?
+[00:26:32] SPEAKER_04: But like if you have, you know nationalization then all of a sudden you aggregate all the flops.
+[00:26:36] SPEAKER_04: It's like now there's no fucking way, right?
+[00:26:37] SPEAKER_04: Yeah, China can be centralized enough to compete with each individual US lab They could have just as many flops in 25 and 26 if they decided they were scale built right just from foreign chips
+[00:26:49] SPEAKER_01: for an individual model.
+[00:26:50] SPEAKER_01: And like in 2026, they can train a 1E27, like they can release a 1E27 model by 2026.
+[00:26:56] SPEAKER_04: Yeah, and then a 28 model, you know, 1E28 model in the works, right?
+[00:26:59] SPEAKER_04: Like, they totally could just with foreign chip supply, right?
+[00:27:02] SPEAKER_04: Just a question of centralization.
+[00:27:03] SPEAKER_04: Then the question is like, do you have as much innovation and compute efficiency wins or what have you get developed when you centralize?
+[00:27:09] SPEAKER_04: Or does like Anthropic and OpenAI and XAI and Google like all develop things and then like,
+[00:27:16] SPEAKER_04: secrets kind of shift a little bit in between each other and all that, like, you know, you end up with that being a better outcome in the long term, versus like the nationalization of the US, right?
+[00:27:25] SPEAKER_04: If that's possible, and like, or, you know, and what happens there, but China could absolutely have it in 2627, if they just have the desire to, and that's just from foreign chips, right?
+[00:27:36] SPEAKER_04: And then domestic chips are the other question, right?
+[00:27:39] SPEAKER_04: 600,000 of the Ascend 910B, which is roughly like 400 teraflops or so.
+[00:27:47] SPEAKER_04: So if they put them all in one cluster, they could have a bigger model than any of the labs next year.
+[00:27:53] SPEAKER_04: Right?
+[00:27:54] SPEAKER_04: I have no clue where all the send 910 bees are going.
+[00:27:56] SPEAKER_04: Right.
+[00:27:57] SPEAKER_04: But I mean, well, there's like rumors about like, some they are being divvied up between the like, major Alibaba, ByteDance, Baidu, etc.
+[00:28:04] SPEAKER_04: And next year, more than a million, and it's possible that they actually do have, you know, one e30 before the US because data center is not as big of an issue.
+[00:28:12] SPEAKER_04: 10 gigawatt data center is going to be I don't
+[00:28:16] SPEAKER_04: think anyone is even trying to build that today in the US, even out to 27, 28.
+[00:28:19] SPEAKER_04: Really, they're focusing on linking many data centers together.
+[00:28:23] SPEAKER_04: So there's a possibility that, hey, come 2028, 2029, China can have more flops delivered to a single model, even once the centralization question is solved, right?
+[00:28:35] SPEAKER_04: Because that's clearly not happening today for either party.
+[00:28:38] SPEAKER_04: And I would bet if AI is as
+[00:28:41] SPEAKER_04: important is, you know, you and I believe that they will centralize sooner than the West does.
+[00:28:47] SPEAKER_04: Yeah.
+[00:28:47] SPEAKER_04: Um, so, so there is a possibility, right?
+[00:28:49] SPEAKER_01: Yeah.
+[00:28:50] SPEAKER_01: It seems like a big question then is how much could SMIC either increase the product, like increase the amount of wafers, like how many more wafers could they make and how many of those wafers could be dedicated to the night?
+[00:29:01] SPEAKER_01: Cause like, I assume there's other things they want to do with these semi
+[00:29:03] SPEAKER_04: Yeah, so there's like two points, parts there too, right?
+[00:29:06] SPEAKER_04: So the way the US has sanctioned SMIC is really stupid, kind of, in that they've sanctioned a specific spot rather than the entire company.
+[00:29:15] SPEAKER_04: And so therefore, right, SMIC is still buying a ton of tools that can be used for their 7 nanometer and their, call it 5.5 nanometer process or 6 nanometer process for the 910C, which releases later this year, right?
+[00:29:27] SPEAKER_04: They can build as much of that as long as it's not in Shanghai.
+[00:29:31] SPEAKER_04: And Shanghai has anywhere from 45 to 50 high-end immersion lithography tools, is what's believed by intelligence as well as many other folks.
+[00:29:44] SPEAKER_04: That roughly gives them as much as 60,000 wafers a month of seven nanometer, but they also make their 14 nanometer in that fab, right?
+[00:29:53] SPEAKER_04: And so the belief is that they actually only have about 25 to 35,000 of seven nanometer capacity wafers a month, right?
+[00:30:00] SPEAKER_04: Doing the math, right, of the chip die size and all these things, because Tupelo also uses chiplets and stuff so they can get away with using less leading edge wafers, but then their yields are bad.
+[00:30:11] SPEAKER_04: You can roughly say something like 50 to 80 good chips per wafer with their bad yield, right?
+[00:30:19] SPEAKER_04: With their bad yield.
+[00:30:20] SPEAKER_04: Why do they have bad yield?
+[00:30:21] SPEAKER_04: because it's hard, right?
+[00:30:22] SPEAKER_05: You know, you're- Even if it was like, you know, everyone knows the number, right?
+[00:30:27] SPEAKER_05: So like if it's a thousand steps, even if you're 99% for each, like 98 or 99%, like in the end, you'll still get a 40% yield overall.
+[00:30:34] SPEAKER_04: Interesting.
+[00:30:34] SPEAKER_04: I think it's like, even if it's like 99, if I think it's like, I think it's, if it's six sigma of like, or of like perfection and you have your 10,000 plus steps, you end up with like, yield is still dog shit by the end, right?
+[00:30:46] SPEAKER_04: Like, yeah.
+[00:30:47] SPEAKER_04: That is a scientific measure, dog shit percent.
+[00:30:51] SPEAKER_04: Yeah, yeah, as a multiplicative effect, right?
+[00:30:55] SPEAKER_04: So, yields are bad because they have hands tied behind their back, right?
+[00:31:01] SPEAKER_04: They are not getting to use EUV, whereas on 7 nanometer Intel never used EUV, but TSMC eventually started using EUV.
+[00:31:09] SPEAKER_04: Initially, they used DUV, right?
+[00:31:10] SPEAKER_01: Doesn't that mean the expert control succeeded?
+[00:31:12] SPEAKER_01: Because they have bad yield because they have to use like- Successes, again, they still are determined.
+[00:31:19] SPEAKER_05: Successes mean they stop.
+[00:31:21] SPEAKER_05: They're not stomping.
+[00:31:22] SPEAKER_04: Going back to the yield question, right?
+[00:31:23] SPEAKER_04: Like, oh, theoretically 60,000 wafers a month times 50 to 100 dies per wafer with yielded dies.
+[00:31:31] SPEAKER_04: Holy shit, that's millions of GPUs, right?
+[00:31:34] SPEAKER_04: Now, what are they doing with most of their wafers?
+[00:31:35] SPEAKER_04: They still have not become skill-filled, so they're still throwing them out like, let's make 200 million Huawei phones.
+[00:31:40] SPEAKER_04: Right, like, oh, OK, cool.
+[00:31:41] SPEAKER_04: I don't care.
+[00:31:42] SPEAKER_04: Right.
+[00:31:42] SPEAKER_04: Like as the West, you don't care as much, even though like Western companies will get screwed, like Qualcomm and like, you know, and MediaTek Taiwanese companies.
+[00:31:50] SPEAKER_04: So so obviously there's that.
+[00:31:52] SPEAKER_04: And the same applies to the US.
+[00:31:53] SPEAKER_04: But when you when you flip to like
+[00:31:58] SPEAKER_04: Sorry, I don't fucking know what I was gonna say.
+[00:32:02] SPEAKER_02: Nailed it!
+[00:32:04] SPEAKER_01: We're keeping this in.
+[00:32:05] SPEAKER_03: That's fine, that's fine, that's fine.
+[00:32:06] SPEAKER_01: Hey everybody, I am super excited to introduce our new sponsors, Jane Street.
+[00:32:11] SPEAKER_01: They're one of the world's most successful trading firms.
+[00:32:14] SPEAKER_01: I have a bunch of friends who either work there now or have worked there in the past, and I have very good things to say about those friends, and those friends have very good things to say about Jane Street.
+[00:32:24] SPEAKER_01: Jane Street is currently looking to hire its next generation of leaders.
+[00:32:29] SPEAKER_01: As I'm sure you've noticed, recent developments in AI have totally changed what's possible in trading.
+[00:32:35] SPEAKER_01: They've noticed this too, and they've stacked a scrappy, chaotic new team with tens of millions of dollars of GPUs to discover signal that nobody else in the world can find.
+[00:32:45] SPEAKER_01: Most new hires have no background in trading or finance.
+[00:32:49] SPEAKER_01: Instead, they come from math, CS, physics, and other technical fields.
+[00:32:54] SPEAKER_01: Of particular relevance to this episode, their deep learning team is hiring CUDA programmers, FPGA programmers, and ML researchers.
+[00:33:03] SPEAKER_01: Go to janesstreet.com slash Dwarkesh to learn more.
+[00:33:08] SPEAKER_01: And now back to Dylan and John.
+[00:33:09] SPEAKER_01: 2026, if they're centralized, they can have as big training runs as any one US company.
+[00:33:17] SPEAKER_04: Oh, the reason why I was bringing up Shanghai, they're building seven nanometer capacity in Beijing.
+[00:33:22] SPEAKER_04: They're building five nanometer capacity in Beijing, but the US government doesn't care.
+[00:33:25] SPEAKER_04: And they're importing dozens of tools into Beijing.
+[00:33:28] SPEAKER_04: And they're saying to the US government in ASML, this is for 28 nanometer, obviously, right?
+[00:33:32] SPEAKER_04: This is not bad.
+[00:33:33] SPEAKER_04: And then obviously, you know, like in the background, yeah, we're making five nanometer here.
+[00:33:37] SPEAKER_01: Are they doing it because they believe in AI or because they want to make Huawei phones?
+[00:33:41] SPEAKER_04: Huawei was the largest TSMC customer for a few quarters, actually, before they got sanctioned.
+[00:33:46] SPEAKER_04: Huawei makes most of the telecom equipment in the world, right?
+[00:33:50] SPEAKER_04: Phones, of course, modems, but of course, accelerators, networking equipment.
+[00:33:54] SPEAKER_04: You go down the whole video surveillance chips, right?
+[00:33:57] SPEAKER_04: You kind of go through the whole gambit.
+[00:33:59] SPEAKER_04: A lot of that could use seven and five nanometer.
+[00:34:01] SPEAKER_04: Do you think the dominance of Huawei is actually a bad thing for the rest of the Chinese tech industry?
+[00:34:07] SPEAKER_04: I think Huawei is so fucking cracked
+[00:34:10] SPEAKER_04: that like, it's hard to say that, right?
+[00:34:12] SPEAKER_04: Like Huawei outcompetes Western firms regularly with two hands tied behind their back.
+[00:34:18] SPEAKER_04: Like, you know, like, what the hell is Nokia and like Sony Ericsson, like trash, right?
+[00:34:24] SPEAKER_04: Like compared to Huawei and Huawei is not allowed to ship, sell to like European companies or American companies and they don't have TSMC and yet they still destroy them, right?
+[00:34:34] SPEAKER_04: And same applies to like the new phone, right?
+[00:34:37] SPEAKER_04: It's like, oh, it's like as good as like a year old Qualcomm phone on a process node that's equivalent to like four years old, right?
+[00:34:43] SPEAKER_04: Or three years old.
+[00:34:44] SPEAKER_04: So it's like,
+[00:34:45] SPEAKER_04: Wait, so they actually out-engineered us with a worst process node.
+[00:34:47] SPEAKER_04: You know, so it's like, oh, wow, okay.
+[00:34:50] SPEAKER_04: Like, you know, Holloway is like crazy cracked.
+[00:34:52] SPEAKER_05: Why do you think that culture comes from?
+[00:34:55] SPEAKER_04: The military, because it's the PLA.
+[00:34:56] SPEAKER_05: It is.
+[00:34:58] SPEAKER_05: It is generally seen as an arm of the PLA.
+[00:35:00] SPEAKER_05: But like,
+[00:35:02] SPEAKER_05: How do you square that with the fact that sometimes the PLA seems to mess stuff up?
+[00:35:08] SPEAKER_05: Oh, like filling water in rockets?
+[00:35:10] SPEAKER_05: I don't know if that was true.
+[00:35:11] SPEAKER_05: I'm not denying it.
+[00:35:13] SPEAKER_04: There is like that crazy conspiracy.
+[00:35:16] SPEAKER_04: You don't know what the hell to believe in China, especially as a not Chinese person.
+[00:35:21] SPEAKER_04: Even Chinese people don't know what's going on in China.
+[00:35:23] SPEAKER_04: There's all sorts of stuff like, oh, they're filling water in their rockets.
+[00:35:26] SPEAKER_04: Clearly, they're incompetent.
+[00:35:27] SPEAKER_04: It's like, look, if I'm the Chinese military, I want the Western world to believe I'm completely incompetent, because one day, I can just destroy the fuck out of everything, right, with all these hypersonic missiles and all this shit, right, like drones.
+[00:35:40] SPEAKER_04: Like, no, no, no, no, we're filling water in our missiles.
+[00:35:42] SPEAKER_04: These are all fake.
+[00:35:43] SPEAKER_04: We don't actually have 100,000 missiles that we manufacture in a facility that's super hyper-advanced and Raytheon is stupid as shit because they can't make missiles nearly as fast.
+[00:35:52] SPEAKER_04: Right?
+[00:35:53] SPEAKER_04: Like, I think like that's also like a flip side is like how much false propaganda is there?
+[00:35:57] SPEAKER_04: Right?
+[00:35:57] SPEAKER_04: Because there's a lot of like, no, Smith could never Smith could never they don't have the best tools, blah, blah, blah.
+[00:36:02] SPEAKER_04: And then it's like,
+[00:36:04] SPEAKER_04: Motherfucker, they just shipped 60 million phones last year with this chip that performs only one year worse than like what Qualcomm has.
+[00:36:09] SPEAKER_04: It's like, proof is in the pudding, right?
+[00:36:12] SPEAKER_04: Like, you know, there's a lot of like cope, if you will.
+[00:36:16] SPEAKER_05: I just wonder where it comes from.
+[00:36:17] SPEAKER_05: I do really do just wonder where that culture comes from.
+[00:36:20] SPEAKER_05: Like there's something crazy about them where they're kind of like everything they touch, they seem to succeed in.
+[00:36:25] SPEAKER_05: And like, I kind of wonder why.
+[00:36:26] SPEAKER_05: They're making cars.
+[00:36:27] SPEAKER_05: I wonder if it's good on there.
+[00:36:29] SPEAKER_05: I think, like, if, like, supposedly, like, if we kind of imagine, like, historically, like, do you think they're getting something from somewhere?
+[00:36:35] SPEAKER_05: What do you mean?
+[00:36:36] SPEAKER_05: Espionage, you mean?
+[00:36:38] SPEAKER_01: Yeah.
+[00:36:38] SPEAKER_05: Well, obviously.
+[00:36:39] SPEAKER_05: Like, East Germany and the Soviet industry was basically, it was like a conveyor belt of, like, secrets coming in, and they just used that to run everything.
+[00:36:46] SPEAKER_05: But the Soviets were never good at it.
+[00:36:48] SPEAKER_05: They could never mass produce it.
+[00:36:49] SPEAKER_01: How would espionage explain how they can make things with different processes?
+[00:36:53] SPEAKER_04: I don't think it's just espionage.
+[00:36:55] SPEAKER_01: I think they're just, like, literally crack.
+[00:36:56] SPEAKER_01: It has to be something else.
+[00:36:57] SPEAKER_04: They have the espionage.
+[00:36:58] SPEAKER_04: without a doubt, right?
+[00:36:59] SPEAKER_04: Like, ASML has been known to have been hacked a dozen times, right?
+[00:37:03] SPEAKER_04: Or at least a few times, right?
+[00:37:04] SPEAKER_04: And they've been known to have people sued who made it to China with a bunch of documents, right?
+[00:37:09] SPEAKER_04: Not just ASML, but every fucking company in the supply chain.
+[00:37:11] SPEAKER_04: Cisco Code was literally in, like, early Huawei routers and stuff, right?
+[00:37:15] SPEAKER_04: Like, you go down the list, it's like, everything is, but then it's like, no, architecturally, the Ascend 910B looks nothing like a GPU.
+[00:37:21] SPEAKER_04: It looks nothing like a TPU.
+[00:37:22] SPEAKER_04: It is like its own independent thing.
+[00:37:24] SPEAKER_01: sure they probably learned some things from some places but like it is just like they're good at engineering it's 996 like wherever that culture come from they they they do good yeah they do very good i mean well another thing i'm curious about is like yeah where their culture comes from but like how does it stay there because
+[00:37:40] SPEAKER_01: with American firms or any other firm, you can have a company that's very good, but over time it gets worse, right?
+[00:37:45] SPEAKER_01: Like Intel or many others.
+[00:37:47] SPEAKER_01: I guess Huawei just isn't that old of a company, but like, it's hard to like be a big company and like stay good.
+[00:37:53] SPEAKER_01: That is true.
+[00:37:54] SPEAKER_05: I think it's like, I think it's like, but I think a lot, a word that I hear a lot in, with regards to Huawei is a struggle, right?
+[00:38:01] SPEAKER_05: And China has a culture of like, the Communist Party is like really big on struggle.
+[00:38:05] SPEAKER_05: I think like Huawei in the sense they sort of,
+[00:38:08] SPEAKER_05: brought that culture into the way they do it.
+[00:38:11] SPEAKER_05: Like you said before, right?
+[00:38:14] SPEAKER_05: They go crazy because they think that in five years that they're going to fight the United States.
+[00:38:18] SPEAKER_05: And literally everything they do, every second is like their country depends on it.
+[00:38:23] SPEAKER_04: It's like it's the Andy Grovian mindset, right?
+[00:38:26] SPEAKER_04: Like shout out to like the based Intel, but like only the paranoid survive, right?
+[00:38:29] SPEAKER_04: Like paranoid Western companies do well.
+[00:38:32] SPEAKER_04: Why did Google like really screw the pooch on a lot of stuff?
+[00:38:35] SPEAKER_04: And then why are they like resurging kind of now is because they got paranoid as hell.
+[00:38:38] SPEAKER_04: Right, but they weren't paranoid for a while If Huawei is just constantly paranoid about like the external world and like oh fuck we're gonna die Oh fuck like, you know, they're gonna beat us Our country depends on it We're gonna get the best people from the entire country that are like, you know The best at whatever they do and tell them you will if you do not succeed
+[00:38:58] SPEAKER_05: You will die.
+[00:38:59] SPEAKER_05: Not you will die, but our country.
+[00:39:00] SPEAKER_05: Your family will die.
+[00:39:01] SPEAKER_05: Your family will be enslaved and everything.
+[00:39:02] SPEAKER_05: It will be terrible.
+[00:39:03] SPEAKER_05: By the evil Western pigs, right?
+[00:39:05] SPEAKER_05: Exactly.
+[00:39:06] SPEAKER_05: Capitalist, not capitalist.
+[00:39:07] SPEAKER_05: They don't believe in capitalism.
+[00:39:08] SPEAKER_05: They don't say that anymore.
+[00:39:09] SPEAKER_05: But it's more like, you know, everyone is against China.
+[00:39:12] SPEAKER_05: China is being defiled.
+[00:39:16] SPEAKER_05: And they're saying, that is all on you, bro.
+[00:39:19] SPEAKER_04: If you can't do that, then you... If you can't get that fucking radio to be slightly less noisy and transmit 5% more data, we are fucked.
+[00:39:28] SPEAKER_05: It's like the Great Palace Fire all over again.
+[00:39:30] SPEAKER_05: The British are coming and they will steal all the trinkets and everything.
+[00:39:34] SPEAKER_05: That's on you.
+[00:39:36] SPEAKER_01: Why isn't there more vertical integration in the semiconductor industry?
+[00:39:39] SPEAKER_01: Why are there like, this subcomponent requires this other subcomponent from this other company, which requires a subcomponent from another company.
+[00:39:45] SPEAKER_01: Why is more of it not done in-house?
+[00:39:46] SPEAKER_04: The way to look at it today is it's super, super stratified and every industry has anywhere from one to three competitors.
+[00:39:53] SPEAKER_04: And pretty much the most competitive it gets is like 70% share, 25% share, 5% share in any layer of like manufacturing chips, anything, anything, chemicals, different types of chips.
+[00:40:05] SPEAKER_04: But it used to be vertically integrated.
+[00:40:07] SPEAKER_05: Or the very beginning it was integrated, right?
+[00:40:10] SPEAKER_05: Where did that stop?
+[00:40:11] SPEAKER_05: what happened was, you know, the funniest thing was like, you know, you had companies that used to do it all in the one.
+[00:40:17] SPEAKER_05: And then suddenly, sometimes a guy would be like, I hate this.
+[00:40:20] SPEAKER_05: I think I know, I know how to do better.
+[00:40:22] SPEAKER_05: Spins off, does his own thing, starts his company, goes back to his old company, says, I can sell you a product that's better, right?
+[00:40:27] SPEAKER_05: And that's the beginning of what we call the semiconductor manufacturing and equipment industry.
+[00:40:31] SPEAKER_05: Like basically- Like in the 70s, right?
+[00:40:33] SPEAKER_04: Like everyone made their own equipment.
+[00:40:34] SPEAKER_05: 60s and 70s, like you spin off all these people.
+[00:40:36] SPEAKER_05: And then what happened was that the companies that accepted
+[00:40:39] SPEAKER_05: you know, these outside products and equipment got better stuff.
+[00:40:43] SPEAKER_05: They did better.
+[00:40:44] SPEAKER_05: Like, you can talk about a whole bunch, like, there are companies that were totally vertically integrated in semiconductor manufacturing for decades, and they are, they're still good, but they're nowhere near competitive.
+[00:40:53] SPEAKER_01: One thing I'm confused about is, like, the actual foundries themselves, there's, like, fewer and fewer of them every year, right?
+[00:40:58] SPEAKER_01: So, there's, like, maybe more companies overall, but, like, the, like, the final people, like, who make the, make the wafers, there's less and less.
+[00:41:07] SPEAKER_01: And then it's interesting in a way it's similar to like the AI foundation models where you need to use like the revenues from like a previous model in order or like your market share to like fund the next round of ever more expensive development.
+[00:41:23] SPEAKER_05: When TSMC launched the foundry industry, right, and when they started, there was a whole wave of like Asian companies that funded semiconductor foundries of their own.
+[00:41:32] SPEAKER_05: You had Malaysia with Subterra, you have Singapore with Chartered, you had, uh, there was one, there's Worldwide, there's Worldwide Semiconductor where I talked about earlier, there's one from Hong Kong, Bunch in Japan, Bunch in Japan, like they all sort of
+[00:41:43] SPEAKER_05: did this thing, right?
+[00:41:45] SPEAKER_05: And I think the thing was that when you're going to leading edge, when the thing is that, like, it got harder and harder, which means that you had to aggregate more demand from all the customers to fund the next node, right?
+[00:41:56] SPEAKER_05: So technically, in the sense that what it's kind of do is aggregating all this money, all this profit to kind of fund this next node to the point where now, like, there's no room in the market for an N2 or N3.
+[00:42:07] SPEAKER_05: Like, technically, you could argue that
+[00:42:11] SPEAKER_05: Economically, you can make an argument that like N2 is a monstrosity that doesn't make sense.
+[00:42:16] SPEAKER_05: Economically, it should not exist in some ways without the immense single concentrated spend of like five players in the market.
+[00:42:25] SPEAKER_04: I'm sorry to like completely derail you, but like there's this video where it's like there's an unholy concoction of meat slurry.
+[00:42:32] SPEAKER_04: Yes!
+[00:42:33] SPEAKER_06: What?
+[00:42:35] SPEAKER_04: So there's like a video that's like ham is disgusting.
+[00:42:37] SPEAKER_04: It's an unholy concoction of like meat with no bones or collagen I'm like, I don't know like to use like the way he was describing two nanometers kind of like that, right?
+[00:42:46] SPEAKER_05: It's like the guy who pumps his right arm so much and he's like not super muscular
+[00:42:51] SPEAKER_05: The human body was not meant to be so muscular!
+[00:42:55] SPEAKER_01: What's the point?
+[00:42:56] SPEAKER_01: Like, why is 2 nanometer not justified?
+[00:42:57] SPEAKER_05: I'm not saying N2 as, like, N2 specifically, but say N2 as a concept.
+[00:43:01] SPEAKER_05: The next node should technically, like, right now,
+[00:43:06] SPEAKER_05: There will come a point where, economically, the next node will not be possible.
+[00:43:10] SPEAKER_05: Like, at all, right?
+[00:43:11] SPEAKER_04: Unless more, you know, technologies spawn.
+[00:43:12] SPEAKER_04: Like, AI now makes, you know, one nanometer or whatever.
+[00:43:15] SPEAKER_04: There was a long period of 16a.
+[00:43:17] SPEAKER_00: Yeah, yeah.
+[00:43:18] SPEAKER_04: Viable, right?
+[00:43:18] SPEAKER_04: So, like, right before AI spawned.
+[00:43:20] SPEAKER_01: Is it viable?
+[00:43:20] SPEAKER_04: As in, like, it makes it worth it?
+[00:43:23] SPEAKER_04: So, every two years, you get a shrink, right?
+[00:43:25] SPEAKER_04: Yeah.
+[00:43:26] SPEAKER_04: Like, clockwork, Moore's law.
+[00:43:28] SPEAKER_04: And then, five nanometer happened.
+[00:43:30] SPEAKER_04: It took three years, holy shit.
+[00:43:33] SPEAKER_04: And then 3nm happened, it took three, or no, sorry, is it 3nm or 5nm?
+[00:43:35] SPEAKER_04: It took three years.
+[00:43:37] SPEAKER_04: Holy shit, like, is Moore's Law dead, right?
+[00:43:39] SPEAKER_04: Like, because TSMC didn't, and then what did Apple do?
+[00:43:42] SPEAKER_04: Even on the third year of, sorry, when 3nm finally launched, they still only, Apple only moved half of the iPhone volume to 3nm.
+[00:43:51] SPEAKER_04: So this is like, now they did a fourth year of 5nm for a big chunk of iPhones.
+[00:43:57] SPEAKER_04: And it's like, oh, is the mobile industry petering out?
+[00:44:00] SPEAKER_04: Then you look at 2 nanometer, and it's going to be a similar, very difficult thing for the industry to pay for this, right?
+[00:44:06] SPEAKER_04: Apple, of course, because they get to make the phone, they have so much profit that they can funnel into more and more expensive chips.
+[00:44:12] SPEAKER_04: But finally, that was running out, right?
+[00:44:16] SPEAKER_04: How economically viable is 2 nanometer just for one player, TSMC?
+[00:44:20] SPEAKER_04: Ignore Intel, ignore Samsung.
+[00:44:22] SPEAKER_04: just because Samsung is paying for it with memory, not with their actual profit.
+[00:44:26] SPEAKER_04: And then Intel is paying it from their former CPU monopoly.
+[00:44:31] SPEAKER_04: Private equity money.
+[00:44:32] SPEAKER_04: And now private equity money and debt and subsidies.
+[00:44:36] SPEAKER_05: And laid off people's salaries.
+[00:44:37] SPEAKER_04: Yeah.
+[00:44:37] SPEAKER_04: But anyways, there's a strong argument that
+[00:44:42] SPEAKER_04: funding the next node would not be economically viable anymore if it weren't for AI taking off, right?
+[00:44:48] SPEAKER_04: And then generating all this humongous demand for the most leading edge chip.
+[00:44:51] SPEAKER_01: So how big is the difference between 7 to 5 to 3 nanometers?
+[00:44:56] SPEAKER_01: Is it a huge deal in terms of who can build the biggest cluster?
+[00:45:00] SPEAKER_04: So there's this simplistic argument that like, oh, moving a process node only saves me X percent in power, right?
+[00:45:06] SPEAKER_04: And that has been petering out, right?
+[00:45:09] SPEAKER_04: When you move from like 90 nanometer to 80 something, right?
+[00:45:12] SPEAKER_04: Or 70 something, right?
+[00:45:13] SPEAKER_04: It was like, oh, you got 2X, right?
+[00:45:15] SPEAKER_04: Dennard scaling was still intact.
+[00:45:17] SPEAKER_04: But now when you move from 5 nanometer to 3 nanometer, first of all, you don't double density.
+[00:45:21] SPEAKER_04: S-RAM doesn't scale at all.
+[00:45:23] SPEAKER_04: Logic does scale, but it's like 30%.
+[00:45:25] SPEAKER_04: So all in all, you only save like 20% in power per transistor.
+[00:45:29] SPEAKER_04: But because of data locality and movement of data, you actually get a much larger improvement in power efficiency by moving to the next node than just the individual transistor's power efficiency benefit.
+[00:45:40] SPEAKER_04: Because, for example, you're multiplying a matrix that's like,
+[00:45:44] SPEAKER_04: 8,000 by 8,000 by 8,000, and then you can't fit that all on one chip.
+[00:45:47] SPEAKER_04: But if you could fit more and more, you have to move off chip less, you have to go to memory less, etc., right?
+[00:45:52] SPEAKER_04: So the data locality helps a lot too.
+[00:45:54] SPEAKER_04: But the AI really, really, really wants new processed nodes because of, A, power used is a lot less now.
+[00:46:03] SPEAKER_04: Higher density, higher performance, of course.
+[00:46:05] SPEAKER_04: But the big deal is, well, if I have a gigawatt data center, I can now, how much more flops can I get?
+[00:46:09] SPEAKER_04: If I have two gigawatt data center, how much more flops can I get?
+[00:46:12] SPEAKER_04: If I have a 10 gigawatt data center, how much more flops can I get, right?
+[00:46:14] SPEAKER_04: And like you look at the scaling, it's like, well, no, everyone needs to go to the most recent process node as soon as possible.
+[00:46:20] SPEAKER_01: I want to ask the normie question for like everybody's, I want to phrase it that way.
+[00:46:25] SPEAKER_01: Okay.
+[00:46:25] SPEAKER_01: I want to ask a question that's like- Fucking normie.
+[00:46:28] SPEAKER_01: Not for you nerds.
+[00:46:32] SPEAKER_04: I think John and I could communicate to the point where you wouldn't even know what the fuck we're talking about.
+[00:46:38] SPEAKER_01: Okay, suppose Taiwan is invaded or Taiwan has an earthquake, nothing is shipped out of Taiwan from now on.
+[00:46:47] SPEAKER_01: What happens next?
+[00:46:48] SPEAKER_01: The rest of the world, how would it feel its impact?
+[00:46:50] SPEAKER_01: A day in, a weekend, a month in, a year in?
+[00:46:52] SPEAKER_01: I mean, it's a terrible thing.
+[00:46:54] SPEAKER_05: It's a terrible thing to talk about.
+[00:46:56] SPEAKER_05: I think it's like,
+[00:46:57] SPEAKER_05: Can you just say it's all terrible?
+[00:46:59] SPEAKER_05: Everything's terrible?
+[00:47:00] SPEAKER_05: Because it's not just leading edge.
+[00:47:01] SPEAKER_05: Leading edge, people will focus on leading edge.
+[00:47:03] SPEAKER_05: But there's a lot of trailing edge stuff that people depend on every day.
+[00:47:07] SPEAKER_05: I mean, we all worry about AI.
+[00:47:09] SPEAKER_05: The reality is you're not going to get your fridge.
+[00:47:11] SPEAKER_05: You're not going to get your cars.
+[00:47:12] SPEAKER_05: You're not going to get everything.
+[00:47:13] SPEAKER_05: It's terrible.
+[00:47:13] SPEAKER_05: And then there's the human part of it, right?
+[00:47:15] SPEAKER_05: It's all terrible.
+[00:47:17] SPEAKER_05: It's depressing.
+[00:47:18] SPEAKER_04: I think- And I live there.
+[00:47:20] SPEAKER_06: Yeah.
+[00:47:20] SPEAKER_04: I think day one, market crashes a lot, right?
+[00:47:23] SPEAKER_04: You gotta think about like, I think the big six biggest companies, Magnificent, Seven, whatever that gets called, are like 60, 75% of the S&P 500, and their entire business relies on chips, right?
+[00:47:35] SPEAKER_04: Google, Microsoft, Apple, Nvidia, you go down the list, right?
+[00:47:39] SPEAKER_04: They're all meta, right?
+[00:47:40] SPEAKER_04: They all entirely rely on AI.
+[00:47:44] SPEAKER_04: And you would have a tech reset, like extremely insane tech reset, by the way, right?
+[00:47:49] SPEAKER_04: So market would crash a week, a day in, a couple of weeks in, right?
+[00:47:53] SPEAKER_04: People are preparing now.
+[00:47:54] SPEAKER_04: People are like, oh shit, let's start building fabs.
+[00:47:56] SPEAKER_04: Fuck all the environmental stuff.
+[00:47:58] SPEAKER_04: War's probably happening.
+[00:48:00] SPEAKER_04: But the supply chain is trying to figure out what the hell to do to refix it.
+[00:48:04] SPEAKER_04: But six months in?
+[00:48:06] SPEAKER_04: Disapply of chips for making new cars gone or sequestered to make military shit, right?
+[00:48:12] SPEAKER_04: You can no longer make cars And we don't even know how to make non Semiconductor induced cars right like this unholy concoction with all these like chips, right?
+[00:48:21] SPEAKER_04: You are is like 40% chips now.
+[00:48:23] SPEAKER_04: It's like it's just chips on in the tire There's like there's like 2,000 plus chips, right?
+[00:48:28] SPEAKER_04: Yeah, every Tesla door handle has like four chips in it It's like what the fuck like why?
+[00:48:33] SPEAKER_04: But it's like shitty microcontrollers and stuff, but there's like 2,000 plus chips even in an ICE vehicle, like internal combustion engine vehicle, right?
+[00:48:41] SPEAKER_04: And every engine has dozens of dozens of chips, right?
+[00:48:43] SPEAKER_04: Anyways, this all shuts down because not all of the production, there's some in Europe, there's some in the US, there's some in Japan, there's some in Singapore.
+[00:48:50] SPEAKER_04: Yeah, they're gonna bring in a guy to work on Saturday until four.
+[00:48:54] SPEAKER_04: Yeah, yeah.
+[00:48:54] SPEAKER_04: I mean, yeah.
+[00:48:56] SPEAKER_04: So you have like, TSMC always builds new fabs.
+[00:48:59] SPEAKER_04: That old fab, they tweak production up a little bit more and more, and new designs move to the next, next, next node, and old stuff fills in the old nodes, right?
+[00:49:07] SPEAKER_04: So, you know, ever since TSMC has been the most important player,
+[00:49:11] SPEAKER_04: And not just TSMC, there's UMC there, there's PSMC there, there's a number of other companies there.
+[00:49:15] SPEAKER_04: Taiwan's share of total manufacturing has grown every single process node.
+[00:49:19] SPEAKER_04: So in 130 nanometer, there's a lot, including many chips from Texas Instruments or analog devices or NXP, all these companies.
+[00:49:28] SPEAKER_04: 100% of it is manufactured in Taiwan by either TSMC or UMC or whatever.
+[00:49:33] SPEAKER_04: But then you step forward and forward and forward, like 28 nanometer.
+[00:49:38] SPEAKER_04: 80% of the world's production of 28 nanometers in Taiwan.
+[00:49:40] SPEAKER_04: Oh, fuck, right?
+[00:49:41] SPEAKER_04: Like, you know, and everything in 28 nanometers, like, what's made on 28 nanometer today?
+[00:49:45] SPEAKER_04: Tons of microcontrollers and stuff, but also, like, every display driver I see, like, cool, like, even if I could make my Mac chip, I can't make the chip that drives the display.
+[00:49:53] SPEAKER_04: Like, you know, you just go down the list, like, everything, no fridges, no automobiles, no weed whackers, because that shit has, my toothbrush has fucking Bluetooth in it, right?
+[00:50:01] SPEAKER_04: Like, why?
+[00:50:02] SPEAKER_04: I don't know, but, like, you know, there's, like, so many things that, like, just, like, poof, we're tech reset.
+[00:50:06] SPEAKER_01: We were supposed to do this interview like many months ago and then I kept like delaying because I'm like, ah, I don't understand any of this shit.
+[00:50:13] SPEAKER_01: But like it is like a very difficult thing to understand where I feel like with AI, it's like.
+[00:50:17] SPEAKER_01: It's not that no, you've just spent time.
+[00:50:19] SPEAKER_01: It's your time, but I also feel like it's like less conflict It feels like it's a kind of thing where like in an amateur kind of way you can like, you know Pick up what's going on in the field in this feel like the thing occurs about is like how?
+[00:50:32] SPEAKER_01: How does one learn the layers of the stack because the layers of stack are like there's not just the papers online You can't just like look up the the tutorial on how the transformer works or whatever.
+[00:50:40] SPEAKER_01: It's like yes I mean like many layers of really difficult like
+[00:50:44] SPEAKER_04: 18 year olds who are just cracked at AI, right?
+[00:50:46] SPEAKER_04: Already, right?
+[00:50:47] SPEAKER_04: And like there's high school dropouts that get like jobs at open AI.
+[00:50:51] SPEAKER_04: This existed in the past, right?
+[00:50:52] SPEAKER_04: Pat Gelsinger, current CEO of Intel.
+[00:50:55] SPEAKER_04: Went straight to work, he grew up in the Amish area of Pennsylvania and he went straight to work at Intel, right?
+[00:51:00] SPEAKER_04: Because he's just cracked, right?
+[00:51:02] SPEAKER_04: That is not possible in semiconductors today.
+[00:51:04] SPEAKER_04: You can't even get a job at a tool company without at least a freaking master's in chemistry, right?
+[00:51:09] SPEAKER_04: And probably a PhD, right?
+[00:51:11] SPEAKER_04: Of the 75,000 TSMC workers, it's like 50,000 have a PhD or something insane, right?
+[00:51:14] SPEAKER_04: It's like, okay.
+[00:51:19] SPEAKER_04: This is like, there's like some, there's like a next level amount of like, how specialized everything's gotten.
+[00:51:25] SPEAKER_04: Whereas today, like, you can take like, you know, Sholto, you know, he, when did he start working on AI?
+[00:51:30] SPEAKER_04: Not that long ago.
+[00:51:31] SPEAKER_04: Not to say anything bad about Sholto.
+[00:51:33] SPEAKER_04: No, no, no.
+[00:51:33] SPEAKER_04: But he's cracked.
+[00:51:34] SPEAKER_04: He's like Omega cracked at like what he does.
+[00:51:36] SPEAKER_04: What he does, you could pick him up and drop him into another part of the AI stack.
+[00:51:40] SPEAKER_04: First of all, he understands it already.
+[00:51:42] SPEAKER_04: And then second of all, he could probably become cracked at that too.
+[00:51:46] SPEAKER_04: Whereas that is not the case in semiconductors.
+[00:51:49] SPEAKER_04: One, you specialize like crazy.
+[00:51:52] SPEAKER_04: Two, you can't just pick it up.
+[00:51:55] SPEAKER_01: You know, like, Schultor, I think, what did he say?
+[00:51:56] SPEAKER_01: He, like, just started, like— He was a consultant in McKinsey, and at, like, night, he would, like, read papers about robotics.
+[00:52:02] SPEAKER_00: Right.
+[00:52:02] SPEAKER_01: And, like, run experiments and whatever.
+[00:52:04] SPEAKER_04: Yeah, and then, like, he, like, was, like— Like, people noticed.
+[00:52:07] SPEAKER_04: It was like, who the hell is this guy, and why is he posting this?
+[00:52:09] SPEAKER_04: Like, I thought everyone who knew about this was at Google already, right?
+[00:52:12] SPEAKER_04: It's like, come to Google.
+[00:52:14] SPEAKER_04: Right?
+[00:52:14] SPEAKER_04: That can't happen in semiconductors, right?
+[00:52:16] SPEAKER_04: Like, it's just not, like, conducively— Like, it's not possible, right?
+[00:52:19] SPEAKER_04: One archive
+[00:52:21] SPEAKER_04: is like a free thing.
+[00:52:23] SPEAKER_04: The paper publishing industry is like abhorrent everywhere else and you just like cannot download IEEE papers or like SPIE papers or like other organizations.
+[00:52:32] SPEAKER_04: And then two, at least up until like late 2022 or really early 2023 in the case of Google, right?
+[00:52:39] SPEAKER_04: I think what the Palm Inference paper, up until the Palm Inference paper, before that
+[00:52:44] SPEAKER_04: all the good, best stuff was just posted on the internet.
+[00:52:46] SPEAKER_04: After that, you know, it's kind of a little bit clamping down by the labs, but there's also still all these other companies making innovations in the public.
+[00:52:53] SPEAKER_04: And like, what is state of the art is public.
+[00:52:56] SPEAKER_04: That is not the case in semiconductors.
+[00:52:57] SPEAKER_05: Semiconductors have been shut down since the 1960s, 1970s basically.
+[00:53:01] SPEAKER_05: I mean, like, it's kind of crazy how little information has been formally transmitted from one country to another.
+[00:53:07] SPEAKER_05: Like the last time you could really think of this was like 19, maybe the Samsung era, right?
+[00:53:12] SPEAKER_05: So then how do you guys keep up with it?
+[00:53:13] SPEAKER_05: Well, we don't know it.
+[00:53:14] SPEAKER_05: I don't personally.
+[00:53:15] SPEAKER_05: I don't think I know it.
+[00:53:16] SPEAKER_05: I don't, I mean, I- If you don't know it, what are you making videos about?
+[00:53:19] SPEAKER_05: It's crazy because like, there's a guy, there's like, I spoke to one guy, he's like a PhD in Etch or something.
+[00:53:24] SPEAKER_05: The world, one of the top people in Etch, and he's like, man, you really know, like, lithography, right?
+[00:53:29] SPEAKER_05: I'm just like, I don't feel like I know lithography.
+[00:53:31] SPEAKER_05: But then you've talked to people who know lithography.
+[00:53:34] SPEAKER_05: You've done pretty good work in packaging, right?
+[00:53:36] SPEAKER_05: Nobody knows anything.
+[00:53:37] SPEAKER_01: They all have Gelman amnesia.
+[00:53:39] SPEAKER_05: They're all in this single well, right?
+[00:53:42] SPEAKER_05: They're digging deep.
+[00:53:43] SPEAKER_05: They're digging deep for what they're getting at.
+[00:53:46] SPEAKER_05: But they don't know the other stuff well enough.
+[00:53:48] SPEAKER_05: And in some ways, I mean, nobody knows the whole stack.
+[00:53:50] SPEAKER_05: Nobody knows the whole stack.
+[00:53:52] SPEAKER_04: The stratification of just manufacturing is absurd.
+[00:53:56] SPEAKER_04: The tool people don't even know exactly what Intel and TSMC do in production, and vice versa.
+[00:54:01] SPEAKER_04: They don't know exactly how the tool is optimized like this.
+[00:54:03] SPEAKER_04: And it's like, how many different types of tools there are?
+[00:54:05] SPEAKER_04: Dozens.
+[00:54:06] SPEAKER_04: And each of those has an entire tree of all the things that we've built, all the things we've invented, all the things that we continue to iterate upon, and then here's the breakthrough innovation that happens every few years in it, too.
+[00:54:17] SPEAKER_01: So if that's the case, if like nobody knows the whole stack, then how does the industry coordinate to be like, you know, in five, in two years, we want him to go to the next process, which has gate all around.
+[00:54:29] SPEAKER_01: And for that, we need X tools and X technologies developed by whatever.
+[00:54:32] SPEAKER_05: That's really fascinating.
+[00:54:33] SPEAKER_05: It's a fascinating social kind of phenomenon, right?
+[00:54:37] SPEAKER_05: You can feel it.
+[00:54:38] SPEAKER_05: I went to Europe the earlier this year, Dylan was like, had allergies, but like, I
+[00:54:43] SPEAKER_05: I was like talking to those people.
+[00:54:45] SPEAKER_05: It's like gossip.
+[00:54:47] SPEAKER_05: It's gossip.
+[00:54:47] SPEAKER_05: You start feeling people coalescing around like a something, right?
+[00:54:53] SPEAKER_05: Early on, we used to have like Sematech where people, all these American companies came together and talked and they came and they hammered out, right?
+[00:55:00] SPEAKER_05: But Sematech in reality was dominated by a single company, right?
+[00:55:05] SPEAKER_05: You know, nowadays it's a little more dispersed, right?
+[00:55:08] SPEAKER_05: You feel like it's a blue moon arising kind of thing, like they are going towards something, they know it, and then suddenly the whole industry is like, this is it, let's do it.
+[00:55:19] SPEAKER_04: I think it's like God came and proclaimed it.
+[00:55:22] SPEAKER_04: We will shrink density 2x every two years.
+[00:55:24] SPEAKER_04: Gordon Moore, he made an observation and then like it didn't go nowhere.
+[00:55:28] SPEAKER_04: It went way further than he ever expected because it was like, oh, there's line of sight to get to here and here.
+[00:55:33] SPEAKER_04: And like, and he predicted like seven, eight years out, like multiple orders of magnitude of increases in transistors.
+[00:55:39] SPEAKER_04: And it came true.
+[00:55:40] SPEAKER_04: But then by then the entire industry was like,
+[00:55:42] SPEAKER_04: This is obviously true.
+[00:55:43] SPEAKER_04: This is the word of God.
+[00:55:44] SPEAKER_04: And every engineer in the entire industry, tens of millions of people, like literally, this is what they were driven to do.
+[00:55:50] SPEAKER_04: Now, not every single engineer didn't believe it, but people were like, yes, to hit the next shrink, we must do this, this, this, right?
+[00:55:57] SPEAKER_04: And this is the optimizations we make.
+[00:55:58] SPEAKER_04: And then you have this abstratification, every single layer, and abstraction layers, every single layer through the entire stack to where people
+[00:56:06] SPEAKER_04: It's an unholy concoction.
+[00:56:08] SPEAKER_04: I mean, you keep saying this word, but no one knows what's going on because there's an abstraction layer between every single layer.
+[00:56:14] SPEAKER_04: And on this layer, the people below you and the people above you know what's going on.
+[00:56:18] SPEAKER_04: And then beyond that, it's like, okay, I can try to understand, but not really.
+[00:56:24] SPEAKER_01: But I guess that doesn't answer the question of like,
+[00:56:27] SPEAKER_01: when IRDS or whatever, I don't know, was it 10, 20 years ago?
+[00:56:30] SPEAKER_01: I watched your video about it where they're like, we are, EUV is like, we're gonna do EUV instead of the other thing.
+[00:56:36] SPEAKER_01: And this is the path forward.
+[00:56:38] SPEAKER_01: How do they do that if they don't have the whole sort of picture of like different constraints, different trade-offs, different blah, blah, blah.
+[00:56:45] SPEAKER_01: They kinda, they argue it out.
+[00:56:46] SPEAKER_05: They get together and they talk and they argue.
+[00:56:49] SPEAKER_05: And basically at some point, a guy somewhere says, I think we can move forward with this.
+[00:56:55] SPEAKER_04: Semiconductors are so siloed and the data and knowledge within each layer is A, not documented online at all.
+[00:57:02] SPEAKER_05: Right, documentation.
+[00:57:04] SPEAKER_04: Because it's all siloed within companies.
+[00:57:06] SPEAKER_04: B, it is, there's a lot of human element to it because a lot of the knowledge, like as John was saying, is like apprentice master, apprentice master type of knowledge, or I've been doing this for 30 years and there's an amazing amount of intuition on what to do just when you see something.
+[00:57:22] SPEAKER_04: to where like AI can't just learn semiconductors like that, but at the same time there's a massive amount of talent shortage and ability to move forward on things, right?
+[00:57:33] SPEAKER_04: So like the technology used on like
+[00:57:37] SPEAKER_04: Most of the equipment and semiconductor tool, fabs, runs on Windows XP, right?
+[00:57:43] SPEAKER_04: Each tool has a Windows XP server on it.
+[00:57:45] SPEAKER_04: Or all the chip design tools have CentOS version six, right?
+[00:57:52] SPEAKER_04: And that's old as hell, right?
+[00:57:53] SPEAKER_04: So there's so many areas where, why is this so far behind?
+[00:57:57] SPEAKER_04: At the same time, it's so hyper-optimized.
+[00:57:59] SPEAKER_04: The tech stack is so broken in that sense.
+[00:58:02] SPEAKER_04: They're afraid to touch it.
+[00:58:03] SPEAKER_04: They're afraid to touch it.
+[00:58:04] SPEAKER_04: Yeah, because it's an unholy amalgamation.
+[00:58:06] SPEAKER_04: It's unholy.
+[00:58:07] SPEAKER_04: It should not be work.
+[00:58:08] SPEAKER_04: It should not work.
+[00:58:09] SPEAKER_04: This thing should not work.
+[00:58:10] SPEAKER_04: It's literally a miracle.
+[00:58:11] SPEAKER_04: So you have all the abstraction layers, but then it's like, one is there's a lot of breakthrough innovation that can happen now stretching across abstraction layers.
+[00:58:19] SPEAKER_04: But two is because there's so much inherent knowledge in each individual one,
+[00:58:23] SPEAKER_04: What if I can just experiment and test at 1000x velocity or 100,000x velocity?
+[00:58:29] SPEAKER_04: And so some examples of where this is already like shown true is some of NVIDIA's AI layout tools, right?
+[00:58:36] SPEAKER_04: And Google as well, like laying out the circuits within a small blob of the chip with AI.
+[00:58:41] SPEAKER_04: Some of these like RL design things, some of these, there's a lot of like various like simulation things.
+[00:58:46] SPEAKER_04: But is that design or is that manufacturing?
+[00:58:49] SPEAKER_04: It's all design, right?
+[00:58:50] SPEAKER_04: Most of it's design.
+[00:58:51] SPEAKER_04: Manufacturing has not really seen much of this yet, although it's starting to come in.
+[00:58:55] SPEAKER_04: Inverse lithography, maybe.
+[00:58:56] SPEAKER_04: Yeah, ILT, yeah, maybe.
+[00:58:58] SPEAKER_04: I don't know if that's AI.
+[00:58:59] SPEAKER_04: That's not AI.
+[00:59:00] SPEAKER_04: Anyways, there's tremendous opportunity to bring breakthrough innovation simply because there is so many layers where things are unoptimized, right?
+[00:59:11] SPEAKER_04: So you see all these, oh, single digit, low,
+[00:59:16] SPEAKER_04: double-digit, like, advantages just from, like, RL techniques from, like, AlphaGo type stuff, like, or, like, not from AlphaGo, but, like, five, six, seven, eight-year-old RL techniques being brought in, but, like, generative AI being brought in could, like, really revolutionize the industry, you know, although there's a massive data problem.
+[00:59:33] SPEAKER_01: And can you give those Can you give the possibilities here in numbers in terms of maybe like a flopper dollar or whatever the?
+[00:59:41] SPEAKER_01: Relevant thing here is like how much do you expect in the future to come from process node improvements?
+[00:59:46] SPEAKER_01: How much from just like how the hardware is designed because of AI?
+[00:59:51] SPEAKER_01: If you like how to decide we're talking specifically for like GPUs.
+[00:59:54] SPEAKER_01: Yeah, like if you had to disaggregate future improvements, I think I think I
+[01:00:00] SPEAKER_04: You know, first, it's important to state that semiconductor manufacturing and design is the largest search base of any problem that humans do because it is the most complicated industry that anything that humans do.
+[01:00:11] SPEAKER_04: And so, you know, when you think about it, right, there's 1E10, 1E11, right, 100 billion transistors on leading edge chips, right?
+[01:00:22] SPEAKER_04: Blackwell has 220 billion transistors or something like that.
+[01:00:26] SPEAKER_04: So what is, and those are just on-off switches, and then think about every permutation of putting those together, contact ground, et cetera, drain source, blah, blah, blah, with wires, right?
+[01:00:35] SPEAKER_04: There's 15 metal layers, right?
+[01:00:37] SPEAKER_04: Connecting every single transistor in every possible arrangement.
+[01:00:40] SPEAKER_04: This is a search space that is literally almost infinite, right?
+[01:00:43] SPEAKER_04: You could like, the search space is much larger than any other search space that humans know of.
+[01:00:46] SPEAKER_01: And what is the nature of the search?
+[01:00:47] SPEAKER_01: Like, what are you trying to optimize over?
+[01:00:50] SPEAKER_04: useful compute, right?
+[01:00:52] SPEAKER_04: If the goal is optimize intelligence per picajoule, right?
+[01:00:58] SPEAKER_04: And intelligence is some nebulous nature of what the model architecture is.
+[01:01:02] SPEAKER_04: Yeah, yeah.
+[01:01:03] SPEAKER_04: And then picajoule is like a unit of energy, right?
+[01:01:05] SPEAKER_04: How do you optimize that?
+[01:01:06] SPEAKER_04: So there's humongous innovations possible in architecture, right?
+[01:01:12] SPEAKER_04: Because vast majority of the power on a H100 does not go to compute.
+[01:01:16] SPEAKER_04: And there are more efficient, like,
+[01:01:20] SPEAKER_04: compute, you know, ALUs, arithmetic logic unit like designs, right?
+[01:01:25] SPEAKER_04: But even then, the vast majority of the power doesn't go there, right?
+[01:01:28] SPEAKER_04: The vast majority of the power goes to moving data around, right?
+[01:01:32] SPEAKER_04: And then when you look at what is the movement of data, it's either networking or memory, you know, you have
+[01:01:38] SPEAKER_04: You have a humongous amount of movement relative to compute and a humongous amount of power consumption relative to compute.
+[01:01:45] SPEAKER_04: And so how can you minimize that data movement and then maximize the compute?
+[01:01:51] SPEAKER_04: There are 100x gains from architecture.
+[01:01:53] SPEAKER_04: Even if we literally stop shrinking, I think we could have 100x gains from architectural advancements.
+[01:01:58] SPEAKER_04: Over what time period?
+[01:02:00] SPEAKER_04: The question is how much can we advance the architecture, right?
+[01:02:04] SPEAKER_04: The other challenge is the number of people designing chips has not necessarily grown in a long time, right?
+[01:02:11] SPEAKER_04: Yeah, company to company, it shifts, but within the semiconductor industry in the U.S., and the U.S.
+[01:02:17] SPEAKER_04: designs the vast majority of leading edge chips, the number of people designing chips has not grown much.
+[01:02:23] SPEAKER_04: What has happened is the output per individual has soared because of EDA, electronic design assistance tooling.
+[01:02:29] SPEAKER_04: Now, this is all still like classical tooling.
+[01:02:32] SPEAKER_04: There's just a little bit of inkling of AI in there yet.
+[01:02:36] SPEAKER_04: What happens when we bring this in is the question, and how you can solve this search space somehow
+[01:02:41] SPEAKER_04: with humans and AI working together to optimize this so it's not most of the power is data movement.
+[01:02:47] SPEAKER_04: And then the logic, the compute is actually very small.
+[01:02:50] SPEAKER_04: To flip side, the compute is, first of all, compute can get like 100x more efficient just with like design changes.
+[01:02:57] SPEAKER_04: And then you could minimize that data movement massively, right?
+[01:03:00] SPEAKER_04: So you can get a humongous gain in efficiency just from architecture itself.
+[01:03:04] SPEAKER_04: And then process node helps you innovate that there, right?
+[01:03:07] SPEAKER_04: And power delivery helps you innovate that.
+[01:03:09] SPEAKER_04: System design, chip-to-chip networking helps you innovate that, right?
+[01:03:12] SPEAKER_04: Memory technologies, there's so much innovation there.
+[01:03:14] SPEAKER_04: And there's so many different vectors of innovation that people are pursuing simultaneously to where,
+[01:03:21] SPEAKER_04: NVIDIA gen to gen to gen will do more than 2x performance per dollar.
+[01:03:26] SPEAKER_04: I think that's very clear.
+[01:03:27] SPEAKER_04: And then like hyperscalers are probably going to try and shoot above that, but we'll see if they can execute.
+[01:03:32] SPEAKER_01: There's like two narratives you can tell here of how this happens.
+[01:03:36] SPEAKER_01: One is that these AI companies who are training the foundation models
+[01:03:41] SPEAKER_01: who understand the trade offs of like how much is the marginal increase in compute versus memory work to them and what trade offs do they want between different kinds of memory, they understand this and so therefore the accelerators they build, they can make these sort of trade offs in a way that's like most optimal or and also design like the architecture of the the model itself in a way that reflects like what are the hardware trade offs.
+[01:04:07] SPEAKER_01: Another is Nvidia because it has like,
+[01:04:11] SPEAKER_01: I don't know how this works.
+[01:04:12] SPEAKER_01: Presumably they have some sort of like know how like they're accumulating all this like knowledge about how to better design this architecture and like also better search tools or so on.
+[01:04:22] SPEAKER_01: Who has basically like better moat here in terms of will Nvidia keep getting better at design getting this hundred x improvement or will it be like OpenAI and Microsoft and Amazon and Anthropic who are designing their accelerators will keep getting better at like designing the accelerator?
+[01:04:38] SPEAKER_04: I think that there's a few vectors to go here, right?
+[01:04:41] SPEAKER_04: One is, you mentioned, and I think it's important to note, is that hardware has a huge influence on the model architecture that's optimal.
+[01:04:48] SPEAKER_04: And so it's not a one-way street that better chip equals, you know, the optimal model for Google to run on TPUs, given a given amount of dollars, a given amount of compute, is different architecturally than what it is for OpenAI with NVIDIA stuff.
+[01:05:02] SPEAKER_04: right?
+[01:05:03] SPEAKER_04: It is like absolutely different.
+[01:05:04] SPEAKER_04: And then like, even down to like networking decisions that different companies do in data center design decisions that people do the optimal, like if you were to say, you know, x amount of compute of TPU versus GPU, compute optimally, what is the best thing you will diverge and what the architecture is.
+[01:05:19] SPEAKER_04: And I think that's important to know, right?
+[01:05:20] SPEAKER_01: We can ask about that real quick.
+[01:05:22] SPEAKER_01: The show earlier, we're talking about how China has the
+[01:05:27] SPEAKER_01: H20s or B20s?
+[01:05:31] SPEAKER_01: And there, there's like much less compute per memory bandwidth and like the amount of memory, right?
+[01:05:36] SPEAKER_01: Does that mean that Chinese models will actually have like very different architecture and characteristics than American models in the future?
+[01:05:41] SPEAKER_04: So you can take this to like a very like large conclude like leap and it's like all, you know, neuromorphic computing or whatever is like the optimal path.
+[01:05:48] SPEAKER_04: And that looks very different than like what a transformer does, right?
+[01:05:51] SPEAKER_04: Or you could take it to a simple thing, which is the level of sparsity, coarse-grained sparsity, i.e.
+[01:05:57] SPEAKER_04: experts and all this sort of stuff.
+[01:05:59] SPEAKER_04: The arrangement of what exactly the attention mechanism is, because there are a lot of tweaks.
+[01:06:05] SPEAKER_04: It's not just pure transformer attention, right?
+[01:06:08] SPEAKER_04: Or like, hey, how wide versus tall the model is, right?
+[01:06:11] SPEAKER_04: That's very important, like DMOD versus number of layers, right?
+[01:06:15] SPEAKER_04: These are all things that would be different, and
+[01:06:19] SPEAKER_04: I know they're different between like, say, a Google and an open AI and what is optimal.
+[01:06:23] SPEAKER_04: But what really, it really starts to get like, hey, if you were limited on a number of different things like, like China invests humongously in compute and memory, you know, which is like basically the memory cell is
+[01:06:36] SPEAKER_04: directly coupled, or is the compute cell, right?
+[01:06:40] SPEAKER_04: So these are things that China's investing hugely, and you go to conferences like, oh, there's 20 papers from Chinese companies slash universities about compute and memory.
+[01:06:48] SPEAKER_04: Or like, hey, because the flop limitation is here, maybe NVIDIA pumps up the on-chip memory and changes the architecture, because they still stand to benefit tens of billions of dollars by selling chips to China, right?
+[01:07:00] SPEAKER_04: Today it's just like neutered American chips.
+[01:07:02] SPEAKER_04: right, Anuda chips that go to the US, but it'll start to diverge more and more architecturally because they'd be stupid not to make chips for China, right?
+[01:07:10] SPEAKER_04: And Huawei, obviously, again, has their constraints, right?
+[01:07:13] SPEAKER_04: Where are they limited on memory?
+[01:07:15] SPEAKER_04: Oh, they have a lot of networking capabilities, and they could move to certain optical networking technologies directly onto the chip much sooner than we could, right?
+[01:07:24] SPEAKER_04: Because that is what's optimal for them within their search space of solutions, right?
+[01:07:28] SPEAKER_04: Because this whole area is blocked off.
+[01:07:30] SPEAKER_05: It's kind of really interesting to see, to think about like the development of how Chinese AI models will differ from American AI models because of these changes or these constraints.
+[01:07:40] SPEAKER_04: And it applies to use cases.
+[01:07:42] SPEAKER_04: It applies to data, right?
+[01:07:43] SPEAKER_04: Like American models are very important about like, let me learn from you, right?
+[01:07:47] SPEAKER_04: Let me be able to use you directly as a random consumer.
+[01:07:51] SPEAKER_04: That is not the case for Chinese model, I assume, because there's probably very different use cases for them.
+[01:07:57] SPEAKER_04: China crushes the West at video and image recognition.
+[01:08:01] SPEAKER_04: At ICML, like Albert Gu of Cartesia, like state space models, every single Chinese person was like, can I take a selfie with you?
+[01:08:08] SPEAKER_04: Man was harassed.
+[01:08:09] SPEAKER_04: In the US, you see Albert and he's like, it's awesome, he invented state space models, but it's not like state space models are like,
+[01:08:14] SPEAKER_04: Like here, but that's because state space models potentially have like a huge advantage in like video and image and audio, which is like stuff that China does more of, and that is further along and has better capabilities in, right?
+[01:08:26] SPEAKER_04: So it's like- Because of all the surveillance cameras there.
+[01:08:28] SPEAKER_05: Sorry?
+[01:08:29] SPEAKER_05: Because of all the surveillance cameras there.
+[01:08:30] SPEAKER_04: Yeah, that's the quiet part out loud, right?
+[01:08:33] SPEAKER_04: But there's already divergence in capabilities there, right?
+[01:08:35] SPEAKER_04: If you look at image recognition, China destroys American companies on that, right?
+[01:08:41] SPEAKER_04: Because the surveillance.
+[01:08:42] SPEAKER_04: You have this divergence in tech tree, and people can start to design different architectures within the constraints you're given.
+[01:08:49] SPEAKER_04: And everyone has constraints, but the constraints different companies have are even different, right?
+[01:08:56] SPEAKER_04: Google's constraints have shown them that they built a genuinely different architecture.
+[01:09:00] SPEAKER_04: But now if you look at Blackwell, and then what's said about TPV6, I'm not gonna say they're converging, but they are getting a little bit closer in terms of how big is the Matmul unit size, and some of the topology, and world size of the scale up versus scale out network.
+[01:09:18] SPEAKER_04: There is some convergence slightly, not saying they're similar yet, but
+[01:09:23] SPEAKER_04: Already they're starting to but then there's different architectures that people could go down and path So you see stuff like from all these startups that are trying to go down different tech trees because maybe that'll work But there's a self-fulfilling prophecy here too, right?
+[01:09:34] SPEAKER_04: All the research is in transformers that are very high arithmetic intensity because the hardware we have is very high arithmetic intensity and transformers run really well on GPUs and TPUs and like you sort of have a self-fulfilling prophecy if all of a sudden you have an architecture which is
+[01:09:48] SPEAKER_04: Theoretically, it's way better, but you can get only half of the usable flops out of your chip.
+[01:09:54] SPEAKER_04: It's worthless, because even if it's 30% compute efficiency win, it's half as fast on the chip, right?
+[01:10:01] SPEAKER_04: So there's all sorts of trade-offs and self-fulfilling prophecies of what path do people go down.
+[01:10:07] SPEAKER_01: John and Dylan have talked a lot in this episode about how stupefyingly complex the global semiconductor supply chain is.
+[01:10:14] SPEAKER_01: The only thing in the world that approaches this level of complexity is the Byzantine web of global payments.
+[01:10:21] SPEAKER_01: You're stitching together legacy tech stacks and regulations that differ in every jurisdiction.
+[01:10:27] SPEAKER_01: In Japan, for example, a lot of people pay for online purchases by taking a code to their corner store and punching it into a kiosk.
+[01:10:36] SPEAKER_01: Stripe abstracts all this complexity away from businesses.
+[01:10:39] SPEAKER_01: You can offer customers whatever payment experience they're most likely to use, wherever they are in the world.
+[01:10:45] SPEAKER_01: And Stripe is how I invoice advertisers for this very podcast.
+[01:10:49] SPEAKER_01: I doubt that they're punching in codes at a kiosk in Japan, but if they are, Stripe will handle it.
+[01:10:54] SPEAKER_01: Anyways, you can head to stripe.com to learn more.
+[01:10:57] SPEAKER_01: If you are made head of compute of a new AI lab, if like SSI came to you, the alias that's covering your lab, and they're like, Dylan, we give you $1 billion.
+[01:11:07] SPEAKER_01: You are head of compute.
+[01:11:09] SPEAKER_01: Like help us get on the map.
+[01:11:11] SPEAKER_01: We're going to compete with the Frontier Labs.
+[01:11:13] SPEAKER_01: What is your first step?
+[01:11:14] SPEAKER_04: Okay, so the constraints are you're a U.S.
+[01:11:17] SPEAKER_04: slash Israeli firm because that's what SSI is, right?
+[01:11:22] SPEAKER_04: And your researchers are in the U.S.
+[01:11:23] SPEAKER_04: and Israel.
+[01:11:24] SPEAKER_04: You probably can't build data centers in Israel because power is expensive as hell, and it's probably risky maybe, I don't know.
+[01:11:31] SPEAKER_04: So still in the U.S.
+[01:11:32] SPEAKER_04: most likely.
+[01:11:33] SPEAKER_04: Most of the researchers are here, or a lot of them are in the U.S., right?
+[01:11:36] SPEAKER_04: Like Palo Alto or whatever.
+[01:11:38] SPEAKER_04: So I guess you need a significant chunk of compute.
+[01:11:44] SPEAKER_04: Obviously, the whole pitch is you're going to make some research breakthrough.
+[01:11:46] SPEAKER_04: That's like compute efficiency win, data efficiency win, whatever it is.
+[01:11:49] SPEAKER_04: You're going to make some breakthrough, but you need compute to get there, right?
+[01:11:52] SPEAKER_04: Because your GPUs per researcher is your research velocity, right?
+[01:11:58] SPEAKER_04: Obviously, data centers are very tapped out, right?
+[01:12:01] SPEAKER_04: Not in terms of tapped out, but every new data center that's coming up, most of them have been sold, which has led people like Elon to go through this insane thing in Memphis, right?
+[01:12:09] SPEAKER_04: I'm just trying to square the circle, yeah.
+[01:12:12] SPEAKER_01: On that question, I kid you not, in my group chat,
+[01:12:17] SPEAKER_01: There have been two separate people who have been like, I have a cluster of H100s and I have a long lease on them, but I'm trying to sell them off.
+[01:12:27] SPEAKER_01: Is it like a buyer's market right now?
+[01:12:29] SPEAKER_01: Because it does seem like people are trying to get rid of them.
+[01:12:30] SPEAKER_04: So I think for the ILIA question, a cluster of 256 GPUs or even 4K GPUs is kind of
+[01:12:38] SPEAKER_04: just kind of cope, right?
+[01:12:39] SPEAKER_04: It's not enough, right?
+[01:12:40] SPEAKER_04: Yes, you're going to make compute efficiency wins, but with a billion dollars, you probably just want the biggest cluster in one individual spot.
+[01:12:45] SPEAKER_04: Sure.
+[01:12:46] SPEAKER_04: And so, like, small amounts of GPUs, probably not, like, you know, possible to use, right?
+[01:12:52] SPEAKER_04: Like, for them, right?
+[01:12:54] SPEAKER_04: And that's what most of the sales are, right?
+[01:12:55] SPEAKER_04: Like, you go and look at, like, GPU list, or like Vast, or like Foundry, or a hundred different GPU resellers, the cluster sizes are small.
+[01:13:05] SPEAKER_04: Now,
+[01:13:05] SPEAKER_04: Is it a, is it a buyer's market?
+[01:13:07] SPEAKER_04: Yeah.
+[01:13:07] SPEAKER_04: Last year you would buy H one hundreds for like $4 or $3.
+[01:13:11] SPEAKER_04: Like if you, you know, an hour, an hour, right.
+[01:13:13] SPEAKER_04: At first, shorter term or midterm deals right now, it's like, if you want a six month deal, you can get like $2 15 cents or less.
+[01:13:19] SPEAKER_04: Right.
+[01:13:19] SPEAKER_04: Like, and like the natural cost, if I, as if I have a data center, right.
+[01:13:23] SPEAKER_04: And I'm paying like standard data center pricing.
+[01:13:25] SPEAKER_04: to purchase the GPUs and deploy them is like $1.40, and then you add on the debt, because I probably took debt to buy the GPUs, or cost equity, cost of capital, gets up to like $1.70 or something, right?
+[01:13:37] SPEAKER_04: And so you see deals that are like, the good deals, right?
+[01:13:40] SPEAKER_04: Like Microsoft renting from CoreWeaver, like $1.90 to $2, right?
+[01:13:44] SPEAKER_04: So people are getting closer and closer to like, there's still a lot of profit, right?
+[01:13:47] SPEAKER_04: Because the natural rate even after debt and all this is like $1.70.
+[01:13:50] SPEAKER_04: So like, there's still a lot of profit when people are selling in the low twos.
+[01:13:53] SPEAKER_04: like GPU companies, people are deploying them, but it is a buyer's market in a sense that it's gotten a lot cheaper, but cost of compute is going to continue to tank, right?
+[01:14:01] SPEAKER_04: Because it's like sort of like, I don't remember the exact name of the law, but it's effectively Moore's law, right?
+[01:14:07] SPEAKER_04: Every two years, the cost of transistors halved, and yet the industry grew, right?
+[01:14:13] SPEAKER_04: every six months or three months, the cost of intelligence.
+[01:14:17] SPEAKER_04: You know, like OpenAI and GPD, GPD 4, what, February 2023, right?
+[01:14:22] SPEAKER_04: $120 per million tokens or something like that was roughly the cost, and now it's like 10, right?
+[01:14:29] SPEAKER_04: It's like the cost of intelligence is tanking, partially because of compute, partially because the model's compute efficiency wins, right?
+[01:14:35] SPEAKER_04: I think that's a trend we'll see, and then that's gonna drive adoption as you scale up and make it cheaper and scale up and make it cheaper.
+[01:14:40] SPEAKER_04: Right, right, right.
+[01:14:41] SPEAKER_01: Anyways, what you were saying, if you're a head of computer of SSI.
+[01:14:43] SPEAKER_04: Okay, head of computer of SSI.
+[01:14:45] SPEAKER_01: That was very intense.
+[01:14:46] SPEAKER_04: There's obviously no free data center lunch, right?
+[01:14:49] SPEAKER_04: In terms of, and you can just take that based on the data we have shows that there's no free lunch, per se.
+[01:14:57] SPEAKER_04: Immediately today, you need to compute for a large cluster size, or even six months out, right?
+[01:15:02] SPEAKER_04: There's some, but not a huge amount, because of what X did, right?
+[01:15:05] SPEAKER_04: XAI is like, shit, we're gonna go,
+[01:15:09] SPEAKER_04: buy a Memphis factory, put a bunch of generators outside, mobile generators usually reserved for natural disasters, a Tesla battery pack, drive as much power as we can from the grid, tap the natural gas line that's going to the natural gas plant two miles away, the gigawatt natural gas plant, just send it, and get a cluster built as fast as possible.
+[01:15:30] SPEAKER_04: Now you're running 100K GPUs, right?
+[01:15:32] SPEAKER_00: I know.
+[01:15:32] SPEAKER_04: And that cost about $5 billion, right?
+[01:15:34] SPEAKER_04: $4 billion, right?
+[01:15:36] SPEAKER_04: Not $1 billion.
+[01:15:37] SPEAKER_04: So the scale that SSI has is much smaller, by the way, right?
+[01:15:41] SPEAKER_04: So their size of cluster will be maybe one-third or one-fourth of the size, right?
+[01:15:48] SPEAKER_04: So now you're talking about 25K to 32K cluster, right?
+[01:15:52] SPEAKER_04: You still don't have that, right?
+[01:15:53] SPEAKER_04: No one is willing to rent you a 32k cluster today, no matter how much money you have, right?
+[01:15:57] SPEAKER_04: Even if you had more than a billion dollars.
+[01:15:59] SPEAKER_04: So you now, it makes the most sense to build your own cluster one, instead of renting it or get a very close relationship like a OpenAI Microsoft with CoreWeave or OpenAI Microsoft with Oracle slash Crusoe.
+[01:16:12] SPEAKER_04: The next step is Bitcoin, right?
+[01:16:15] SPEAKER_04: So OpenAI has a data center in Texas, right?
+[01:16:19] SPEAKER_04: Or it's going to be their data center.
+[01:16:21] SPEAKER_04: It's like they kind of contracted all that.
+[01:16:23] SPEAKER_04: CoreWeave, there is a 300 megawatt natural gas plant on site, powering these crypto mining data centers from the company called Core Scientific.
+[01:16:34] SPEAKER_04: And so they're just converting that.
+[01:16:36] SPEAKER_04: There's a lot of conversion, but the power's already there, the power infrastructure's already there.
+[01:16:39] SPEAKER_04: So it's really about converting it, getting it ready to be water cooled, all that sort of stuff, and convert it to a 100,000 GB 200 cluster.
+[01:16:45] SPEAKER_04: They have a number of those going up across the country, but that's also like tapped out to some extent because NVIDIA is doing the same thing in Plano, Texas for a 32,000 GPU cluster that they're building.
+[01:16:56] SPEAKER_04: Is NVIDIA doing that?
+[01:16:57] SPEAKER_04: Well, they're going through partners, right?
+[01:16:59] SPEAKER_04: Because this is the other interesting thing is the big tech companies can't do crazy shit like Elon did.
+[01:17:04] SPEAKER_04: Why?
+[01:17:05] SPEAKER_04: ESG.
+[01:17:07] SPEAKER_01: Oh, interesting.
+[01:17:07] SPEAKER_01: They can't just do crazy shit like, because this- Actually, do you expect Microsoft and Google and whoever to like drop their net zero commitments as the scaling picture intensifies?
+[01:17:17] SPEAKER_01: Yeah.
+[01:17:19] SPEAKER_04: So what XAI is doing, it's not that polluting on the scheme of things, but it's like you have 14 mobile generators and you're just burning natural gas on site on these mobile generators that sit on trucks.
+[01:17:33] SPEAKER_04: And then you have power directly two miles down the road.
+[01:17:36] SPEAKER_04: There's no unequivocal way to say any of the power, because two miles down the road is a natural gas plant as well.
+[01:17:42] SPEAKER_04: There's no way to say this is green.
+[01:17:43] SPEAKER_04: You go to the Corbe thing, it's a natural gas plant.
+[01:17:45] SPEAKER_04: It's literally on site.
+[01:17:48] SPEAKER_04: from core scientific and all that, right?
+[01:17:49] SPEAKER_04: And then the data centers around it are horrendously inefficient, right?
+[01:17:52] SPEAKER_04: There's this metric called PUE, which is basically how much power is brought in versus how much gets delivered to the chips, right?
+[01:17:58] SPEAKER_04: And like the hyperscalers, because they're so efficient or whatever, right?
+[01:18:02] SPEAKER_04: Their PUE is like 1.1 or lower, right?
+[01:18:05] SPEAKER_04: I.e., if you get a gigawatt in,
+[01:18:09] SPEAKER_04: 900 megawatts or more gets delivered to chips, right?
+[01:18:12] SPEAKER_04: Not wasted on cooling and all these other things.
+[01:18:14] SPEAKER_04: This like core scientific one is gonna be like 1.5, 1.6, i.e.
+[01:18:18] SPEAKER_04: even though I have 300 megawatts of generation on site, I only deliver like 180, 200 megawatts to the chips.
+[01:18:25] SPEAKER_01: given how fast solar is getting cheaper, and also the fact that like, you know, how the reason solar is difficult elsewhere is like, you know, you're like, you got to like power the homes at night.
+[01:18:35] SPEAKER_01: Here, I guess it's like theoretically possible to like, figure out, you know, only like, run the clusters in the in the day or something.
+[01:18:42] SPEAKER_04: Absolutely not.
+[01:18:43] SPEAKER_04: That is that that's not possible.
+[01:18:45] SPEAKER_01: Because because it's so expensive to have these GPUs.
+[01:18:47] SPEAKER_04: Yeah, so when you look at the power cost of a large cluster, it's trivial to some extent, right?
+[01:18:56] SPEAKER_04: The meme that, oh, you can't build a data center in Europe or East Asia because the power's expensive, that's not really relevant.
+[01:19:02] SPEAKER_04: Or power's so cheap in China and the US, that's why the only place is you can build data centers.
+[01:19:06] SPEAKER_04: That's not really the real reason.
+[01:19:07] SPEAKER_04: It's the ability to generate new power for these activities is why it's really difficult.
+[01:19:13] SPEAKER_04: and the economic regulation around that.
+[01:19:15] SPEAKER_04: But the real thing is, if you look at the cost of ownership of an H100, let's just say you gave me a billion dollars and I already have a data center, I already have all this stuff, I'm paying regular rates for the data centers, I'm not paying through the nose or anything, paying regular rates for power, not paying through the nose, power is sub 15% of the cost.
+[01:19:33] SPEAKER_04: And it's sub 10% of the cost actually, right?
+[01:19:35] SPEAKER_04: The biggest, like 75 to 80% of the cost is just the servers, right?
+[01:19:40] SPEAKER_04: And this is on a multi-year, including debt financing, including cost of operation, all that, right?
+[01:19:44] SPEAKER_04: Like when you do a TCO, total cost of ownership, it's like 80% is the GPUs, 10% is the data center, 10% of the power, rough numbers, right?
+[01:19:53] SPEAKER_04: So it's kind of irrelevant whether or not you
+[01:19:56] SPEAKER_04: like how expensive the power is, right?
+[01:19:59] SPEAKER_04: You'd rather do what Taiwan does, right?
+[01:20:00] SPEAKER_04: When like power, like what do they do when there was droughts, right?
+[01:20:03] SPEAKER_04: They like force people to not shower.
+[01:20:06] SPEAKER_05: They basically reroute the power from, when there was a power shortage in Taiwan, they basically rerouted power from the residentials.
+[01:20:13] SPEAKER_04: And this will happen in a capitalistic society as well, most likely, because like, fuck you, you're not gonna pay X dollars per kilowatt hour, because to me, the marginal cost of power is irrelevant.
+[01:20:22] SPEAKER_04: Really, it's all about the GPU cost and the ability to get the power.
+[01:20:27] SPEAKER_04: I don't wanna turn it off eight hours a day.
+[01:20:28] SPEAKER_01: Maybe let's discuss what would happen if the training regime changes and if it doesn't change.
+[01:20:32] SPEAKER_01: So like, you could imagine that the training regime becomes much more parallelizable, where it's like, about like coming up with some sort of like search or synthetic, like most of the compute for training is used to come up with synthetic data, or do some kind of search.
+[01:20:45] SPEAKER_01: And that can happen across a wide area.
+[01:20:50] SPEAKER_01: In that world, how fast could we scale?
+[01:20:52] SPEAKER_01: Like, we're just like, let's go through the numbers on like year after year.
+[01:20:55] SPEAKER_01: And then we'll suppose it actually has to be
+[01:20:58] SPEAKER_01: you would know more than me, but like, suppose it has to be the current regime and like, just explain what that would mean in terms of like how distributed that would have to be and then how plausible it is to get clusters of certain sizes over the next few years.
+[01:21:11] SPEAKER_04: I think I think it like is not too difficult for Ilya's company to get a cluster of like 32k and like of Blackwell next year.
+[01:21:22] SPEAKER_01: Like 2025, 2026, 2027.
+[01:21:23] SPEAKER_04: 2025, 2026, there's, before I talk about the US, I think it's important to note that there's a gigawatt plus of data center capacity in Malaysia next year.
+[01:21:32] SPEAKER_04: Now, that's mostly by dance, but there's, in power-wise, there's the humongous damming of the Nile in Ethiopia, and the country uses one-third of the power that that dam generates, so there's a ton of power there.
+[01:21:45] SPEAKER_01: How much power does that dam generate?
+[01:21:46] SPEAKER_04: It's over a gigawatt.
+[01:21:48] SPEAKER_04: And the country consumes like 400 megawatts or something trivial and who is like are people bidding for that power?
+[01:21:53] SPEAKER_04: I think people just don't think they can build a data center in fucking Ethiopia.
+[01:21:57] SPEAKER_04: Why not?
+[01:21:57] SPEAKER_04: The dam is filled yet.
+[01:21:58] SPEAKER_04: Is it?
+[01:21:59] SPEAKER_04: No, I mean they have to like the the dam could generate that power They just don't okay, right like there's a little bit more equipment required, but that's like not too hard.
+[01:22:06] SPEAKER_04: Um, I
+[01:22:07] SPEAKER_04: Why don't they?
+[01:22:10] SPEAKER_04: I think there's true security risks, right?
+[01:22:13] SPEAKER_04: If you're China or if you're the US lab, to build a fucking data center with all your IP in fucking Ethiopia.
+[01:22:21] SPEAKER_04: You want AGI to be in Ethiopia?
+[01:22:23] SPEAKER_04: You want it to be that accessible?
+[01:22:24] SPEAKER_04: People you can't even monitor being the technicians in the fucking data center or whatever, right?
+[01:22:29] SPEAKER_04: Or powering the data center, all these things.
+[01:22:31] SPEAKER_04: There's so many...
+[01:22:33] SPEAKER_04: You know, things you could do to like, you could just destroy every GPU in a data center if you want, if you just like fuck with the grid, right?
+[01:22:38] SPEAKER_04: Like pretty, pretty like easily, I think.
+[01:22:40] SPEAKER_04: People talk a lot about it in the Middle East.
+[01:22:42] SPEAKER_04: There's a 100k GB 200 cluster going up in the Middle East, right?
+[01:22:46] SPEAKER_04: And the US like, there's like clearly like stuff the US is doing, right?
+[01:22:50] SPEAKER_04: Like, the, you know, G42 is the UAE data center company, cloud company.
+[01:22:55] SPEAKER_04: Their CEO is a Chinese national or not Chinese, he's Chinese.
+[01:22:59] SPEAKER_04: basically Chinese allegiance, but I think OpenAI wanted to use a data center from them, but instead, the US forced Microsoft to, I feel like this is what happened, is forced Microsoft to do a deal with them so that G42 has a 100K GPU cluster, but Microsoft is administering and operating for security reasons, right?
+[01:23:18] SPEAKER_04: And there's Omniva in Kuwait, the Kuwait super rich guy spending five plus billion dollars on data centers, right?
+[01:23:25] SPEAKER_04: You just go down the list, all these countries, Malaysia has,
+[01:23:29] SPEAKER_04: know, 10 plus billion dollars of like data center, you know, AI data center build outs over the next couple years, right?
+[01:23:34] SPEAKER_04: Like, and you know, go to every country, it's like this, this stuff is happening.
+[01:23:38] SPEAKER_04: But on the grand scheme of things, the vast majority of the compute is being built in the US, and then China, and then like Malaysia, Middle East, and like rest of the world.
+[01:23:46] SPEAKER_04: And if you're in there, you know, going back to your point, right, like you have synthetic data, you have like the search stuff, you have like, you have all these push training techniques, you have all this, you know, all this ways to soak up flops, or you just figure out how to train across multiple data centers, which I think they have, at least Microsoft and OpenAI have figured out.
+[01:24:07] SPEAKER_01: What makes you think they figured it out?
+[01:24:09] SPEAKER_04: Their actions.
+[01:24:12] SPEAKER_04: Microsoft has signed deals north of $10 billion with fiber companies to connect their data centers together.
+[01:24:18] SPEAKER_04: There are some permits already filed to show people are digging between certain data centers.
+[01:24:23] SPEAKER_04: So we think with fairly high accuracy, we think that there's five data centers, massive, not just five data centers, sorry, five regions that they're connecting together, which comprises of many data centers, right?
+[01:24:33] SPEAKER_01: What will be the total power usage of the?
+[01:24:36] SPEAKER_04: Depends on the time, but easily north of a gigawatt, right?
+[01:24:39] SPEAKER_01: Which is like close to a million GPUs.
+[01:24:42] SPEAKER_04: Well, the each GPU is getting more power at higher power consumption, too Right, like it's like, you know, the rule of thumb is like GPU h100 is like 700 watts But then like total power per GPU all-in is like 1200 1300 watts 1400 watts, but next generation and video GPUs are It's 1200 watts for the GPU, but then it actually ends up being like 2,000 watts all in right like so there's a little bit of scaling of power per GPU
+[01:25:05] SPEAKER_04: But you already have 100K cluster, right?
+[01:25:09] SPEAKER_04: OpenAI in Arizona, XAI in Memphis, and many others already building 100K clusters of H100s.
+[01:25:14] SPEAKER_04: You have multiple, at least five, I believe, GB200, 100K clusters being built by Microsoft slash OpenAI slash their partners for them.
+[01:25:25] SPEAKER_04: And then potentially even more, 500K GB200s, right?
+[01:25:30] SPEAKER_04: a gigawatt, right?
+[01:25:31] SPEAKER_04: And that's online next year, right?
+[01:25:33] SPEAKER_04: And the year after that, if you aggregate all the data center sites and how much power, and you only look at net ads since 2022 instead of the total capacity at each data center, then you're still north of multi-gigawatt, right?
+[01:25:45] SPEAKER_04: And so they're spending 10 plus billion dollars on these fiber deals with a few fiber companies, Lumen, Zayo, like, you know, a couple other companies.
+[01:25:53] SPEAKER_04: And then they've got all these data centers that they're clearly building 100k clusters on, right?
+[01:25:57] SPEAKER_04: Like old crypto mining site with Corweave in Texas, or like this Oracle Crusoe in Texas, and then like in Wisconsin and Arizona and you know, a couple other places.
+[01:26:07] SPEAKER_04: There's a lot of data centers being built up.
+[01:26:09] SPEAKER_04: you know, and providers, right?
+[01:26:11] SPEAKER_04: QTS and Cooper and like, you know, you go down the list, there's like so many different providers and self-build, right?
+[01:26:16] SPEAKER_04: Data centers I'm building myself.
+[01:26:17] SPEAKER_01: Gigawatts, yes.
+[01:26:20] SPEAKER_01: Let's just like give the number on like, okay, 2025, Elon's cluster is going to be the big, like, it doesn't matter who it is.
+[01:26:28] SPEAKER_04: So then there's a definition game, right?
+[01:26:30] SPEAKER_04: Like Elon claims he has the largest cluster at 100K GPUs because they're all fully connected.
+[01:26:34] SPEAKER_01: Rather than who it is, like, I just want to know like, how many like,
+[01:26:38] SPEAKER_01: I don't know if it's better to denominate in 800s.
+[01:26:40] SPEAKER_01: 100,000 GPUs this year, right?
+[01:26:43] SPEAKER_01: For the biggest cluster.
+[01:26:44] SPEAKER_04: For the biggest cluster.
+[01:26:45] SPEAKER_04: Next year.
+[01:26:46] SPEAKER_04: Next year, 300 to 500,000, depending on whether it's one side or many, right?
+[01:26:51] SPEAKER_04: 300 to like 700,000, I think is the upper bound of that.
+[01:26:53] SPEAKER_04: But anyways, it's about when they tier it on, when they can connect them, when the fiber's connected together.
+[01:26:59] SPEAKER_04: Anyways, 300 to 500,000, let's say, but those GPUs are two to three X faster.
+[01:27:05] SPEAKER_04: Right?
+[01:27:06] SPEAKER_04: Versus the 100K cluster.
+[01:27:07] SPEAKER_04: So on an H100 equivalent basis, you're at a million chips next year.
+[01:27:12] SPEAKER_04: In one cluster?
+[01:27:13] SPEAKER_04: By the end of the year, yes.
+[01:27:14] SPEAKER_04: No, no, no.
+[01:27:15] SPEAKER_04: So one cluster is like the wishy-washy definition, right?
+[01:27:18] SPEAKER_04: Multi-site, right?
+[01:27:19] SPEAKER_04: Can you do multi-site?
+[01:27:20] SPEAKER_04: What's the efficiency loss when you do a multi-site?
+[01:27:23] SPEAKER_04: Is it possible at all?
+[01:27:24] SPEAKER_04: I truly believe so.
+[01:27:26] SPEAKER_04: What's the efficiency loss is the question, right?
+[01:27:29] SPEAKER_04: Okay, would it be like 20% loss, 50% loss?
+[01:27:32] SPEAKER_04: Great question.
+[01:27:32] SPEAKER_04: This is where like, you know, this is where you need like the secrets, right?
+[01:27:36] SPEAKER_04: Of like, and Anthropic's got similar plans with Amazon and you go down the list, right?
+[01:27:39] SPEAKER_04: Like people- And then the year after that.
+[01:27:41] SPEAKER_04: The year after that is where- This is 2026.
+[01:27:44] SPEAKER_04: 2026, there is a single gigawatt site, and that's just part of the multiple sites, right?
+[01:27:51] SPEAKER_04: For Microsoft.
+[01:27:51] SPEAKER_04: The Microsoft 5 gigawatt thing happens in 2026.
+[01:27:54] SPEAKER_04: One gigawatt one site in 2026, but then you have a number of others.
+[01:27:59] SPEAKER_04: You have five different locations, some with multiple sites, some with single site.
+[01:28:04] SPEAKER_04: You're easily north of two, three gigawatts.
+[01:28:07] SPEAKER_04: And then the question is, can you start using the old chips with the new chips?
+[01:28:10] SPEAKER_04: And the scaling, I think, is you're going to continue to see flop scaling much faster than people expect, I think, as long as the money pours in, right?
+[01:28:18] SPEAKER_04: That's the other thing, is there's no fucking way you can pay for the scale of clusters that are being planned to be built next year for OpenAI unless they raise $50 to $100 billion.
+[01:28:29] SPEAKER_04: which I think they will raise that like end of this year, early next year.
+[01:28:32] SPEAKER_04: 5200 billion?
+[01:28:33] SPEAKER_04: Yes.
+[01:28:33] SPEAKER_04: Are you kidding me?
+[01:28:34] SPEAKER_04: No.
+[01:28:35] SPEAKER_04: Oh my God.
+[01:28:36] SPEAKER_04: This is like, you know, like Sam has a superpower.
+[01:28:38] SPEAKER_04: No, like it's like, it's like recruiting and like raising money.
+[01:28:42] SPEAKER_04: That's like what he's like a god at.
+[01:28:44] SPEAKER_04: Will ships themselves be a bottleneck to the scaling?
+[01:28:46] SPEAKER_04: Not in the near term, it's more getting back to the concentration versus decentralization point.
+[01:28:52] SPEAKER_04: Because the largest cluster is 100,000 GPUs.
+[01:28:55] SPEAKER_04: NVIDIA's manufactured close to 6 million hoppers, right?
+[01:28:58] SPEAKER_04: Across last year and this year, right?
+[01:29:00] SPEAKER_04: So what, that's fucking tiny, right?
+[01:29:01] SPEAKER_01: So then why is, say I'm talking about a 7 trillion to build foundries and whatever.
+[01:29:06] SPEAKER_04: Well, this is, you know, like.
+[01:29:08] SPEAKER_04: draw the line right like a log log lines let's fuck number goes up right you know if you do if you do that right like you're going from 100k to 300 to 500k where the equivalent is a million you just 10x year on year do that again do that again or more right if you increase the pacing what is do that again so like 2026 like the number of h100 if you try and you know if you increase the globally produced flops by like 30x
+[01:29:32] SPEAKER_04: year-on-year, or 10X year-on-year, and the cluster size grows by three to five to 7X, and then you get multi-site going better and better and better, you can get to the point where multi-million chip clusters, even if they're regionally not connected right next to each other, are right there.
+[01:29:52] SPEAKER_01: And in terms of flops, it would be 1E what?
+[01:29:56] SPEAKER_01: 1E28, 29?
+[01:29:56] SPEAKER_01: I think 1E30 is very possible, like 28, 29.
+[01:30:00] SPEAKER_01: Wow.
+[01:30:01] SPEAKER_01: Yeah.
+[01:30:02] SPEAKER_01: And 1e30 you said by 2829?
+[01:30:04] SPEAKER_01: Yeah.
+[01:30:05] SPEAKER_01: And so that is literally six orders of magnitude.
+[01:30:08] SPEAKER_01: That's like 100,000 times more compute than GPT-4.
+[01:30:11] SPEAKER_01: Yes.
+[01:30:12] SPEAKER_04: The other thing to say is like the way you count flops on a
+[01:30:16] SPEAKER_04: training run is really stupid.
+[01:30:18] SPEAKER_04: You can't just do active parameters times tokens times six, right?
+[01:30:21] SPEAKER_04: That's really dumb because the paradigm, as you mentioned, and you've had many great podcasts on this, synthetic data and RL stuff, post-training, verifying data, and all these things generating and throwing it away, all sorts of stuff.
+[01:30:34] SPEAKER_04: Search, inference time compute, all these things.
+[01:30:37] SPEAKER_04: aren't counted in the training flops.
+[01:30:39] SPEAKER_04: So you can't say 1E30 is a really stupid number to say because by then the actual flops of the pre-training may be X, but the data to generate for the pre-training may be way bigger, or the search inference time may be way, way bigger, right?
+[01:30:53] SPEAKER_01: Right.
+[01:30:54] SPEAKER_01: But also the like, because you're doing the sort of adversarial synthetic data, where like the thing you're weakest that you can make synthetic data for that, it might be way more sample efficient.
+[01:31:03] SPEAKER_01: So like, even though the pre-training flops will be irrelevant, right?
+[01:31:06] SPEAKER_04: Like, I actually don't think pre-training flops will be 1e30.
+[01:31:08] SPEAKER_04: I think more reasonably, it'll be like the total summation of the flops that you deliver to the model
+[01:31:13] SPEAKER_04: Right.
+[01:31:14] SPEAKER_04: Across pre-training, post-training, synthetic data for that pre-training data and post-training data, as well as some of the inference time compute efficiencies.
+[01:31:24] SPEAKER_04: It's more like 1E30, right?
+[01:31:25] SPEAKER_01: Interesting.
+[01:31:26] SPEAKER_01: So suppose you really do get to the world where it's worth investing.
+[01:31:31] SPEAKER_01: Okay, actually, if you're doing 1E30, is that a trillion dollar cluster or a hundred billion dollar cluster?
+[01:31:37] SPEAKER_01: I think it'll be like
+[01:31:40] SPEAKER_04: multi-hundred billion dollars, but then like, it'll be like, I like truly believe people are gonna be able to use their prior generation clusters alongside their new generation clusters.
+[01:31:51] SPEAKER_04: And obviously like, you know, smaller batch sizes or whatever, right?
+[01:31:54] SPEAKER_04: Like, or use that to generate and verify data, all these sorts of things.
+[01:31:56] SPEAKER_01: And then for 1e30, right now, I think 5% of TSMC's N5 is NVIDIA, or like whatever percent it is.
+[01:32:05] SPEAKER_01: By 2028, what percentage will it be?
+[01:32:09] SPEAKER_04: Um, again, this is like a question of like how skill-filled you are and how much money will flow into this and how you think progress works.
+[01:32:16] SPEAKER_04: Like, will models continue to get better or does the line like not, does the line slope over?
+[01:32:20] SPEAKER_04: I believe it'll like continue to like skyrocket in terms of capabilities.
+[01:32:23] SPEAKER_00: In that world.
+[01:32:24] SPEAKER_04: In that world.
+[01:32:25] SPEAKER_04: Why wouldn't like, of not a five nanometer, but like of two nanometer, A16, A14, these are the nodes that'll be in that timeframe of 2028, used for AI, I could see like 60, 70, 80% of it.
+[01:32:36] SPEAKER_01: Like, yeah, no problem.
+[01:32:38] SPEAKER_01: Given the fabs that are like currently planned and are currently being built, is that enough for the 1E30 or will more be needed?
+[01:32:43] SPEAKER_01: I think so, yeah.
+[01:32:44] SPEAKER_01: So then like the chip code doesn't make any sense.
+[01:32:47] SPEAKER_01: Sorry.
+[01:32:48] SPEAKER_01: Like the chip code stuff about like we don't have enough compute doesn't make any sense.
+[01:32:50] SPEAKER_04: So no, I think like,
+[01:32:52] SPEAKER_04: The plans of TSMC on two nanometer and such are like quite aggressive for a reason, right?
+[01:32:59] SPEAKER_04: Like to be clear.
+[01:33:02] SPEAKER_04: Apple, which has been TSMC's largest customer, does not need how much 2 nanometer capacity they're building.
+[01:33:07] SPEAKER_04: They will not need A16.
+[01:33:09] SPEAKER_04: They will not need A14, right?
+[01:33:10] SPEAKER_04: Like, you go down the list, it's like, Apple doesn't need this shit, right?
+[01:33:14] SPEAKER_04: Although they did just hire one of Google's head of system design for TPU.
+[01:33:18] SPEAKER_04: But, you know, so they are going to make an accelerator.
+[01:33:20] SPEAKER_04: But, you know, that's besides the point, an AI accelerator, but that's besides the point.
+[01:33:24] SPEAKER_04: Apple doesn't need this for their business, which they have been 25% or so of TSMC's business for a long time.
+[01:33:29] SPEAKER_04: And when you just zone in on just the leading edge, they've been like more than half of the newest node or 100% of the newest node almost constantly.
+[01:33:37] SPEAKER_04: That paradigm goes away.
+[01:33:39] SPEAKER_04: Right?
+[01:33:40] SPEAKER_04: If you believe in scaling and you believe in like the models get better, the new models will generate, you know, infinite, not infinite, but like amazing productivity gains for the world and such on and so on and so forth.
+[01:33:50] SPEAKER_04: And if you believe in that world, then like TSMC needs to act accordingly and the amount of silicon that gets delivered needs to be there.
+[01:33:56] SPEAKER_04: So 25, 26, TSMC is like definitely there.
+[01:34:00] SPEAKER_04: And then on a longer timescale, the industry, industry can be ready for it, but
+[01:34:06] SPEAKER_04: It's going to be a constant game of like, you must convince them constantly that they must do this.
+[01:34:10] SPEAKER_04: It's not like a simple game of like, oh, you know, if people work silently, it's not going to happen, right?
+[01:34:16] SPEAKER_04: Like they have to see the demonstrated growth over and over and over and over again across the industry.
+[01:34:23] SPEAKER_04: Will we see investors or companies or who?
+[01:34:26] SPEAKER_04: More so like TSMC needs to see NVIDIA volumes continue to grow straight up, right?
+[01:34:30] SPEAKER_04: And Google's volumes continue to grow straight up and go down the list.
+[01:34:35] SPEAKER_04: Chips in the near term, right, next year, for example, are less of a constraint than data centers, right?
+[01:34:41] SPEAKER_04: And likewise for 2026.
+[01:34:42] SPEAKER_04: The question for 27, 28 is like, you know, always when you
+[01:34:48] SPEAKER_04: grow super rapidly, people want to say, that's the one bottleneck, because that's the convenient thing to say.
+[01:34:54] SPEAKER_04: And in 2023, there was a convenient bottleneck, COAS, right?
+[01:34:59] SPEAKER_04: The picture's gotten much, much cloudier.
+[01:35:01] SPEAKER_04: Not cloudier, but we can see that
+[01:35:03] SPEAKER_04: Now, HBM is a limiter too, Coas is as well, CoasL especially, right?
+[01:35:08] SPEAKER_04: Data centers, transformers, substations, power generation, batteries, UPSs, CRHs, water cooling stuff, all of this stuff is now limitations next year and the year after.
+[01:35:18] SPEAKER_04: FABs are in 26, 27, right?
+[01:35:21] SPEAKER_04: Things will get cloudy because the moment you unlock one, oh, only 10% higher, the next one is the thing, and only 20% higher, the next one is the thing.
+[01:35:29] SPEAKER_04: So today, data centers are like 4% to 5%,
+[01:35:32] SPEAKER_01: Of total US.
+[01:35:33] SPEAKER_04: Of total US.
+[01:35:34] SPEAKER_04: When you think about like as a percentage of US power, that's not that much, but when you think US power has been like this and now you're like this, but then you also flip side, you're like, Oh, all this coal has been curtailed all these like, Oh, there's so many like different things.
+[01:35:44] SPEAKER_04: So like power is not that crazy on a like glow on a national basis.
+[01:35:48] SPEAKER_04: On a localized basis, it is because it's about the delivery of it.
+[01:35:51] SPEAKER_04: Same with the substation transformer supply chains, right?
+[01:35:53] SPEAKER_04: It's like these companies have operated in an environment where the US power is like this or even slightly down, right?
+[01:36:00] SPEAKER_04: And it's kind of been like that because of efficiency gains.
+[01:36:03] SPEAKER_04: So anyways, there have been humongous weakening of the industry.
+[01:36:09] SPEAKER_04: But now, all of a sudden, if you tell that industry,
+[01:36:12] SPEAKER_04: Your business will triple next year if you can produce more.
+[01:36:15] SPEAKER_04: Oh, but I can only produce 50% more.
+[01:36:17] SPEAKER_04: Okay, fine.
+[01:36:17] SPEAKER_04: A year after that, now we can produce 3x as much, right?
+[01:36:20] SPEAKER_04: You do that to the industry, the US industrial base, as well as the Japanese, as well as like, you know, all across the world can get revitalized much faster than people realize, right?
+[01:36:30] SPEAKER_04: Like,
+[01:36:32] SPEAKER_04: I truly believe that people can innovate when given the need to.
+[01:36:35] SPEAKER_04: It's one thing if it's like, this is a shitty industry where my margins are low, and we're not growing really, and like, you know, blah, blah, blah, blah, blah, to all of a sudden, oh, this is the sex—I'm in power, and I'm like, this is the sexiest time to be alive, and we're going to do all these different plans and projects, and people have all this demand.
+[01:36:53] SPEAKER_04: They're begging me for another percent of efficiency advantage because that gives them another percent to deliver to the chips.
+[01:36:58] SPEAKER_04: All these things where 10% or whatever it is, you see all these things happen and innovation is unlocked.
+[01:37:05] SPEAKER_04: You also bring in AI tools, you bring in all these things, innovation will be unlocked.
+[01:37:09] SPEAKER_04: Production capacity can grow, not overnight, but it will on six months, 18 months, three-year timescales.
+[01:37:15] SPEAKER_04: It will grow rapidly.
+[01:37:17] SPEAKER_04: and you see the revitalization of these industries.
+[01:37:20] SPEAKER_04: So, but I think like getting people to understand that, getting people to believe, because you know, if we pivot to like, you know, I'm telling you that Sam's going to raise 50 to a hundred billion dollars because he's telling people he's going to raise this much, right?
+[01:37:31] SPEAKER_04: Like literally having discussions with sovereigns and like you, Saudi Arabia and like,
+[01:37:38] SPEAKER_04: the Canadian pension fund and like not these specific people, but like the biggest investors in the world.
+[01:37:42] SPEAKER_04: Of course, Microsoft as well, but like he's literally having these discussions because they're going to drop their next model or they're going to show it off to people and raise that money.
+[01:37:49] SPEAKER_04: But because this is their plan.
+[01:37:51] SPEAKER_01: If these sites are already planned and like the money is not there, right?
+[01:37:54] SPEAKER_01: So how do you plan?
+[01:37:55] SPEAKER_01: How do you like plan a site without today?
+[01:37:57] SPEAKER_04: Microsoft is taking
+[01:37:58] SPEAKER_04: on immense credit risk, right?
+[01:38:01] SPEAKER_04: Like, they've signed these deals with all these companies to do this stuff, but Microsoft doesn't have, I mean, they could pay for it, right?
+[01:38:07] SPEAKER_04: Microsoft could pay for it on the current timescale, right?
+[01:38:10] SPEAKER_04: Oh, what's, you know, their CapEx going from $50 billion to $80 billion direct CapEx, and then another 20 billion across like Oracle, CoreWeed, you know, and then like another like 10 billion across their data center partners.
+[01:38:22] SPEAKER_04: They can afford that, right?
+[01:38:24] SPEAKER_04: To next year, right?
+[01:38:25] SPEAKER_04: But then,
+[01:38:27] SPEAKER_04: That doesn't, you know, like, this is because Microsoft truly believes in open AI.
+[01:38:30] SPEAKER_04: They may have doubts like, holy shit, we're taking a lot of credit risk.
+[01:38:32] SPEAKER_04: You know, obviously, they have to message Wall Street, all these things, but they are not like, that's like affordable for them because they believe they're a great partner to open AI, that they'll take on all this credit risk.
+[01:38:42] SPEAKER_04: Now, obviously OpenAI has to deliver.
+[01:38:44] SPEAKER_04: They have to make the next model, right?
+[01:38:46] SPEAKER_04: That's way better.
+[01:38:47] SPEAKER_04: And they also have to raise the money.
+[01:38:48] SPEAKER_04: And I think they will, right?
+[01:38:49] SPEAKER_04: I truly believe from like how amazing 4.0 is, how small it is relative to 4, the cost of it is so insanely cheap.
+[01:38:57] SPEAKER_04: It's much cheaper than the API prices lead you to believe.
+[01:39:00] SPEAKER_04: And you're like, oh, what if you just make a big one?
+[01:39:01] SPEAKER_04: It's like very clear what's going to happen to me on the next jump that they can then raise this money and they can raise this capital from the world.
+[01:39:08] SPEAKER_04: This is intense, Dylan.
+[01:39:11] SPEAKER_01: It's very intense.
+[01:39:12] SPEAKER_01: John, actually, if he's right, or I don't know, if not him, but in general, if the capabilities are there, the revenue is there.
+[01:39:20] SPEAKER_01: Revenue doesn't matter.
+[01:39:22] SPEAKER_01: Revenue matters.
+[01:39:23] SPEAKER_01: Is there any part of that picture that still seems wrong to you in terms of like displacing so much of TSMC production wafers and like power and so forth?
+[01:39:32] SPEAKER_01: Does any part of that seem wrong to you?
+[01:39:33] SPEAKER_05: I can only speak to the semiconductor part, even though I'm not an expert.
+[01:39:37] SPEAKER_05: But I think the thing is like TSMC can do it.
+[01:39:39] SPEAKER_05: Like they'll do it.
+[01:39:40] SPEAKER_05: I just wonder.
+[01:39:42] SPEAKER_05: Though he's right in that in a sense of 24, 25, that's covered.
+[01:39:46] SPEAKER_05: But 26, 27, that's that secret point where you have to say, can the semiconductor industry and the rest of the industry be convinced that this is where the money is?
+[01:39:56] SPEAKER_05: Like, where's money is?
+[01:39:57] SPEAKER_05: And that means, is there money?
+[01:39:58] SPEAKER_01: Is there money by 24, 25?
+[01:40:00] SPEAKER_01: How much revenue do you think the AI industry as a whole needs by 25 in order to keep scaling?
+[01:40:04] SPEAKER_01: Doesn't matter.
+[01:40:05] SPEAKER_01: Compared to smartphones.
+[01:40:06] SPEAKER_01: Compared to smartphones.
+[01:40:07] SPEAKER_01: But I know he says it doesn't matter.
+[01:40:08] SPEAKER_00: I'll get to a lie.
+[01:40:10] SPEAKER_01: You keep, I know.
+[01:40:11] SPEAKER_01: Hey, what is smartphones?
+[01:40:11] SPEAKER_01: Like Apple's revenue is like 200 something billion dollars, so like.
+[01:40:14] SPEAKER_05: Yeah, it needs to be another smartphone size opportunity, right?
+[01:40:17] SPEAKER_05: Like even the smartphone industry didn't drive this sort of growth.
+[01:40:20] SPEAKER_05: Like it's kind of crazy, don't you think?
+[01:40:21] SPEAKER_05: So today, so far, right?
+[01:40:23] SPEAKER_05: The only thing I can really perceive, yeah, girlfriend.
+[01:40:25] SPEAKER_05: But like, but you know what I mean.
+[01:40:29] SPEAKER_04: It's not there.
+[01:40:30] SPEAKER_04: No, I want a real one, David.
+[01:40:35] SPEAKER_04: So, like, a few things, right?
+[01:40:36] SPEAKER_04: The return on invested capital for all of the big tech firms is up since 2022.
+[01:40:42] SPEAKER_04: And therefore, it's clear as day that them investing in AI has been fruitful so far, right?
+[01:40:48] SPEAKER_04: For the big tech firms.
+[01:40:51] SPEAKER_04: Return on invested capital.
+[01:40:52] SPEAKER_04: Like financially, you look at Meta's, you look at Microsoft's, you look at Amazon's, you look at Google's.
+[01:40:57] SPEAKER_04: The return on invested capital is up since 2022.
+[01:41:00] SPEAKER_04: On AI in particular?
+[01:41:02] SPEAKER_04: No, just generally as a company.
+[01:41:03] SPEAKER_04: Now obviously there's other factors here, like what is Meta's ad efficiency?
+[01:41:06] SPEAKER_04: How much of that is AI, right?
+[01:41:07] SPEAKER_04: Super messy.
+[01:41:08] SPEAKER_04: That's a super messy thing.
+[01:41:08] SPEAKER_04: Super messy thing.
+[01:41:09] SPEAKER_04: But here's the other thing.
+[01:41:10] SPEAKER_04: This is Pascal's wager, right?
+[01:41:11] SPEAKER_04: This is a matrix of like, do you believe in God?
+[01:41:15] SPEAKER_04: Yes or no?
+[01:41:16] SPEAKER_04: If you believe in God, yes or no, like hell or heaven, right?
+[01:41:19] SPEAKER_04: So if you believe in God and God's real and you go to heaven, that's great, that's fine, whatever.
+[01:41:23] SPEAKER_04: If you don't believe in God and God is real, then you're going to hell.
+[01:41:27] SPEAKER_05: This is the deep technical analysis you'll subscribe to Semianalysis for.
+[01:41:33] SPEAKER_05: Can you imagine what happens to the stock if Satya starts talking about Pascal's wager?
+[01:41:37] SPEAKER_04: No, no, but this is psychologically what's happening, right?
+[01:41:40] SPEAKER_04: This is a, if I don't, and Satya said it on his earnings call, the risk of under-investing is worse than the risk of over-investing.
+[01:41:47] SPEAKER_04: He has said this word for word, this is Pascal's wager.
+[01:41:50] SPEAKER_04: This is, I must believe I am AGI-filled because if I'm not and my competitor does it, I'm absolutely fucked.
+[01:41:55] SPEAKER_04: Okay, other than Zuck.
+[01:41:57] SPEAKER_04: No, no, no, Sundar said this on the Earns call.
+[01:42:01] SPEAKER_04: So Zuck said it, Sundar said it, Satya's actions on credit risk for Microsoft do it.
+[01:42:05] SPEAKER_04: He's very good at PR and messaging, so he hasn't said it so openly, right?
+[01:42:11] SPEAKER_04: Sam believes it, Dario believes it.
+[01:42:13] SPEAKER_04: You look across these tech titans, they believe it.
+[01:42:15] SPEAKER_04: And then you look at the capital holders.
+[01:42:18] SPEAKER_04: The UAE believes it.
+[01:42:19] SPEAKER_04: Saudi believes it.
+[01:42:21] SPEAKER_04: How do you know the UAE and Saudi believe it?
+[01:42:22] SPEAKER_04: Blackstone believes it.
+[01:42:22] SPEAKER_04: Like, all these major companies and capital holders also believe it because they're putting their money here.
+[01:42:27] SPEAKER_04: But, but, like, how can, like, it won't last.
+[01:42:30] SPEAKER_04: It can't last unless there's money coming in somewhere.
+[01:42:33] SPEAKER_04: Correct, correct.
+[01:42:33] SPEAKER_04: But then, the question is,
+[01:42:36] SPEAKER_04: The simple truth is, like, GPT-4 costs like $500 million to train.
+[01:42:40] SPEAKER_04: I agree.
+[01:42:40] SPEAKER_04: And it has generated billions in reoccurring revenue.
+[01:42:43] SPEAKER_04: But in that meantime, OpenAI raised $10 billion or $13 billion and is building a model that costs that much, effectively, right?
+[01:42:50] SPEAKER_04: Right.
+[01:42:52] SPEAKER_04: And so then, obviously, they're not making money.
+[01:42:55] SPEAKER_04: So what happens when they do it again?
+[01:42:56] SPEAKER_04: They release and show GPT-5.
+[01:42:59] SPEAKER_04: with whatever capabilities that make everyone in the world like, holy fuck, obviously the revenue takes time after you release the model to show up.
+[01:43:06] SPEAKER_04: You still have only a few billion dollars or, you know, five billion dollars of revenue run rate, you just raise 50 to 100 billion dollars because everyone sees this like, holy fuck, this is gonna generate tens of billions of revenue.
+[01:43:15] SPEAKER_04: But that tens of billions takes time to flow in, right?
+[01:43:18] SPEAKER_04: It's not an immediate click.
+[01:43:20] SPEAKER_04: But the time where Sam can convince, and not just Sam, but like people's decisions to spend the money are being made,
+[01:43:26] SPEAKER_04: are then, right?
+[01:43:27] SPEAKER_04: So therefore, you look at the data centers people are building, you don't have to spend most of the money to build the data center.
+[01:43:31] SPEAKER_04: Most of the money is the chips, but you're already committed to like, oh, I'm just going to have so much data center capacity by 2027 or 2026 that it's, I'm never going to need to build a data center again for like three, four, five years if AI is not real, right?
+[01:43:43] SPEAKER_04: That's basically what all their actions are.
+[01:43:46] SPEAKER_04: Or I can spend over $100 billion on chips in 26.
+[01:43:49] SPEAKER_04: And I can spend over $100 billion on chips in 27.
+[01:43:52] SPEAKER_04: Right.
+[01:43:52] SPEAKER_04: So this is the these are the actions people are doing.
+[01:43:54] SPEAKER_04: And the lag on revenue versus when you spend the money or raise the money, raise the money, spend the money built, you know, there's like a lag on this.
+[01:44:02] SPEAKER_04: So this is like, you don't necessarily need the revenue in 2025 to support this.
+[01:44:08] SPEAKER_04: You don't need the revenue in 2026 to support this.
+[01:44:10] SPEAKER_04: You need the revenue in 2526 to support the $10 billion that OpenAI spent in 23, or Microsoft spent in 23 slash early 24 to build the cluster, which then they trained the model in mid-20, you know, for early 24, mid-24, which they then released at the end of 24, which then started generating revenue in 2526.
+[01:44:26] SPEAKER_01: I mean, like, the only thing I can say is that you look at a chart with three points on a graph, GPT-1, 2, 3, and then you're like,
+[01:44:33] SPEAKER_01: And even that graph is like, the investment you have to make in GPT four or GPT three is 100x the investment you had to make in GPT five or GPT four is 100 like so revenue if like, currently the ROI could be positive, but like, and this very well could be true, I think it will be true.
+[01:44:49] SPEAKER_01: But like, the revenue has to like increase exponentially, not just like,
+[01:44:54] SPEAKER_01: Yeah, of course, of course.
+[01:44:55] SPEAKER_05: I agree with you, but I also, I agree with Dylan that it can be achieved.
+[01:45:01] SPEAKER_05: ROI, like semiconductor, TSMC does this.
+[01:45:03] SPEAKER_05: Invest $16 million, it expects ROI does that, right?
+[01:45:07] SPEAKER_05: I understand that, that's fine.
+[01:45:09] SPEAKER_05: Lag, all that.
+[01:45:09] SPEAKER_05: The thing that I don't expect is that GPT-5 is not here.
+[01:45:14] SPEAKER_05: It's all dependent on GPT-5 being good.
+[01:45:16] SPEAKER_05: If GPT-5 sucks, if GPT-5 looks like, it doesn't blow people's socks off, this is all void.
+[01:45:24] SPEAKER_04: What kind of socks are you wearing, bro?
+[01:45:26] SPEAKER_04: Show them.
+[01:45:27] SPEAKER_04: AWS.
+[01:45:27] SPEAKER_04: Show them.
+[01:45:28] SPEAKER_04: AWS.
+[01:45:28] SPEAKER_05: Show them.
+[01:45:29] SPEAKER_05: AWS.
+[01:45:31] SPEAKER_05: TP25 is not here.
+[01:45:33] SPEAKER_05: It's late.
+[01:45:33] SPEAKER_05: We don't know.
+[01:45:34] SPEAKER_01: I don't think it's late.
+[01:45:35] SPEAKER_01: I think it's late.
+[01:45:36] SPEAKER_01: I want to zoom out and, like, go back to the end of the decade picture again.
+[01:45:40] SPEAKER_01: So if you're, um, if this picture... Hold on, hold on.
+[01:45:43] SPEAKER_02: We've already lost John.
+[01:45:45] SPEAKER_05: We've already accepted GPT-5 would be good, hello?
+[01:45:48] SPEAKER_01: But yeah, you got it, you know?
+[01:45:49] SPEAKER_04: Yeah, you got it.
+[01:45:51] SPEAKER_04: Bro, like, life is so much more fun when you just, like, are delusionally, like, you know?
+[01:45:56] SPEAKER_05: We're just ripping bong fits, hey, are we?
+[01:46:00] SPEAKER_04: You feel the AGI, you feel your soul.
+[01:46:02] SPEAKER_04: This is why I don't live in San Francisco.
+[01:46:06] SPEAKER_04: I have tremendous belief in like GBD5.
+[01:46:08] SPEAKER_04: Why?
+[01:46:09] SPEAKER_04: Area.
+[01:46:09] SPEAKER_04: Because like what we've seen already.
+[01:46:11] SPEAKER_04: I think the public signs all show that this is like very much the case, right?
+[01:46:15] SPEAKER_04: What we see with
+[01:46:17] SPEAKER_04: Beyond that is more questionable, and I'm not sure because I don't know.
+[01:46:21] SPEAKER_04: I don't know, right?
+[01:46:21] SPEAKER_04: I don't know.
+[01:46:23] SPEAKER_04: We'll see how much they progress.
+[01:46:25] SPEAKER_04: But if things continue to improve, life continues to radically get reshaped for many people, it's also like every time you increment up the intelligence,
+[01:46:36] SPEAKER_04: The amount of usage of it grows hugely every time you increment the cost down of that amount of intelligence.
+[01:46:43] SPEAKER_04: The amount of usage increases massively.
+[01:46:45] SPEAKER_04: As you continue to push that curve out, that's what really matters, right?
+[01:46:50] SPEAKER_04: And it doesn't need to be today.
+[01:46:52] SPEAKER_04: It doesn't need to be a revenue versus how much CapEx.
+[01:46:55] SPEAKER_04: In any time in the next few years, it just needs to be, did that last humongous chunk of CapEx make sense for OpenAI or whoever the leader was?
+[01:47:03] SPEAKER_04: And then how does that flow through?
+[01:47:04] SPEAKER_04: Or were they able to convince enough people that they can raise this much money?
+[01:47:09] SPEAKER_04: You think Elon's tapped out of his network with raising $6 billion?
+[01:47:12] SPEAKER_04: No.
+[01:47:13] SPEAKER_04: XAI is going to be able to raise 30 plus, right?
+[01:47:15] SPEAKER_04: Easily, right?
+[01:47:16] SPEAKER_04: I think so.
+[01:47:18] SPEAKER_04: You think Sam's tapped out?
+[01:47:19] SPEAKER_04: You think Anthropic's tapped out?
+[01:47:20] SPEAKER_04: Anthropic's barely even diluted the company relatively, right?
+[01:47:23] SPEAKER_04: Like, you know, there's a lot of capital to be raised in just from like, call it FOMO if you want, but like during the dot-com bubble, people were spending, the private industry flew through like $150 billion a year.
+[01:47:35] SPEAKER_04: We're nowhere close to that yet.
+[01:47:38] SPEAKER_04: We're not even close to the dot-com bubble, right?
+[01:47:40] SPEAKER_04: Why would this bubble not be bigger, right?
+[01:47:42] SPEAKER_04: And if you go back to the prior bubbles, PC bubble, semiconductor bubble, mechatronics bubble throughout the US, each bubble was smaller.
+[01:47:48] SPEAKER_04: I don't know if you'd call it a bubble or not.
+[01:47:50] SPEAKER_04: Why wouldn't this one be bigger?
+[01:47:51] SPEAKER_04: How many billions of dollars a year is this bubble right now?
+[01:47:55] SPEAKER_04: For private capital?
+[01:47:56] SPEAKER_04: Yeah.
+[01:47:57] SPEAKER_04: It's like 55, 60 billion so far for this year.
+[01:48:01] SPEAKER_04: It can go much higher, right?
+[01:48:03] SPEAKER_04: And I think it will next year.
+[01:48:05] SPEAKER_01: Okay, so let me think about this.
+[01:48:09] SPEAKER_04: Need another bong rip.
+[01:48:12] SPEAKER_04: You know, at least like finishing up and looping into the next question was like, you know, prior bubbles also didn't have the most profitable companies that humanity has ever created investing, and they were debt financed.
+[01:48:21] SPEAKER_04: This is not debt financed yet, right?
+[01:48:23] SPEAKER_04: So that's the last like little point on that one.
+[01:48:25] SPEAKER_04: Whereas the 90s bubble was like very debt financed.
+[01:48:27] SPEAKER_05: This is like- It was disastrous for those companies.
+[01:48:29] SPEAKER_04: Yeah, sure, but it was-
+[01:48:30] SPEAKER_04: so many so much was built, right?
+[01:48:33] SPEAKER_04: You got to blow a bubble to get real stuff to be built.
+[01:48:35] SPEAKER_01: It is interesting analogy where like, with even though the dotcom bubble obviously burst and like a lot of companies went bankrupt, they in fact did lay out the infrastructure that enabled the web and everything.
+[01:48:44] SPEAKER_01: So you could imagine an AI it's like some a lot of the foundation, a lot of companies or whatever the like a bunch of companies will like go bankrupt, but like they will
+[01:48:53] SPEAKER_01: You couldn't argue with the singularity.
+[01:48:55] SPEAKER_05: During the 1990s, at the turn of the 1990s, there was an immense amount of money invested in like MEMS and like optical technologies because everyone expected the fiber bubble to continue, right?
+[01:49:04] SPEAKER_05: That all ended at 2003, 2002, right?
+[01:49:05] SPEAKER_05: Started in 94?
+[01:49:06] SPEAKER_05: It hasn't been a revitalization since, right?
+[01:49:07] SPEAKER_05: Like that's...
+[01:49:12] SPEAKER_04: You could risk the possibility of a- Lumen, one of the companies that's doing the fiber build out for Microsoft, the stock like fucking 4X last month, or this month.
+[01:49:20] SPEAKER_04: And then how's it done from 2002 to 2024?
+[01:49:21] SPEAKER_04: Oh no, horrible, horrible.
+[01:49:23] SPEAKER_04: But like, we're going to rip, baby.
+[01:49:25] SPEAKER_04: You could.
+[01:49:25] SPEAKER_04: Rip that bone, baby.
+[01:49:26] SPEAKER_04: You could freeze AI for another two decades.
+[01:49:30] SPEAKER_04: You sure sure possible or people can see a badass demo from GPD 5 slight release raise a fuckload of money It could even be like a Devon like demo right where it's like complete bullshit, but like it's fine right like should I should?
+[01:49:43] SPEAKER_04: Care
+[01:49:49] SPEAKER_04: You know, the capital is going to flow in, right?
+[01:49:53] SPEAKER_04: Now, whether it deflates or not is like an irrelevant concern on the near term because you operate in a world where it is happening.
+[01:50:01] SPEAKER_04: And being, you know, being, you know, what is the Warren Buffett quote, which is like, you can be, I don't even know if it's Warren Buffett.
+[01:50:07] SPEAKER_05: You don't know who's going to be naked until the tide goes out?
+[01:50:10] SPEAKER_04: No, no, no.
+[01:50:11] SPEAKER_04: The one about like, the market is delusional far longer than you can remain solvent or something like that.
+[01:50:16] SPEAKER_04: That's not Buffett.
+[01:50:16] SPEAKER_04: That's not Buffett?
+[01:50:17] SPEAKER_04: Yeah, yeah.
+[01:50:17] SPEAKER_04: That's John Maynard Keynes.
+[01:50:20] SPEAKER_04: Oh shit, that's that old?
+[01:50:21] SPEAKER_04: Yeah.
+[01:50:22] SPEAKER_04: Okay.
+[01:50:23] SPEAKER_04: Uh, okay.
+[01:50:24] SPEAKER_04: So Kane said it, right?
+[01:50:24] SPEAKER_04: It's like you can be, yeah.
+[01:50:26] SPEAKER_04: So this is the world you're operating in.
+[01:50:27] SPEAKER_04: Like it doesn't matter, right?
+[01:50:29] SPEAKER_04: Like what, what exactly happens or we'll be ebbs and flows, but like that's the world you're operating in.
+[01:50:33] SPEAKER_04: Um, I reckon that if an AI bubble, if the AI bubble pops, each one of these CEOs lose their jobs.
+[01:50:40] SPEAKER_04: Sure.
+[01:50:40] SPEAKER_04: Or if you don't invest and you lose, it's a Pascalian wager and that's much worse.
+[01:50:47] SPEAKER_04: Across decades, the largest company at the end of each decade, like the largest companies, that list changes a lot.
+[01:50:52] SPEAKER_04: And these companies are the most profitable companies ever.
+[01:50:54] SPEAKER_04: Are they going to let that list, are they going to let themselves like lose it or are they going to go for it?
+[01:50:59] SPEAKER_04: They have one shot, one opportunity, you know, to make themselves into, you know, the whole Eminem song, right?
+[01:51:05] SPEAKER_01: I want to hear like the story of how both of you started your businesses or you're like the thing you're doing now John like how to like what how did it begin?
+[01:51:17] SPEAKER_01: What were you doing?
+[01:51:18] SPEAKER_00: But when you started the textile company No way, please, please Okay, I guess if he doesn't want to I'll talk about it later, okay sure
+[01:51:27] SPEAKER_05: I think like I used to, I mean, the story's famous.
+[01:51:30] SPEAKER_05: I've told it a million times.
+[01:51:31] SPEAKER_05: It's like Asianometry started off as a tourist channel.
+[01:51:33] SPEAKER_00: Yeah.
+[01:51:33] SPEAKER_05: So I would go around kind of like, I was, I moved to Taiwan for work and then.
+[01:51:38] SPEAKER_05: Doing what?
+[01:51:39] SPEAKER_05: I was, I was working in cameras.
+[01:51:42] SPEAKER_05: And then like I told.
+[01:51:44] SPEAKER_04: What was the other company you started?
+[01:51:48] SPEAKER_05: It tells too much about me.
+[01:51:51] SPEAKER_05: Oh, come on.
+[01:51:51] SPEAKER_05: I worked in cameras and then basically I went to Japan with my mom and mom was like, hey, you know, what are you doing in Taiwan?
+[01:51:59] SPEAKER_05: I don't know what you're doing.
+[01:52:00] SPEAKER_05: I was like, all right, mom, I will go back to Taiwan and I'll make stuff for you.
+[01:52:04] SPEAKER_05: And I made videos.
+[01:52:05] SPEAKER_05: I would like go to the Chiang Kai-shek Park and be like, hi, mom, this park was this, this.
+[01:52:09] SPEAKER_05: Eventually at some point you run out of stuff, but then it's like a pretty smooth transition from that into like,
+[01:52:16] SPEAKER_05: you know, history of Chinese history, Taiwanese history, and then people started calling me Chinanometry.
+[01:52:21] SPEAKER_05: I didn't like that, so I moved to other parts of Asia.
+[01:52:23] SPEAKER_01: And now, and then- So what year did you like start, like what year was like people started watching your videos, let's say like a thousand views per video or something?
+[01:52:32] SPEAKER_05: Oh my gosh, that was not, I started the channel in 2017 and it wasn't until like 2018 that, 2019 that it actually, I labored on for like three years, first three years with like no one watching.
+[01:52:43] SPEAKER_05: Like I had got like 200 views and I'd be like, oh, this is great.
+[01:52:46] SPEAKER_01: And then where you were the videos basically like the ones you have, but so sorry, backing up for the audience who might not, I imagine basically everybody knows Asian amateur, but if you don't, like the most popular channel about semiconductors, Asian business history, business history in general, even like geopolitics, history and so forth.
+[01:53:06] SPEAKER_01: And
+[01:53:06] SPEAKER_01: Yeah, I mean, it's like, honestly, I've done like research for like different AI guests and different, like whatever thing I'm trying to be, I'm trying to understand like, how does hardware work?
+[01:53:15] SPEAKER_01: How does AI work?
+[01:53:16] SPEAKER_01: It's like, this is like my- How does a zipper work?
+[01:53:18] SPEAKER_01: Did you watch that video?
+[01:53:19] SPEAKER_01: No, I haven't watched that one.
+[01:53:20] SPEAKER_04: It was like, I think it was a span of three videos.
+[01:53:22] SPEAKER_04: It was like, Russian oil industry in the 1980s and how it like funded everything.
+[01:53:26] SPEAKER_04: And then when it collapsed, they were absolutely fucked.
+[01:53:28] SPEAKER_03: Yeah.
+[01:53:28] SPEAKER_04: And then it was like, the next video was like, the zipper monopoly in Japan.
+[01:53:31] SPEAKER_04: Not a monopoly.
+[01:53:32] SPEAKER_04: The next video was about ASMR.
+[01:53:33] SPEAKER_04: Not a monopoly.
+[01:53:35] SPEAKER_05: Strong, strong holding in the mid-tier size.
+[01:53:38] SPEAKER_05: There's like the luxury zipper makers.
+[01:53:40] SPEAKER_05: Asianometry is always just kind of like stuff I'm interested in.
+[01:53:42] SPEAKER_05: And I'm like interested in a whole bunch of different stuff.
+[01:53:45] SPEAKER_05: And I like, and the channel, for some reason, people started watching the stuff I do.
+[01:53:50] SPEAKER_05: And I still have no idea why.
+[01:53:52] SPEAKER_05: To be honest, I still feel like it's,
+[01:53:54] SPEAKER_05: I still feel like a fraud.
+[01:53:55] SPEAKER_05: I sit in front of like Dylan and he's- I feel like a fraud.
+[01:53:59] SPEAKER_05: Legit fraud.
+[01:53:59] SPEAKER_05: Especially when he starts talking about 60,000 wafers and all that.
+[01:54:02] SPEAKER_05: I'm just like, I feel like I should be know- I should know this.
+[01:54:05] SPEAKER_05: But like, you know, in the end it's... But- but that, you know, I just try my best to kind of bring interesting stories out.
+[01:54:12] SPEAKER_01: How do you make a video every single week?
+[01:54:14] SPEAKER_01: Because these are like- Two a week.
+[01:54:16] SPEAKER_01: You know how long he had a full-time job?
+[01:54:18] SPEAKER_01: Five years, six years.
+[01:54:19] SPEAKER_04: Or sorry, a textile business.
+[01:54:21] SPEAKER_05: And a, yes.
+[01:54:22] SPEAKER_04: And a full-time job.
+[01:54:23] SPEAKER_04: Wait, no, full-time job, textile business and Asianometry until like for a long, long time.
+[01:54:27] SPEAKER_04: Yeah.
+[01:54:27] SPEAKER_05: I literally just gave up the textile business this year.
+[01:54:30] SPEAKER_01: And like, how are you doing research and doing like making a video and like twice a week?
+[01:54:34] SPEAKER_01: I don't know.
+[01:54:35] SPEAKER_01: I like do these fucking, I'm like fucking talking.
+[01:54:36] SPEAKER_01: This is all I do.
+[01:54:37] SPEAKER_01: And I like do these like once every two weeks.
+[01:54:39] SPEAKER_04: See, the difference is Dwarkesh, you go to SF Bay Area parties constantly, and Dwarkesh is, I mean, John is like locked in.
+[01:54:48] SPEAKER_04: He's like locked in 24-7.
+[01:54:49] SPEAKER_01: He's got like the GSMC work ethic, and I've got like the Intel work ethic.
+[01:54:55] SPEAKER_01: I've got the Huawei ethic.
+[01:54:56] SPEAKER_05: If I do not finish this video, my family will be pillaged.
+[01:55:01] SPEAKER_04: He actually gets really stressed about it, I think, like not doing something like on his schedule, yeah.
+[01:55:07] SPEAKER_05: It's very much like, I do two videos per week, I write them both simultaneously.
+[01:55:12] SPEAKER_01: And how are you scouting out future topics you wanna do research?
+[01:55:15] SPEAKER_01: You just pick up random articles, books, whatever, and then you just, if you find it interesting, you make a video about it?
+[01:55:19] SPEAKER_05: Sometimes what I'll do is I'll Google a country, I'll Google an industry, and I'll Google what the country is exporting now and what it used to export, and I compare that and I say, that's my video.
+[01:55:30] SPEAKER_05: Or I'll be like, but then sometimes also just as simple as like, I should do a video about YKK.
+[01:55:36] SPEAKER_05: And then it's also just, but then it's also just as simple.
+[01:55:38] SPEAKER_05: Simper is nice.
+[01:55:39] SPEAKER_05: I should do a video about it.
+[01:55:40] SPEAKER_05: I do.
+[01:55:41] SPEAKER_05: I do.
+[01:55:41] SPEAKER_05: It literally is.
+[01:55:42] SPEAKER_01: Do you like keep a list of like, here's the next one.
+[01:55:45] SPEAKER_01: Here's the one after that.
+[01:55:46] SPEAKER_01: I have a long list of like ideas.
+[01:55:49] SPEAKER_05: Sometimes it's as vague as like Japanese whiskey.
+[01:55:54] SPEAKER_05: No idea what Japanese whiskey is about.
+[01:55:55] SPEAKER_05: I heard about it before I watched that movie.
+[01:55:58] SPEAKER_05: And then so I was just like, okay, I should do a video about that.
+[01:56:00] SPEAKER_05: And then eventually, you know, you get to, you get, you move on.
+[01:56:03] SPEAKER_01: How many research topics do you have in the back burner, basically?
+[01:56:05] SPEAKER_01: Like you're like, I'm just kind of reading about it constantly.
+[01:56:08] SPEAKER_01: And then like in a month or so, I'll make a video about it.
+[01:56:10] SPEAKER_05: I just finished a video about how IBM lost the PC.
+[01:56:13] SPEAKER_05: So right now, I'm unstressing about that.
+[01:56:16] SPEAKER_05: But then I'll kind of move right on to, like the videos do kind of lead into others.
+[01:56:21] SPEAKER_05: Like right now, this one is about IBM PC, how IBM lost the PC.
+[01:56:25] SPEAKER_05: Now it's next to how Compaq collapsed, how the wave destroyed Compaq.
+[01:56:29] SPEAKER_05: So technically, I'll do that.
+[01:56:31] SPEAKER_05: At the same time, I'm dual lining a video about
+[01:56:34] SPEAKER_05: Cubits, I'm dual lining a video about directed self-assembly for semiconductor manufacturing, which I'll read a lot of Dylan's work for.
+[01:56:43] SPEAKER_05: But like a lot of that is kind of like, it's in the back of my head and I'm like producing it as I go.
+[01:56:52] SPEAKER_01: Dylan, how do you work?
+[01:56:53] SPEAKER_01: How does one go from Reddit shitposter to like running a like a semiconductor research and consulting firm?
+[01:56:59] SPEAKER_01: Yes.
+[01:57:00] SPEAKER_01: Let's start with the shitposting.
+[01:57:01] SPEAKER_04: It's a long line, right?
+[01:57:02] SPEAKER_04: Like, so immigrant parents grew up in rural Georgia.
+[01:57:06] SPEAKER_04: So when I was eight, I begged for a seven, I begged for an Xbox.
+[01:57:09] SPEAKER_04: And when I was eight, I got it 360, right?
+[01:57:11] SPEAKER_04: They had a manufacturing defect called the rendering of death.
+[01:57:14] SPEAKER_04: There were a variety of fixes.
+[01:57:16] SPEAKER_04: I tried them, like putting a wet towel around the Xbox, something called the Penny Trick.
+[01:57:19] SPEAKER_04: Those all didn't work.
+[01:57:20] SPEAKER_04: My Xbox still didn't work.
+[01:57:22] SPEAKER_04: My cousin was coming the next weekend, and he's two years older than me.
+[01:57:26] SPEAKER_04: I look up to him.
+[01:57:27] SPEAKER_04: He's in between my brother and I, but I'm like, oh, no, no.
+[01:57:30] SPEAKER_04: We're friends.
+[01:57:31] SPEAKER_04: You don't like my brother as much as you like me.
+[01:57:33] SPEAKER_04: My brother's more like a jockey type, so it didn't matter.
+[01:57:36] SPEAKER_04: Like he didn't really care that I broke that the Xbox is broken.
+[01:57:39] SPEAKER_04: He's like you better fix it though, right?
+[01:57:41] SPEAKER_04: Otherwise parents will be pissed so I figure out how to fix it online It ends up and I tried a variety of fixes ended up shorting the temperature sensor And that worked for long enough until Microsoft did the recall, right?
+[01:57:51] SPEAKER_04: But in that, you know, I stay I learned how to do it out of necessity on the forums.
+[01:57:56] SPEAKER_04: I was a nerdy kid So I like games, but whatever but then like
+[01:57:59] SPEAKER_04: There was no other outlet once I was like, holy shit, this is Pandora's box, what just got opened up?
+[01:58:03] SPEAKER_04: So then I just shit posted on the forums constantly, right?
+[01:58:07] SPEAKER_04: And for many, many years, and then I ended up moderating all sorts of Reddits when I was a tween teenager.
+[01:58:15] SPEAKER_04: And then as soon as I started making money, grew up in a family business but didn't get paid for working, of course, like yourself, right?
+[01:58:22] SPEAKER_04: But as soon as I started making money, and I got my internship, and I was like 18, 19, right?
+[01:58:27] SPEAKER_04: I started making money.
+[01:58:28] SPEAKER_04: I started investing in semiconductors, right?
+[01:58:30] SPEAKER_04: I was like, of course, this is shit I like, right?
+[01:58:32] SPEAKER_04: And by the way, the whole way through, as technology progressed, especially mobile, right?
+[01:58:39] SPEAKER_04: It goes from very shitty chips in phones to very advanced.
+[01:58:43] SPEAKER_04: Every generation, they'd add something, and I'd read every comment.
+[01:58:47] SPEAKER_04: I'd read every technical post about it.
+[01:58:49] SPEAKER_04: And also all the history around that technology and then like, you know, who's in the supply chain and just kept building and building and building.
+[01:58:55] SPEAKER_04: Went to college, did data science-y type stuff.
+[01:58:57] SPEAKER_04: Went to work on like hurricane, earthquake, wildfire simulation and stuff for a financial company.
+[01:59:02] SPEAKER_04: But before that, like, but during college, I was still like, I wasn't posting on the internet as much.
+[01:59:07] SPEAKER_04: I was still posting some, but I was like following the stocks and all these sorts of things, the supply chain, all the way from like the tool equipment companies.
+[01:59:14] SPEAKER_04: And the reason I like like those is because like oh this technology Oh, it's made by them.
+[01:59:17] SPEAKER_04: You know, you kind of do you have like friends in person who were into this shit or was it?
+[01:59:21] SPEAKER_04: Um, I made friends on the internet, right?
+[01:59:24] SPEAKER_04: That's dangerous I've only ever had like literally one bad experience and that was just because he's drugged out Right, like a one bad experience online or like meeting someone from the internet in person Yeah, everyone else has been genuine like you you have enough filtering before that point.
+[01:59:40] SPEAKER_04: You're like I
+[01:59:41] SPEAKER_04: You know, even if they're like hyper mega like autistic, it's cool, right?
+[01:59:44] SPEAKER_04: Like I am too, right?
+[01:59:45] SPEAKER_04: You know, no, I'm just kidding.
+[01:59:47] SPEAKER_04: But like, you know, you go through like the, you know, the layers and you look at the economic angle, you look at the technical angle, you read a bunch of books just out of like, you know, you can just buy engineering textbooks, right?
+[01:59:58] SPEAKER_04: And read them, right?
+[01:59:59] SPEAKER_04: Like what's stopping you, right?
+[02:00:02] SPEAKER_01: And if you bang your head against the wall, you learn it, right?
+[02:00:04] SPEAKER_01: And then while you were doing this, was there like, did you expect to work on this at some point or was it just like pure interest?
+[02:00:09] SPEAKER_01: No, it was like,
+[02:00:11] SPEAKER_04: obsessive hobby of many years, and it pivoted all around, right?
+[02:00:14] SPEAKER_04: At some point, I really liked gaming, and then I moved into, I really liked phones, and rooting them, and underclocking them, and the chips there, and screens, and cameras, and then back to gaming, and then to data center stuff, because that was where the most advanced stuff was happening.
+[02:00:30] SPEAKER_04: So I liked all sorts of telecom stuff for a little bit.
+[02:00:33] SPEAKER_04: It bounced all around, but generally in computing hardware, right?
+[02:00:38] SPEAKER_04: And I did data science.
+[02:00:41] SPEAKER_04: Said I did AI when I interviewed, but it was bullshit, multivariable regression, whatever, right?
+[02:00:47] SPEAKER_04: It was simulations of hurricanes, earthquakes, wildfire for financial reasons, right?
+[02:00:51] SPEAKER_04: Anyways, I moved up to, I had a job for three years after college, and I was posting, and whatever.
+[02:00:59] SPEAKER_04: I had a blog, anonymous blog for a long time.
+[02:01:01] SPEAKER_04: I'd even made some YouTube videos and stuff.
+[02:01:03] SPEAKER_04: Most of that stuff is scrubbed off the Internet, including Internet Archive, because I asked them to remove it.
+[02:01:10] SPEAKER_04: Yeah, in 2020, I like quite quit my job and like started shit posting more seriously on the internet.
+[02:01:17] SPEAKER_04: I moved out of my apartment and started traveling through the US and I went to all the national parks, like in my truck slash like tent slash, you know, also stayed in hotels and motels like three, four days a week, but I'd like I started posting more frequently on the internet.
+[02:01:30] SPEAKER_04: I mean, I'd already had like some small consulting arrangements in the past, but it really started to pick up in mid 2020, like consulting arrangements from the internet, from my persona.
+[02:01:40] SPEAKER_04: Like what kinds of people, investors, hardware companies?
+[02:01:43] SPEAKER_04: There were like, it was like, it was like people who weren't in hardware that wanted to know about hardware.
+[02:01:48] SPEAKER_04: It would be like some investors, right?
+[02:01:49] SPEAKER_04: Some couple of VCs did it, but some public market folks, you know, there was times where like companies would ask about like three layers up in the stack.
+[02:01:58] SPEAKER_04: like me, because they saw me write some random posts and like, Hey, like, can we add a blah, blah, blah.
+[02:02:01] SPEAKER_04: There's all sorts of like random, it was really small money.
+[02:02:04] SPEAKER_04: And then in 2020, like, it really picked up.
+[02:02:07] SPEAKER_04: And I just like, like, why don't I just arbitrarily make the price way higher, and it worked.
+[02:02:11] SPEAKER_04: And then I started posting, I made it a new, I made a newsletter as well.
+[02:02:16] SPEAKER_04: And I kept posting.
+[02:02:18] SPEAKER_04: Quality kept getting better, right, because people read it, they're like, this is fucking retarded, like, you know, here's what's actually right or, you know, like, you know, over over more than a decade, right?
+[02:02:28] SPEAKER_04: And then in 2021, towards the end, I made a paid post, someone pay and like, you know, for a report or whatever, right?
+[02:02:35] SPEAKER_04: Ended up that ended up doing like, I went to sleep that night.
+[02:02:37] SPEAKER_04: It was about it was about photoresist and like the developments in that industry, which is the stuff you put on top of the wafer before you put in litho tool, lithography tool.
+[02:02:44] SPEAKER_04: Did great, right?
+[02:02:46] SPEAKER_04: I woke up the next day and I had 40 paid subscriptions.
+[02:02:48] SPEAKER_04: I was like, what?
+[02:02:49] SPEAKER_04: Okay, let's keep going, right?
+[02:02:51] SPEAKER_04: Let's post more paid, partially free, partially paid.
+[02:02:55] SPEAKER_04: Did all sorts of stuff on advanced packaging and chips and data center stuff and AI chips, all sorts of stuff that I was interested in.
+[02:03:03] SPEAKER_04: I always bridged economically because I read all the company's earnings since I was 18.
+[02:03:09] SPEAKER_04: I'm 28 now, right?
+[02:03:11] SPEAKER_04: All the way through to all the technical stuff that I could.
+[02:03:15] SPEAKER_04: 2022, I also started to just go to
+[02:03:18] SPEAKER_04: every conference I could, right?
+[02:03:20] SPEAKER_04: Um, so I go to like 40 conferences a year, not like not like trade show type conferences, but like technical conferences, like, like an arc chip architecture, photoresist, you know, AI nirips, right?
+[02:03:31] SPEAKER_04: Like, you know, ICML, like, you go to a year, like 40.
+[02:03:35] SPEAKER_01: So you like live at conferences.
+[02:03:36] SPEAKER_04: Yes.
+[02:03:36] SPEAKER_04: Yeah.
+[02:03:36] SPEAKER_04: I mean, I've been a digital nomad since 2020 and I've basically stopped and I moved to SF now.
+[02:03:42] SPEAKER_04: Right.
+[02:03:42] SPEAKER_04: But like kind of kind of not really.
+[02:03:44] SPEAKER_04: You can't say that the government, the California government.
+[02:03:47] SPEAKER_04: I don't live at SF.
+[02:03:48] SPEAKER_04: Come on.
+[02:03:49] SPEAKER_04: But I basically do now.
+[02:03:50] SPEAKER_01: California Internal Revenue Service.
+[02:03:52] SPEAKER_04: Do not joke about this guys.
+[02:03:55] SPEAKER_04: They're gonna send you a clip of this of this podcast be like I am in San Francisco like sub four months a year contiguously Over the full course of the year, but no like, you know Go to every conference make connections at all these like very technical things like international electron device manufacturing Oh lithography and advanced patterning
+[02:04:24] SPEAKER_04: Oh, like a very large scale integration, like, you know, old, you know, circuits conference.
+[02:04:30] SPEAKER_04: You just go every single layer of the stack.
+[02:04:33] SPEAKER_04: It's so siloed.
+[02:04:34] SPEAKER_04: There's tens of millions of people that work in this industry.
+[02:04:36] SPEAKER_04: But if you go to every single one, you try and understand the presentations, you do the required reading, you look at the economics of it, you like are just curious and want to learn.
+[02:04:45] SPEAKER_04: You can start to build up more and more and the content got better and what I followed got better and then started hiring people in early 2022 as well.
+[02:04:56] SPEAKER_04: Or might have been, yeah, yeah, like mid-2022 started hiring, got people in different layers of the stack.
+[02:05:01] SPEAKER_04: But now today, like you fast forward now today, right, like almost every hyperscaler is a customer, not for the newsletter, but for like data we sell, right?
+[02:05:09] SPEAKER_04: You know, most, many major semiconductor companies, many investors, right?
+[02:05:13] SPEAKER_04: Like all these people are like customers of the data and stuff we sell.
+[02:05:17] SPEAKER_04: And the company has people all the way from like X-Cymer, X-ASML, all the way to like X, like Microsoft and like an AI company, right?
+[02:05:24] SPEAKER_04: Like, you know, like,
+[02:05:25] SPEAKER_04: And then through the stratification, you know, now there's 14 people here and like the company and like all across the US, Japan, Taiwan, Singapore, France, US of course, right?
+[02:05:36] SPEAKER_04: Like, you know, all over the world and across many ranges of like, and hedge funds as well, right?
+[02:05:40] SPEAKER_04: Ex hedge funds as well, right?
+[02:05:41] SPEAKER_04: So you got kind of have like this amalgamation of like, you know, tech and finance expertise.
+[02:05:47] SPEAKER_04: And we just do the best work there, I think, right?
+[02:05:49] SPEAKER_05: Are you still talking about a monstrosity?
+[02:05:51] SPEAKER_04: An unholy concoction of it.
+[02:05:56] SPEAKER_04: So we have data analysis consulting, etc., for anyone who really wants to get deeper into this.
+[02:06:06] SPEAKER_04: We can talk about, oh, people are building big data centers, but how many chips is being made in every quarter of what kind for each company?
+[02:06:14] SPEAKER_04: What are the subcomponents of these chips?
+[02:06:17] SPEAKER_04: What are the subcomponents of the servers?
+[02:06:19] SPEAKER_04: We try and track all of that.
+[02:06:20] SPEAKER_04: follow every server manufacturer, every component manufacturer, every cable manufacturer, just all the way down the stack, tool manufacturer, and know how much is being sold where, and how, and where things are, and project out all the way out to, hey, where is every single data center?
+[02:06:35] SPEAKER_04: What is the pace that it's being built out?
+[02:06:37] SPEAKER_04: This is the sort of data we want to have and sell.
+[02:06:40] SPEAKER_04: And the validation is that hyperscalers purchase it, and they like it a lot.
+[02:06:45] SPEAKER_04: right?
+[02:06:45] SPEAKER_04: And like AI companies do and like semiconductor companies do.
+[02:06:49] SPEAKER_04: So I think that's the sort of like, how it got there to where it is, is just like, try and do the best, right?
+[02:06:54] SPEAKER_01: And try and be the best.
+[02:06:56] SPEAKER_01: If you were an entrepreneur who's like, I want to get involved in the hardware chain somewhere.
+[02:07:00] SPEAKER_01: Like, what is like, what is if you if you could start a business today, somewhere in the stack?
+[02:07:06] SPEAKER_01: What would you pick?
+[02:07:07] SPEAKER_01: John, tell them about your textile business.
+[02:07:11] SPEAKER_05: I think I'd work in memory.
+[02:07:13] SPEAKER_05: Something in memory.
+[02:07:14] SPEAKER_05: Because I think if this concept is there, you have to hold immense amounts of memory.
+[02:07:21] SPEAKER_05: Immense amounts of memory.
+[02:07:22] SPEAKER_05: And I think memory already is tapped technologically.
+[02:07:27] SPEAKER_05: HBM exists because of limitations in DRAM.
+[02:07:30] SPEAKER_05: I said it correctly.
+[02:07:33] SPEAKER_05: fundamentally, we've forgotten it because it's a commodity, but we shouldn't.
+[02:07:38] SPEAKER_05: I think it's breaking memory is going to, could change the world in that scenario.
+[02:07:44] SPEAKER_04: I think the context here is that Moore's law was predicted in 1965.
+[02:07:49] SPEAKER_04: Intel was founded in 68 and released their first memory chips in 69 and 70.
+[02:07:54] SPEAKER_04: And so Moore's law was, a lot of it was about memory and the memory industry followed Moore's law up until 2012.
+[02:08:00] SPEAKER_04: where it stopped, right?
+[02:08:02] SPEAKER_04: And it became very incremental gain since then, whereas logic has continued and people are like, oh, it's dying, it's slowing down.
+[02:08:07] SPEAKER_04: At least there's still a little bit of coming, right?
+[02:08:11] SPEAKER_04: Still more than 10%, 15% a year CAGR, right, of growth and density slash cost improvement.
+[02:08:15] SPEAKER_04: Memory has literally been since 2012 really bad.
+[02:08:19] SPEAKER_04: And when you think about the cost of memory, it's been considered a commodity, but memory integration with accelerators, this is something that
+[02:08:29] SPEAKER_04: I don't know if you can be an entrepreneur here though.
+[02:08:30] SPEAKER_04: That's the real challenge is because you have to manufacture at some really absurdly large scale or design something which in an industry that does not allow you to make custom memory devices.
+[02:08:39] SPEAKER_04: Or use materials that don't work that way.
+[02:08:42] SPEAKER_04: So there's a lot of like work there that I don't, so I don't necessarily agree with you but I do agree it's like one of the most important things for people to invest in.
+[02:08:48] SPEAKER_04: You know, I think there's it's really about where is your where you good at and where can you vibe and where can you like, enjoy your work and be productive in society, right?
+[02:08:56] SPEAKER_04: Because there are 1000 different layers of the abstraction stack.
+[02:09:00] SPEAKER_04: Where can you make it more efficient?
+[02:09:02] SPEAKER_04: Where can you use utilize AI to build better and make everything more efficient in the world and produce more bounty and like,
+[02:09:10] SPEAKER_04: iterate feedback loop, right?
+[02:09:11] SPEAKER_04: And there's more opportunity to today than any other time in human history, in my view, right?
+[02:09:17] SPEAKER_04: And so, just go out there and try, right?
+[02:09:20] SPEAKER_04: What engages you?
+[02:09:21] SPEAKER_04: Because if you're interested in it, you'll work harder, right?
+[02:09:23] SPEAKER_04: If you have a passion for copper wires, I promise to God if you make the best copper wires, you'll make a shitload of money.
+[02:09:30] SPEAKER_04: And if you have a passion for B2B sass, I promise to God you'll make fuckloads of money, right?
+[02:09:37] SPEAKER_04: I don't like B2B sass, but whatever, right?
+[02:09:39] SPEAKER_04: It's like, whatever.
+[02:09:40] SPEAKER_04: You know, whatever you have a passion for, like just work your ass off, try and innovate, bring AI into it and let it, you try and use AI yourself to like make yourself more efficient and make everything more efficient.
+[02:09:53] SPEAKER_04: And I promise you will like be successful, right?
+[02:09:56] SPEAKER_04: I think that's really the view is not necessarily that there's one specific spot because every layer of the supply chain has, you go to the conference there, you go to talk to the experts there, it's like, dude, this is the stuff that's breaking and we could innovate in this way.
+[02:10:08] SPEAKER_04: Or like these five extraction layers, we could innovate this way.
+[02:10:11] SPEAKER_04: Yeah, do it.
+[02:10:11] SPEAKER_04: There's so many layers where this is, we're not at the Pareto optimal, right?
+[02:10:15] SPEAKER_04: Like there's so much more to go in terms of innovation and inefficiency.
+[02:10:18] SPEAKER_01: All right.
+[02:10:18] SPEAKER_01: I think that's a great place to close.
+[02:10:21] SPEAKER_01: Dylan, John, thank you so much for coming on the podcast.
+[02:10:25] SPEAKER_01: I'll just give people
+[02:10:26] SPEAKER_01: And then the reminder, dylanpatelsemianalysis.com.
+[02:10:29] SPEAKER_01: That's where you can find the technical breakdowns that we've been discussing today.
+[02:10:32] SPEAKER_01: Asianometry YouTube channel.
+[02:10:36] SPEAKER_01: Everybody will already be aware of Asianometry, but anyways.
+[02:10:40] SPEAKER_01: Thanks so much for doing this.
+[02:10:40] SPEAKER_01: This was a lot of fun.
+[02:10:41] SPEAKER_01: Thank you.
+[02:10:42] SPEAKER_01: Yeah.
+[02:10:42] SPEAKER_01: Thank you.
