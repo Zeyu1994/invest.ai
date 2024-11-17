@@ -1,0 +1,61 @@
+[00:00:00] SPEAKER_00: And we've got to find out what the hell went on here.
+[00:00:02] SPEAKER_00: It wasn't better than expected third quarter, but people are saying that the forecast was light.
+[00:00:07] SPEAKER_00: I question that, but that's OK, because we've got Lisa Sue here, who knows a heck of a lot more about the company than I do.
+[00:00:14] SPEAKER_00: Lisa, first of all, welcome.
+[00:00:16] SPEAKER_00: Fantastic.
+[00:00:16] SPEAKER_00: You're great.
+[00:00:17] SPEAKER_00: All right.
+[00:00:17] SPEAKER_01: Good morning.
+[00:00:18] SPEAKER_01: Good morning.
+[00:00:18] SPEAKER_01: How are you guys?
+[00:00:19] SPEAKER_00: I'm good.
+[00:00:20] SPEAKER_00: OK, let's get right to it, because people are really, they're concerned.
+[00:00:23] SPEAKER_00: I'm not using the word frightened, because we'll save that for Halloween.
+[00:00:26] SPEAKER_00: At the beginning of the year, you said you'd do $2 billion.
+[00:00:29] SPEAKER_00: in AI and you did five billion.
+[00:00:32] SPEAKER_00: Now you do five.
+[00:00:33] SPEAKER_00: At the beginning of your stock was one hundred and fifty four.
+[00:00:36] SPEAKER_00: Now your stock is at one hundred and fifty three.
+[00:00:38] SPEAKER_00: How is it possible that you could be getting the offering two billion as your forecast then do five billion and your stock is unchanged.
+[00:00:45] SPEAKER_00: Would you please explain to me that you're better at math.
+[00:00:47] SPEAKER_00: You went to Bronx science.
+[00:00:50] SPEAKER_01: First of all, it's good to see you guys this morning.
+[00:01:09] SPEAKER_01: $4.5 billion of AI revenue to greater than $5 billion of AI revenue for 2024.
+[00:01:14] SPEAKER_01: So overall, lots of positives.
+[00:01:16] SPEAKER_01: And look, this is a long-term growth story.
+[00:01:18] SPEAKER_01: You know that.
+[00:01:19] SPEAKER_01: When we think about the massive demand that there is in the data center for both AI and traditional compute, we are one of the very, very few players that can offer all of the different compute capabilities that are required.
+[00:01:31] SPEAKER_01: So from that standpoint, I think we feel very good about where we are.
+[00:01:36] SPEAKER_01: Going into the end of the year, we're going to grow in the fourth quarter, at our guidance, 22% year over year.
+[00:01:42] SPEAKER_01: And that's all about growth in data centers, growth in servers, growth in AI, and also growth in PCs.
+[00:01:50] SPEAKER_01: So those are all positives that we see in the business.
+[00:01:54] SPEAKER_00: Now, PC and server are incredibly strong.
+[00:01:56] SPEAKER_00: I see you taking incredible share, thankfully, from another company that at one time I met you when your stock was at four and they were at 50.
+[00:02:04] SPEAKER_00: You told me to get out of the 50, go to four.
+[00:02:06] SPEAKER_00: You're taking share from that company, aren't you?
+[00:02:08] SPEAKER_01: We are having a very strong CPU cycle, I can say that.
+[00:02:12] SPEAKER_01: You know, we just launched our Zen 5 processors.
+[00:02:14] SPEAKER_01: Strongest portfolio, you know, we've had overall.
+[00:02:18] SPEAKER_01: You know, we are firing on all cylinders.
+[00:02:20] SPEAKER_01: When you look at, you know, the traditional server market, we're starting to see refresh cycles actually in both cloud and enterprise, and that's showing through in the overall demand.
+[00:02:30] SPEAKER_01: And, you know, we also have, you know, a very strong portfolio when you look at, you know, the AI market as it relates to PCs.
+[00:02:36] SPEAKER_01: So that's another nice growth vector for us.
+[00:02:38] SPEAKER_01: And we're at the very, very beginning of that cycle as well.
+[00:02:41] SPEAKER_00: One of the reasons that we own your stock for the Chappell Trust and have for some time is we are firm believers that AI is so big that it's not just that actually has room for two players, that it's not just Jensen Wang and then nobody.
+[00:02:54] SPEAKER_00: Could you make the case that actually you are a strong number two and getting stronger?
+[00:02:59] SPEAKER_01: Yeah, absolutely.
+[00:03:00] SPEAKER_01: Look, I am a huge believer in AI.
+[00:03:02] SPEAKER_01: This is really the beginning of, you know, what I like to call it, an AI super cycle.
+[00:03:06] SPEAKER_01: We believe AI is going to be in every aspect of computing, whether you're talking about, you know, the large clouds, enterprises, you're talking about the edge, or you're talking about, you know, PC clients.
+[00:03:17] SPEAKER_01: And you need all different sizes of compute for that.
+[00:03:19] SPEAKER_01: And that's exactly what we have.
+[00:03:21] SPEAKER_01: You know, we're at the beginning of the cycle.
+[00:03:23] SPEAKER_01: And, you know, as we said at the top of the program,
+[00:03:26] SPEAKER_01: We started with our MI300 AI GPU just about 10 months ago.
+[00:03:32] SPEAKER_01: We announced it in December of last year.
+[00:03:34] SPEAKER_01: We said, hey, we think revenue will be about $2 billion.
+[00:03:37] SPEAKER_01: And we knew that this is at the very beginning.
+[00:03:39] SPEAKER_01: But we've had just incredible partnerships across all of the cloud, the largest hyperscalers.
+[00:03:46] SPEAKER_01: We've made great progress with Meta, with Microsoft, with Oracle, with a number of AI players.
+[00:03:52] SPEAKER_01: And we're going to continue to do that going forward.
+[00:03:55] SPEAKER_01: I think AI is really at the beginning, and our goal is to be a very, very strong overall compute provider into that space, and really partnering with the largest vendors in the industry.
