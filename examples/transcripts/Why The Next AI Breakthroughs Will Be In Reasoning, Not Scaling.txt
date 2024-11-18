@@ -1,0 +1,367 @@
+[00:00:00] SPEAKER_02: I remember about a year ago, one of these conversations around, are we going to have AGI?
+[00:00:04] SPEAKER_02: What would that look like?
+[00:00:05] SPEAKER_02: One of the arguments for it was that, well, at some point, the AI will get good enough to just design chips better than humans can.
+[00:00:12] SPEAKER_02: And then it will just eliminate one of its bottlenecks for getting greater intelligence.
+[00:00:16] SPEAKER_02: And so it feels we're on the pathway to that in a way that we just weren't before.
+[00:00:20] SPEAKER_00: The last episode, we were talking about, what are you going to do with these two more orders of magnitude?
+[00:00:26] SPEAKER_00: Since then, Sam has told me that he actually wants to go to four orders of magnitude.
+[00:00:31] SPEAKER_00: It's the worst that these models are ever going to be right now, right this moment.
+[00:00:35] SPEAKER_00: Week to week, you know, there are things that you couldn't do maybe a month ago that you could do really, really well right now.
+[00:00:43] SPEAKER_00: So that sounds like a pretty crazy moment in history.
+[00:00:53] SPEAKER_00: Welcome back to another episode of The Light Cone.
+[00:00:56] SPEAKER_00: I'm Gary.
+[00:00:57] SPEAKER_00: This is Jared, Harj, and Diana.
+[00:00:59] SPEAKER_00: And at Y Combinator, we've funded companies worth more than $600 billion, and we fund hundreds of companies every single year.
+[00:01:08] SPEAKER_00: So we're right there on the edge of seeing what is going to work both in startups and in AI.
+[00:01:15] SPEAKER_00: Recently, Sam Altman wrote this pretty wild essay that predicted that AGI and ASI are coming within thousands of days.
+[00:01:25] SPEAKER_00: Seeing him on Monday, he actually directly estimated, you know, between 4 and 15 years.
+[00:01:31] SPEAKER_00: Have you guys read this essay yet?
+[00:01:33] SPEAKER_00: And what do you think?
+[00:01:34] SPEAKER_03: Yeah, I read it.
+[00:01:35] SPEAKER_03: And one of the interesting places where I think we have a unique perspective is that we had a front row seat to the very beginnings of OpenAI because OpenAI basically spun out of YC.
+[00:01:47] SPEAKER_03: And so what was cool to me reading this essay is that it's literally the same ideas that Sam was talking about in 2015 when he started OpenAI.
+[00:01:58] SPEAKER_03: He's been talking about this basically since I've known the guy.
+[00:02:01] SPEAKER_03: And in 2015, when he said these things, he sounded kind of like a crazy person, and not that many people took him seriously.
+[00:02:09] SPEAKER_03: And now, 10 years later, it turns out he was right, and actually we were much closer to AGI than anybody thought in 2015, and now it doesn't sound crazy at all.
+[00:02:18] SPEAKER_03: It sounds totally plausible.
+[00:02:20] SPEAKER_00: I mean, the essay itself is pretty much the most techno-optimist thing I've read in a really long time.
+[00:02:25] SPEAKER_00: Some of the things that he says are coming are pretty wild.
+[00:02:28] SPEAKER_00: Space colonies, fixing the climate problem, intelligence on tap, being able to solve abundant energy.
+[00:02:38] SPEAKER_00: Yeah, I think he's basically ushering in this sort of Star Trek future on the back of literally human intelligence, being able to figure out all of physics
+[00:02:49] SPEAKER_03: Yeah, Sam was always, like, I remember back when he was starting OpenAI, one of the things that really motivated him to do it was he believed that when we actually had AGI, basically we'd be better at doing science than humans were, and therefore would accelerate the rate of all scientific progress in every scientific field.
+[00:03:09] SPEAKER_03: That was part of the motivation from the very beginning.
+[00:03:12] SPEAKER_03: And I think it was really connected to O1.
+[00:03:14] SPEAKER_03: Even when Sam came and spoke at our batch a year ago,
+[00:03:18] SPEAKER_03: This is long before O1 was publicly released, but it's being worked on in secrecy by open AI.
+[00:03:26] SPEAKER_03: That was the thing that he was most excited to talk about, was giving GPT more advanced reasoning capabilities.
+[00:03:32] SPEAKER_03: And I think this is the reason.
+[00:03:34] SPEAKER_03: It's because the thing that's missing from its ability to actually do science and accelerate technological progress is it needs to be able to think through things.
+[00:03:43] SPEAKER_02: One thing that really strikes me about O1 in particular is if you read one of the papers talking about its capabilities and potential for the future, it talks about how it does really well in chip design.
+[00:03:53] SPEAKER_02: And I remember about a year ago, one of these conversations around, are we going to have AGI?
+[00:03:59] SPEAKER_02: What would that look like?
+[00:04:00] SPEAKER_02: One of the arguments for it was that, well, at some point, the AI will get good enough to just design chips better than humans can.
+[00:04:07] SPEAKER_02: And then it will just eliminate one of its bottlenecks for getting greater intelligence.
+[00:04:11] SPEAKER_02: And so it feels
+[00:04:12] SPEAKER_02: Like that's already kind of like we're on the pathway to that in a way that we just weren't before.
+[00:04:17] SPEAKER_03: Diana's going to show a cool demo of doing exactly that.
+[00:04:21] SPEAKER_04: It's fun because we run this hackathon with OpenAI and Sam came over and judged the winners.
+[00:04:28] SPEAKER_04: And one of the participants was actually chip design.
+[00:04:33] SPEAKER_04: This company is called Diode Computer.
+[00:04:35] SPEAKER_04: I think we mentioned them earlier.
+[00:04:37] SPEAKER_04: what they're building is basically AI designer for circuit design.
+[00:04:44] SPEAKER_04: And their previous product, it could handle in the, if you think about PCB design, there's four major steps.
+[00:04:52] SPEAKER_04: The big expensive part that you need a lot of, all of these need a lot of expertise.
+[00:04:56] SPEAKER_04: So the system design, how do you really put together the architecture of it?
+[00:05:00] SPEAKER_04: How do you design all the components, like the resistors they need, the sensors, the specific,
+[00:05:06] SPEAKER_04: processing units, then it needs to go do the layout with schematics, then doing the routing.
+[00:05:12] SPEAKER_04: And routing is known to be an NP-complete problem because as you have different layers in circuit boards, there's interference.
+[00:05:19] SPEAKER_04: This is why companies like NVIDIA, Intel, Apple have a gazillion electrical engineers because this is an NP-complete problem.
+[00:05:28] SPEAKER_04: Up to GPT-4, which this company had built, it actually put some constraints and was able to automate a lot of the schematic design that you as a human had to design what components it needed to go and the design.
+[00:05:43] SPEAKER_04: And to some extent, the routing, it was simple, which is still pretty cool up to that point.
+[00:05:47] SPEAKER_04: So they were able to automate all that.
+[00:05:50] SPEAKER_04: But the thing that they demonstrated now with O1 was actually able to do the system design and component selection, which is crazy.
+[00:06:01] SPEAKER_04: So it would be able to read all the data sheets and select the right components.
+[00:06:05] SPEAKER_04: So the way the product would work, it could say, I want to build a wearable heart rate monitor with an accelerometer and a microcontroller, very high level.
+[00:06:15] SPEAKER_04: And given this constraint and looking at the database, it would be able to match the specific centimeter and microcontroller and heart rate monitor sensor and connect it and just output the end result.
+[00:06:25] SPEAKER_01: What we are trying to build today is a wearable heart rate monitor, something like you would see in a whip, for example.
+[00:06:33] SPEAKER_01: The O1 is amazing, but one of the downsides is that it's a bit slow.
+[00:06:37] SPEAKER_01: So we actually cached a pre-generated system diagram that O1 was able to generate.
+[00:06:42] SPEAKER_01: It's pretty good.
+[00:06:43] SPEAKER_01: It has a USB-C connector, an IMU, like we requested, a heart rate sensor, and this is a microcontroller.
+[00:06:51] SPEAKER_01: So I'm going to show you how you can go from this and build a PCB.
+[00:06:56] SPEAKER_01: So we are going to build the project.
+[00:06:59] SPEAKER_01: The output of this is code.
+[00:07:01] SPEAKER_01: We actually use Autopile, which is an electronics as code language.
+[00:07:05] SPEAKER_01: And you can see that it took all the blocks in the block diagram, stitched them together exactly how we want.
+[00:07:11] SPEAKER_01: And the second step is it actually is going to generate a layout for the board.
+[00:07:16] SPEAKER_01: And so now we can directly open it and here you go.
+[00:07:20] SPEAKER_01: Here's the board.
+[00:07:21] SPEAKER_01: It's quite nice.
+[00:07:23] SPEAKER_01: There's still a couple of fine-tuning steps required.
+[00:07:27] SPEAKER_01: For example, we could move this USB Type-C connector slightly.
+[00:07:33] SPEAKER_01: We can change the shape of the board.
+[00:07:35] SPEAKER_01: But these are all the components.
+[00:07:37] SPEAKER_01: And then, thanks to the system that we built, we can call the auto-router on this specific board and actually get a fully working printed circuit board back.
+[00:07:48] SPEAKER_04: So this is actually one of the examples on the 01 paper, that it would do EDA, but actually they went a step forward because the example on the paper, they describe the EDA step process is this set of tools for circuit design.
+[00:08:04] SPEAKER_04: It does sort of the...
+[00:08:06] SPEAKER_04: design of the schematic, also the simulation and bug verification, it's easier to verify stuff than to select and write it.
+[00:08:15] SPEAKER_04: So this company actually went a step further beyond the paper, because the paper did mostly the last stages of verification and simulation.
+[00:08:22] SPEAKER_00: I guess it's an interesting example of using different models for different tasks and in different workflows.
+[00:08:28] SPEAKER_00: So in order to actually pick the correct components off the bat, even before you place it on a circuit board, you've got to actually have probably rag
+[00:08:39] SPEAKER_00: on taking unstructured data like PDF documentation and turning into a structured form that then 4.0 Mini sounds like is being used to actually extract the data and then put it into a usable form.
+[00:08:53] SPEAKER_00: Into a format for O1.
+[00:08:55] SPEAKER_04: I think this is actually a very common pattern that we're seeing a lot of the interesting products built with AI, you use different kinds of models.
+[00:09:02] SPEAKER_04: So, yes, 4.0 minis for PDF extraction and then 0.1 for the reasoning because it's actually very hard to select the components for parts.
+[00:09:11] SPEAKER_04: I know, Jared, you also work with a lot of hard tech companies and the whole part of selecting whatever the servos, the motors, the sensors, it's like so, it takes a lot of thinking for human.
+[00:09:22] SPEAKER_03: Yeah.
+[00:09:24] SPEAKER_03: The other thing I think is interesting about this example is during the batch, before O1 came out, Diode had tried to do this with GPT 4.0, and it just flat out didn't work.
+[00:09:34] SPEAKER_03: And then they basically tried the same thing, the same prompts, but fed it to O1, and boom, all of a sudden, it worked.
+[00:09:41] SPEAKER_03: And so there really is a step function capability unlock.
+[00:09:45] SPEAKER_04: They were so excited when I talked to them and they showed me.
+[00:09:47] SPEAKER_04: They had these big smiles, like, wow.
+[00:09:49] SPEAKER_04: They themselves were super impressed.
+[00:09:51] SPEAKER_03: This hackathon that Diana ran, incidentally, I think is a really interesting concept for a hackathon.
+[00:09:56] SPEAKER_03: Most hackathons are people who are just building something that they plan to throw away.
+[00:10:03] SPEAKER_03: And the cool thing about this hackathon is it was all actual YC-funded startups that have real businesses, that have funding, that have like a real thing with real users, and they were all building actual features for their product that they planned to release to real users.
+[00:10:18] SPEAKER_03: It was really cool, I think, for us to see how O1 unlocked capabilities for real companies, not just like toy projects.
+[00:10:25] SPEAKER_04: There's another one that was similar in here in terms of reasoning for one.
+[00:10:28] SPEAKER_04: I think Harsh, you work with Camphor.
+[00:10:31] SPEAKER_02: Yep.
+[00:10:31] SPEAKER_04: So I'm going to tell us what Camphor does.
+[00:10:34] SPEAKER_02: I mean, the tagline is Devon for CAD, but basically they let you create CAD designs with just natural language.
+[00:10:43] SPEAKER_02: You just type in something that you want to design and it just spits out a CAD design for you.
+[00:10:49] SPEAKER_00: So can you design me five airfoils optimized for 50 miles per hour with a minimum drag to lift of 15 at a five degree angle of attack?
+[00:10:59] SPEAKER_00: That's very specific.
+[00:11:01] SPEAKER_04: Normally this would require actually a mechanical engineer to be running all the simulations and solving the equations.
+[00:11:10] SPEAKER_04: And what you're seeing why it's like flashing is like running all the multiple simulations, four of them at the same time.
+[00:11:15] SPEAKER_00: So it's actually kind of like a copilot to SOLIDWORKS.
+[00:11:18] SPEAKER_02: Yeah, they actually built their like initially they were going to build this as a plug into SOLIDWORKS, but they went for like the even harder technical approach, which was like now this is just like a executable that runs on your desktop and it essentially opens up SOLIDWORKS for you.
+[00:11:32] SPEAKER_02: And then it starts like clicking around in the UI, pretending to be a person.
+[00:11:36] SPEAKER_03: Yeah.
+[00:11:36] SPEAKER_03: Nice.
+[00:11:37] SPEAKER_04: And you saw there, what was really cool earlier, they flashed the math trace.
+[00:11:40] SPEAKER_04: So O1 was actually able to write all of these equations, all these partial differential equations, and solve basically Naive-Stokes questions to actually solve airfoil.
+[00:11:52] SPEAKER_00: That is really cool.
+[00:11:54] SPEAKER_00: The last episode we were talking about, you know, what are you going to do with these two more orders of magnitude?
+[00:12:00] SPEAKER_00: Since then, Sam has told me that he actually wants to go to four orders of magnitude to get to a trillion dollars in, you know, sort of spend.
+[00:12:09] SPEAKER_00: I mean, pretty wild.
+[00:12:11] SPEAKER_00: But on the other hand,
+[00:12:12] SPEAKER_00: like you could see where that might go.
+[00:12:15] SPEAKER_00: You know, you could imagine an airfoil is still, it's, you know, very impressive and complex, but sort of what we're capable of doing today in 2024, you could imagine abstracting that to like understanding the nature of physics, I suppose.
+[00:12:29] SPEAKER_00: Like it would be sort of hard to see that maybe in the current version of O1.
+[00:12:35] SPEAKER_00: But if the scaling laws hold, it seems entirely plausible that, you know, far more difficult engineering challenges such as, you know, room temperature fusion, like these are all sort of ultimately engineering
+[00:12:51] SPEAKER_04: Fluid mechanics, there's weather prediction, there's all these complex physical phenomenas that are very hard to solve and you need basically PhDs.
+[00:13:02] SPEAKER_04: And to Sam's essay, this is a glimpse into what AI and where O1 is heading with this chain of thought and reasoning.
+[00:13:12] SPEAKER_02: Especially like Sam's essay, the vibes are sort of training intelligence and this new age of intelligence and then the 01 paper just...
+[00:13:22] SPEAKER_02: I think this whole idea of now you can actually give feedback, not just on the outputs and whether you got the correct answer, but on all of the steps to get there.
+[00:13:30] SPEAKER_02: And you're basically teaching a model how to think.
+[00:13:33] SPEAKER_02: The camphor guys are mentioning it to you, the reasoning traces, and they can probably go back and fine tune the various steps for every output to make sure that the model's thinking how they want it to think.
+[00:13:44] SPEAKER_02: That one that just is again very like the AGI conversations I feel like a year ago were all sort of in this direction of like what happens once you can actually start teaching the models to think better versus just like spitting out the correct answers.
+[00:13:58] SPEAKER_02: And then the scaling laws, this is like even more surface area for like
+[00:14:01] SPEAKER_02: throwing compute at the problem, right?
+[00:14:03] SPEAKER_00: Like now you can just basically put compute at the inference step and... And iteratively have something come out that, you know, you can actually spend more money and more time and have a result that iteratively gets better, similar to what you might expect from a human scientific organization.
+[00:14:22] SPEAKER_00: Yep.
+[00:14:24] SPEAKER_00: Maybe more consistently, even.
+[00:14:25] SPEAKER_00: Diana, do you want to talk about the architecture and how they actually created O1?
+[00:14:30] SPEAKER_04: I think a lot of it is inspired from what they've been working for many years since the beginning of OpenAI.
+[00:14:39] SPEAKER_04: I think one of the inspirations is a lot of the work they did with Dota.
+[00:14:44] SPEAKER_03: Yeah, does everyone remember when, like, before OpenAI was famous for GPT, the one thing that it was, like, kind of famous for, that at least people in the tech industry knew, was Dota was, like, winning video game competitions.
+[00:14:56] SPEAKER_03: That was their first big breakthrough.
+[00:14:58] SPEAKER_04: And the funny thing, I think, back then, Dota wasn't something that took the world for a storm.
+[00:15:02] SPEAKER_04: I mean, maybe only the research community kind of knew about it, but it wasn't anything practical.
+[00:15:08] SPEAKER_04: But what was impressive, it was beating a lot of the best Dota players.
+[00:15:11] SPEAKER_04: So Dota is this complex game of resources and planning, right?
+[00:15:16] SPEAKER_04: And they implemented a lot of kind of reinforcement learning type of techniques in there, which I think were also inspired early days from AlphaGo and AlphaZero as well on how it solved Go.
+[00:15:29] SPEAKER_04: It wasn't just brute forcing through it, but actually having a rework function and trying to solve towards it.
+[00:15:36] SPEAKER_04: And even, this is why there's just so much talk about Q-learning, because that's sort of the fundamental algorithm behind, the family of algorithms behind RL.
+[00:15:46] SPEAKER_03: So yeah, so because of Dota, they got really good at doing reinforcement learning.
+[00:15:50] SPEAKER_03: That's how they got it to work.
+[00:15:52] SPEAKER_03: They just had it play against itself like a million games.
+[00:15:56] SPEAKER_03: And then how does that connect to O1?
+[00:15:59] SPEAKER_04: So I think this is where there's a bit of a big stepping function because how do you then incorporate that into the family of GPT type of models?
+[00:16:08] SPEAKER_04: GPT is all generative based on predicting the next token and patterns and then getting those results to check that they're correct.
+[00:16:19] SPEAKER_04: So I think a lot of it is you had to have a lot of data that was factually correct and fed into probably the model and the training and having a reward function that get it to reason a bit more about the output and make sure that it's correct.
+[00:16:33] SPEAKER_04: So they probably done a lot of interesting techniques with that.
+[00:16:38] SPEAKER_04: And there's probably a lot of secret sauce on the type of data sources they've done.
+[00:16:42] SPEAKER_04: Maybe one of the speculations we could do is a lot of very factually correct information.
+[00:16:48] SPEAKER_03: math problems and science problems and things like that.
+[00:16:51] SPEAKER_03: Yeah.
+[00:16:51] SPEAKER_04: And that's why I outperformed so much in those.
+[00:16:53] SPEAKER_03: Yes.
+[00:16:54] SPEAKER_03: Yeah.
+[00:16:54] SPEAKER_03: One of the things I think is interesting, Gary, to your point about the scaling loss is a lot of people are really focused on the next scale up of the model, like the GPT-5 series of models, which are being trained now and people are working on them and they are going to come out.
+[00:17:09] SPEAKER_03: But I think people may be underappreciating how big an unlock this other direction is, because there's two research directions being explored in parallel, right?
+[00:17:18] SPEAKER_03: Like one is the straightforward scale up of the underlying LLM, and then this one direction is like a totally orthogonal research direction in which you unhovel the model by having it do reinforcement
+[00:17:31] SPEAKER_03: learning, while actually trying to do things in the real world and getting better at them.
+[00:17:36] SPEAKER_03: The version that's come out so far, it's still only O1 Mini.
+[00:17:39] SPEAKER_03: And if you look at the actual- 0.1 Preview.
+[00:17:41] SPEAKER_03: Sorry, 0.1 Preview.
+[00:17:42] SPEAKER_03: And if you look at the performance as they released, the full 0.1 model, which is coming out any day now, is a huge step function above even 0.1 Preview, which is what enabled all these incredible results of the hackathon.
+[00:17:53] SPEAKER_03: Sam was just telling us that O2 and O3 are not far behind.
+[00:17:57] SPEAKER_03: And so I think people may be underappreciating just how big an unlock we're going to get.
+[00:18:02] SPEAKER_00: Yeah.
+[00:18:02] SPEAKER_00: And O1 also is really opaque still.
+[00:18:04] SPEAKER_00: I mean, from a business perspective, this is a new method.
+[00:18:09] SPEAKER_00: I think at great cost to themselves, they actually did create a new data set to train the chain of thoughts.
+[00:18:16] SPEAKER_00: It's essentially a giant data set of, given task X, can you break it down?
+[00:18:23] SPEAKER_00: and into, you know, break it down into parts.
+[00:18:25] SPEAKER_00: And, you know, what's funny is this sort of rhymes with what Jake Heller figured out for case text, that if a given task that you give an LLM is hallucinating or, you know, not consistently giving the output you want,
+[00:18:39] SPEAKER_00: you're trying to make that particular prompt do too many things you need to break it down into steps and so what's funny is Jake's prescription is really two parts you know one is break it down into steps and then the other part is evals and it sounds like basically with O1
+[00:18:59] SPEAKER_00: the chain of thoughts will replace the workflow.
+[00:19:02] SPEAKER_00: So you might not need to break it down into steps yourself, but the evals are still really important.
+[00:19:10] SPEAKER_00: Even like in the aftermath of that episode with Jake Heller, it sounds like some YC alums are reaching out and saying, that episode helped us figure out and unlock something really big.
+[00:19:21] SPEAKER_00: Like a lot of people really were just raw dogging their prompts.
+[00:19:25] SPEAKER_00: Yeah.
+[00:19:27] SPEAKER_04: You have an example of a company you work with at Jira that got to 100%.
+[00:19:31] SPEAKER_03: Yeah, just by doing exactly what Jake recommended, which is like having a really big eval set and being very careful about testing every step of your reasoning pipeline.
+[00:19:42] SPEAKER_00: So one of the theories that I have now is ultimately like, if you superimpose that on what is a moat, I mean, that's one of the key questions that everyone's sort of asking themselves right now, you know, okay, like, GP fives coming to more orders, maybe four more orders of magnitude are going to come in terms of
+[00:20:00] SPEAKER_00: a trillion dollars spent on more training, that's pretty wild.
+[00:20:05] SPEAKER_00: If I'm a rapper company, or I'm trying to do vertical SaaS, or I'm trying to build my own business, what do I do?
+[00:20:11] SPEAKER_00: My theory would be, it's the events.
+[00:20:14] SPEAKER_00: Write the 10,000 test cases, and the only way you get access to
+[00:20:19] SPEAKER_00: the test cases that are proprietary data that are not like commonly available is that you literally, you know, that's what a bunch of our companies in this current YC batch are doing.
+[00:20:29] SPEAKER_00: They're doing the hard work of doing enterprise sales.
+[00:20:32] SPEAKER_00: They're getting embedded and sort of going, quote unquote, undercover into
+[00:20:37] SPEAKER_00: these, you know, sometimes really boring jobs, sometimes really complex or arcane jobs, you know, it's everything from, you know, I think accounts receivable all the way over to how do you do like financial accounting or forensic accounting, like it's just all kinds of things that are
+[00:20:53] SPEAKER_00: really not readily available.
+[00:20:57] SPEAKER_00: You can almost argue that anything that is consumer and publicly available on the internet, that's going to be in the base model.
+[00:21:05] SPEAKER_00: So then your moat ultimately is for all of the other things that are not already online, whether it's for case text being a lawyer,
+[00:21:13] SPEAKER_00: or maybe over here on science or in terms of building airfoils.
+[00:21:18] SPEAKER_00: What you're trying to find is the data that is proprietary in some use case, some vertical, that allows you to build that 10,000 test case eval.
+[00:21:29] SPEAKER_00: And then that's actually the value.
+[00:21:30] SPEAKER_00: I mean, this is just a crazy theory, but it's something that might be what happens.
+[00:21:35] SPEAKER_00: Totally.
+[00:21:35] SPEAKER_02: An interesting implication for startups based on everything you just said.
+[00:21:41] SPEAKER_02: is it may be worth thinking about who, like of your customers, picking the ones that will pay you a lot for that final like 10% like accuracy and perfection.
+[00:21:51] SPEAKER_02: I think like Canva are actually a good example of it, where there's lots of interest in this sort of text to CAD design amongst like hobbyists or people who want to prototype things and get something up and running very, very quickly.
+[00:22:04] SPEAKER_02: But there's also like a segment of the market where it's people who are literally designing like, you know,
+[00:22:08] SPEAKER_02: airplane part where there is no room or margin for error.
+[00:22:12] SPEAKER_02: And O1 makes it quite easy or easier now to get to the prototype 80% of the way there.
+[00:22:19] SPEAKER_02: But I think the strongest technical teams have the option to go all the way and go after the segment of customers who want 100% accuracy and will pay a lot for it.
+[00:22:29] SPEAKER_00: March always go all the way.
+[00:22:30] SPEAKER_00: Yeah, always go all the way.
+[00:22:32] SPEAKER_02: But I think it's interesting because one of the things that gets pushed is does O1 or does AI in general actually make it commoditize a lot of the tech and make it less important to be a strong technical team?
+[00:22:46] SPEAKER_02: And it just seems unlikely to me.
+[00:22:48] SPEAKER_02: It seems like actually the last time.
+[00:22:50] SPEAKER_02: It seems it's the opposite.
+[00:22:51] SPEAKER_02: Yes.
+[00:22:51] SPEAKER_02: Like all of the value is probably going to be captured by like
+[00:22:54] SPEAKER_02: the strongest technical teams who can build on top of whatever the base level of tech is and get the final 10%.
+[00:23:00] SPEAKER_03: Hey Gary, I think it's the prompts, it's the evals and it's also like the UI layer and the integrations that go around it.
+[00:23:10] SPEAKER_03: Because like just the prompts themselves are not a product for a company to actually adopt.
+[00:23:14] SPEAKER_03: Camphor, like it needs to actually integrate into their existing tools.
+[00:23:17] SPEAKER_03: It needs to have a well thought through UI and workflow and all the tooling to sort of make the prompts useful.
+[00:23:24] SPEAKER_00: Well, and then it's distribution, right?
+[00:23:26] SPEAKER_00: Like how do you actually get in front of people?
+[00:23:28] SPEAKER_00: How do you establish your brand?
+[00:23:30] SPEAKER_00: And then a perfectly good moat is difficulty switching, actually.
+[00:23:35] SPEAKER_00: And once you have all your data and it's working and you're paying $10,000 or $100,000 ACV, sometimes a million to 10 million ACV.
+[00:23:43] SPEAKER_00: Man, it's going to be hard to switch.
+[00:23:45] SPEAKER_00: So all the classic modes still apply.
+[00:23:47] SPEAKER_00: This is still software, but you can unlock this capability and this is a moment.
+[00:23:56] SPEAKER_04: Another point to double down on the importance of evals is that that still applies in the world of O1 as founders are wondering, how am I going to still build the best product on top of O1?
+[00:24:09] SPEAKER_04: Does it change?
+[00:24:11] SPEAKER_04: And everything we discussed in the episode with Jake Heller applies because GigaML is this company that Harshi worked with.
+[00:24:17] SPEAKER_02: Yeah, and Gary too.
+[00:24:19] SPEAKER_02: I adopted them.
+[00:24:21] SPEAKER_02: Yeah, they have.
+[00:24:24] SPEAKER_04: Can you tell us a bit about what they do?
+[00:24:27] SPEAKER_02: The full full backstory is we funded them for a completely different idea, something like they're an Indian founding team and the original idea was something about helping Indian
+[00:24:36] SPEAKER_02: Indian high school students apply to U.S.
+[00:24:38] SPEAKER_02: colleges.
+[00:24:38] SPEAKER_00: But they're super cracked IIT, AI engineers, researchers.
+[00:24:44] SPEAKER_02: Yeah.
+[00:24:45] SPEAKER_02: And it just happened.
+[00:24:46] SPEAKER_02: We were like, this is not a great idea.
+[00:24:48] SPEAKER_02: AI is changing the world.
+[00:24:50] SPEAKER_02: And your research that you've been doing at university, at college is all aligned with
+[00:24:58] SPEAKER_02: In particular, like fine tuning LLM models.
+[00:25:00] SPEAKER_03: Originally, it wasn't even the AI version of helping Indian high school students apply to- No, it had nothing to do with AI actually.
+[00:25:07] SPEAKER_02: So it was like a classic YC story where it was like, these are two clearly brilliant engineers.
+[00:25:12] SPEAKER_02: We don't like the idea at all, but we should just fund them anyway and hope something works out.
+[00:25:16] SPEAKER_02: And the idea they actually pivoted to initially, which they raised the seed round for, was helping companies fine tune open source
+[00:25:25] SPEAKER_02: models so that they could get to equivalent performance.
+[00:25:30] SPEAKER_02: At the time, it was really only OpenAI.
+[00:25:32] SPEAKER_02: But I think in general, what we found is that those have not proven to be great businesses because the cost of the models has gone down and the performance of the open source models has gone up.
+[00:25:45] SPEAKER_00: You just haven't had to fine tune as much as people thought you would need to.
+[00:25:48] SPEAKER_04: Because the models are just keep getting better.
+[00:25:51] SPEAKER_04: It's kind of betting on the opposite direction on AGI that let's just trust that these models are going to keep getting better and better, which ergo doesn't require as much fine tuning.
+[00:26:01] SPEAKER_02: Yeah.
+[00:26:02] SPEAKER_02: And so they pivoted again into, well, we're really good at AI now.
+[00:26:10] SPEAKER_02: We're world experts in fine-tuning and squeezing performance out of these models.
+[00:26:14] SPEAKER_02: So let's just find a vertical application for that.
+[00:26:16] SPEAKER_02: And they went into AI customer support, which is competitive.
+[00:26:21] SPEAKER_02: But again, I just think if you're an intensely technical team, you can still find ways to squeeze out
+[00:26:30] SPEAKER_02: are a comparative edge against other teams in the space.
+[00:26:33] SPEAKER_02: And I think that's what they've done.
+[00:26:35] SPEAKER_04: The problem with customer support is you're dealing with very kind of squishy problems.
+[00:26:40] SPEAKER_04: There's just so many edge cases.
+[00:26:41] SPEAKER_04: It's just the space of things that could go wrong as a customer rep is enormous.
+[00:26:47] SPEAKER_03: Well, it seems competitive, but the thing is, hardly any adoption has actually happened.
+[00:26:55] SPEAKER_03: It's not like the world has replaced all the customer support agents with AI yet.
+[00:27:00] SPEAKER_03: We can all see that it's going to happen, but it hasn't happened yet.
+[00:27:02] SPEAKER_03: And so from that standpoint, it's wide open.
+[00:27:05] SPEAKER_02: What I found, at least when I spoke to the Giga ML team last, is that part of the reason for the lack of adoption is that rules-based systems work fairly well for most of the simple cases.
+[00:27:17] SPEAKER_02: And there's just not trust or belief that you can build AI that's good enough to solve the real messy stuff.
+[00:27:24] SPEAKER_02: And so most companies that were pitched on an AI customer support agent were like, well, you can't actually go all the way and solve the
+[00:27:31] SPEAKER_02: hardest problems that take up most of the time, and the rules-based system works like totally fine for everything else.
+[00:27:37] SPEAKER_02: And so I remember when they were first pitching this idea, people would just be like, this is just overkill, we don't need a rules-based system works totally fine.
+[00:27:44] SPEAKER_02: But like, seems like that is no longer the case.
+[00:27:47] SPEAKER_03: Yeah, because they now have some really legit customers.
+[00:27:49] SPEAKER_02: Who's... Zepto just signed up.
+[00:27:52] SPEAKER_02: Okay.
+[00:27:52] SPEAKER_00: So last time I did office hours with them, they said that they automated 30,000 tickets per day.
+[00:27:57] SPEAKER_00: And so they, you know, I think Zepto had more than a thousand people working on those 30,000 tickets per day.
+[00:28:07] SPEAKER_00: which is, you know, 30 tickets a day.
+[00:28:09] SPEAKER_00: And then the interesting thing was, you know, on the one hand, you know, this is probably one of the things that, frankly, everyone, when they think about AI, they're a little bit worried, like, you know, are these jobs going to go away?
+[00:28:20] SPEAKER_00: And the interesting thing about the Zepto customer support job is that it's so not a fun job that I think the turnover rate was something like,
+[00:28:32] SPEAKER_00: few months.
+[00:28:33] SPEAKER_00: Most customer support agents only wanted to work there for six months or less.
+[00:28:38] SPEAKER_00: So this actually is an interesting case of when something is incredibly rote, it's literally replacing butter passing.
+[00:28:48] SPEAKER_00: These are sometimes not really actually good jobs.
+[00:28:52] SPEAKER_00: And, you know, hopefully those people can go and do something way more awesome with their time and, you know, beautiful brains than, you know, these rote jobs that- They're apologizing for Zepto orders that got misplaced.
+[00:29:03] SPEAKER_00: Exactly.
+[00:29:04] SPEAKER_00: Right.
+[00:29:05] SPEAKER_04: But the crazy thing they figured out with O1 is that, to your point, Harsh, their previous implementation before O1 was GPT plus rules and all that.
+[00:29:15] SPEAKER_04: And it would not be able to handle most of the cases.
+[00:29:18] SPEAKER_04: It would have about a 70% error rate.
+[00:29:21] SPEAKER_04: Now, what they did is, doing the technique like Jake Heller described with really going hardcore on the e-vowels plus O-1, during the hackathon, they got to only 5% error, which is, that's an order magnitude improvement.
+[00:29:37] SPEAKER_02: The other row in this is incredible too, right?
+[00:29:39] SPEAKER_02: This is what I'm saying, like the complex, like the things that are like very complicated, that take up lots of time and are expensive to solve, would like, essentially, like, they could not do them.
+[00:29:47] SPEAKER_02: Yeah.
+[00:29:47] SPEAKER_02: So basically just like 0%.
+[00:29:50] SPEAKER_02: And that's what I'm, that's what they were encountering when they were selling this is a lot of people like, well, actually all of the stuff that we want to automate are these like complicated edge cases that waste lots of time.
+[00:30:00] SPEAKER_02: And like, they just, they couldn't actually do any of that.
+[00:30:02] SPEAKER_02: But like now they're at like 15% and that's with like O1 preview alone.
+[00:30:07] SPEAKER_02: Oh, no, that's, is that 15% of just errors?
+[00:30:09] SPEAKER_02: So now they're at like 85% accuracy.
+[00:30:10] SPEAKER_02: So they went from zero to 85%.
+[00:30:12] SPEAKER_02: They went from 0% accuracy to 85% accuracy.
+[00:30:13] SPEAKER_02: Yeah.
+[00:30:17] SPEAKER_00: So the interesting thing here is that O1, it's not even O1 yet, it's O1 preview.
+[00:30:23] SPEAKER_00: And then it's such a new technique that I think they're trying to protect their advantage right now.
+[00:30:31] SPEAKER_00: So, you know, if you use O1 in chat GPT, it looks like it will tell you what's really going on, but apparently they have a fake model that just spits out things to give you the impression that it's breaking it up into steps.
+[00:30:46] SPEAKER_00: And they've actually, you know, hidden it because they don't want other people to have access to that data yet.
+[00:30:51] SPEAKER_00: But the next step seems like it needs to be some interpretability, some directability.
+[00:30:57] SPEAKER_00: And then for that to happen, you know, I'd be curious if O2 ends up having that.
+[00:31:01] SPEAKER_00: Like you want to be able to see, OK, well, show me the work, show me the steps.
+[00:31:05] SPEAKER_00: And oh, like that step, the third step, you know, can we rerun this?
+[00:31:09] SPEAKER_00: But I want this to branch in this way.
+[00:31:11] SPEAKER_04: or edit it, I think this is one of the things that would be the next unlock, is right now it has the plan that it comes out, the chain of thought, but you cannot edit it.
+[00:31:19] SPEAKER_04: So imagine now, right now today, O1 just outputs, whatever, 15 steps to the problem that you need to solve, and imagine now being able to edit each of the steps.
+[00:31:28] SPEAKER_04: Then you get into the super, super fine-tuned next level of Jake Heller.
+[00:31:32] SPEAKER_00: So it's the worst that these models are ever going to be right now, right this moment.
+[00:31:37] SPEAKER_00: And literally week to week, there are things that you couldn't do maybe a month ago that you could do really, really well right now.
+[00:31:47] SPEAKER_00: So that sounds like a pretty crazy moment in history.
+[00:31:50] SPEAKER_04: So we've been talking a lot about the kinds of companies and ideas that get this wave of uplift from this model improvement for O1.
+[00:31:59] SPEAKER_04: What are the kinds of ideas that
+[00:32:03] SPEAKER_04: are the opposite, that are not getting benefited as much from O1 and perhaps maybe people even should pivot because they're getting, they might just get deprecated from the improvements of O1, O2, O3.
+[00:32:18] SPEAKER_02: I wouldn't go all the way and suggest they should pivot, but I do think companies that are building AI coding agents or AI program engineers potentially have stuff to think about here, because it seems like O1 in particular is outperforming on just, you know...
+[00:32:37] SPEAKER_02: solving programming problems, essentially.
+[00:32:39] SPEAKER_02: And I certainly know some of the teams I've worked with in the past, like a lot of what they've invested in is like the chain of thought infrastructure behind this stuff, which is now just, O1 is not actually like any leap forward for them.
+[00:32:51] SPEAKER_02: They've already like invested in that already.
+[00:32:55] SPEAKER_02: And so
+[00:32:56] SPEAKER_00: I think that might be a function of basically the opaque nature of what the chain of thought is.
+[00:33:03] SPEAKER_00: And once you get it to be directable, that's actually, I mean, frankly, that's what users in CodeGen are struggling with even right now.
+[00:33:10] SPEAKER_00: Once it starts going down a certain path, you can't really alter things.
+[00:33:15] SPEAKER_00: You want it to ask you,
+[00:33:18] SPEAKER_00: hey, do you want me to do it like this or that?
+[00:33:20] SPEAKER_00: And all of the systems are a little bit struggling with that right now.
+[00:33:23] SPEAKER_03: I was going to ask the inverse question, Diana, which is like, each new model capability unlocks a new set of startup ideas.
+[00:33:32] SPEAKER_03: Like a year ago, doing startup ideas where the AI agent would talk on the phone just didn't work.
+[00:33:40] SPEAKER_03: We had a bunch of companies that tried, and all the companies didn't work.
+[00:33:43] SPEAKER_03: And over the summer, it really started working.
+[00:33:45] SPEAKER_03: under the trends from the past two batches, anything around phone calling is blowing up right now because the models finally work.
+[00:33:54] SPEAKER_03: So with this new O1 series of models, what are the startup ideas that just became possible?
+[00:34:00] SPEAKER_04: To connect to Sam's essay is a lot of things that are going to make the atom world, physical world better, because it's really good at math and physics.
+[00:34:10] SPEAKER_04: So any startup that's working around mechanical engineering, electrical engineering, chemical engineering, bioengineering, all of these things that really will make our lives better, I think really are getting an unlock, as we've seen from the demos we highlighted.
+[00:34:26] SPEAKER_00: That's exciting.
+[00:34:27] SPEAKER_00: I mean, it can't just be helping people click a little bit faster.
+[00:34:30] SPEAKER_00: It's gotta be things that actually create real world abundance for everyone.
+[00:34:36] SPEAKER_00: It might just be a little bit of a race.
+[00:34:38] SPEAKER_00: I think there's sort of the fear of AI out there in society right now.
+[00:34:43] SPEAKER_00: And then it's sort of up to the technologists to try to usher in this age of abundance sooner rather than later.
+[00:34:52] SPEAKER_00: And if we can do that,
+[00:34:55] SPEAKER_00: abundance will win out over fear.
+[00:34:58] SPEAKER_00: So with that, I think we're out of time for this week of The Light Cone.
+[00:35:02] SPEAKER_00: We'll see you guys next time.
