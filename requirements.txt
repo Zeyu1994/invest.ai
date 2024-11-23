@@ -2,3 +2,5 @@ python-dotenv
 openai
 pytubefix
 argparse
+langchain
+langchain_openai

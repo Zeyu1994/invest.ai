@@ -4,7 +4,6 @@ from src.config import Config
 from src.downloader import YouTubeDownloader
 from src.transcriber import WhisperTranscriber
 from src.summarizer import Summarizer
-from src.prompts import SUMMARY_PROMPT
 
 def main():
   # Add argument parser
@@ -47,7 +46,7 @@ def main():
     # Summarize
     with open(transcript_path, 'r', encoding='utf-8') as f:
         transcript = f.read()
-    summary = summarizer.summarize(transcript, prompt=SUMMARY_PROMPT)
+    summary = summarizer.summarize(transcript)
     
     # Save summary
     summary_path = transcript_path.with_name(transcript_path.stem + '_summary.txt')
