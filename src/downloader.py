@@ -16,6 +16,9 @@ class YouTubeDownloader:
             # Normalize filename
             filename = self._normalize_filename(yt.title) + ".m4a"
             output_path = self.output_dir / filename
+            self.description = yt.description
+            self.video_title = yt.title
+            self.channel_name = yt.author
             
             stream.download(output_path=str(self.output_dir), filename=self._normalize_filename(yt.title))
             return output_path

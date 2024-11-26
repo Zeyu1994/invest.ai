@@ -25,6 +25,7 @@ def main():
     # Get audio path based on input type
     if args.youtube:
         audio_path = downloader.download_audio(args.youtube)
+
     else:
         audio_path = Path(args.audio)
         if not audio_path.exists():
@@ -38,11 +39,19 @@ def main():
     # Format and save transcript
     transcript_path = audio_path.with_suffix('.txt')
     with open(transcript_path, 'w', encoding='utf-8') as f:
+        if args.youtube:
+            f.write(f"Title: {downloader.video_title}\n")
+            f.write(f"Channel: {downloader.channel_name}\n")
+            f.write(f"Description: {downloader.description}\n")
+            f.write("\n")  # Add a newline to separate metadata from the transcript
+
+    with open(transcript_path, 'w', encoding='utf-8') as f:
         for segment in result['segments']:
             timestamp = f"[{int(segment['start'])//3600:02d}:{(int(segment['start'])%3600)//60:02d}:{int(segment['start'])%60:02d}]"
             line = f"{timestamp} {segment['speaker']}: {segment['text'].strip()}"
             f.write(line + '\n')
     
+        
     # Summarize
     with open(transcript_path, 'r', encoding='utf-8') as f:
         transcript = f.read()
