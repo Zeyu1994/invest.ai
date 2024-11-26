@@ -1,0 +1,1238 @@
+Title: Databricks CEO on Super AGI and Unlocking AI’s Untapped Potential
+Channel: The Logan Bartlett Show
+Description: Ali Ghodsi, CEO of Databricks (now a $61B company), has become one of the top minds in AI, evolving from researcher to leading one of the biggest AI-centered private companies. In our conversation, he broke down the AI hype cycle in detail and made bold predictions for the future. He also shared his biggest operating lessons from scaling Databricks to a market leader and pivotal moments in his journey.
+
+(00:00) Introduction to AGI and AI Challenges
+(01:00) Ali Ghodsi's Journey in AI
+(01:38) The Evolution and Impact of AI
+(03:59) AI in Enterprises and Consumer Adoption
+(05:25) Specialized AI Systems and Data Advantage
+(07:32) The Hype Cycle and Future of AI
+(08:22) Scaling Laws and Compound AI Systems
+(19:52) AI Use Cases and Industry Applications
+(28:29) Early Days of Databricks and Spark
+(38:43) Taking Over as Interim CEO
+(39:00) Focusing on Enterprise Sales
+(40:42) Innovating in Open Source
+(41:08) Challenges and Pivots in 2015
+(44:31) Building and Scaling New Products
+(47:57) Leadership Evolution and Advice
+(54:45) Hiring and Promoting Leaders
+(01:10:44) Future of AI and Databricks
+
+Executive Producer: Rashad Assir
+Producer: Leah Clapper
+Mixing and editing: Justin Hrabovsky
+
+Check out Unsupervised Learning, Redpoint's AI Podcast: https://www.youtube.com/@UCUl-s_Vp-Kkk_XVyDylNwLA
+
+🎙 Listen to the show
+
+Apple Podcasts: https://podcasts.apple.com/us/podcast/the-logan-bartlett-show/id1606770839
+Spotify: https://open.spotify.com/show/5WqBqDb4br3LlyVrdqOYYb?si=3076e6c1b5c94d63&nd=1
+Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zb0hJZkhWbg
+
+🎥 Subscribe on YouTube: https://www.youtube.com/channel/UCugS0jD5IAdoqzjaNYzns7w?sub_confirmation=1
+
+Follow on Socials
+
+📸 Instagram - https://www.instagram.com/theloganbartlettshow
+🐦 Twitter - https://twitter.com/loganbartshow
+🎬 Clips on TikTok - https://www.tiktok.com/@theloganbartlettshow
+
+About the Show
+
+Logan Bartlett is a Software Investor at Redpoint Ventures - a Silicon Valley-based VC with $6B AUM and investments in Snowflake, DraftKings, Twilio, and Netflix. In each episode, Logan goes behind the scenes with world-class entrepreneurs and investors. If you're interested in the real inside baseball of tech, entrepreneurship, and start-up investing, tune in every Friday for new episodes.
+
+[00:00:00] SPEAKER_00: People are like, look, we're going to really crack the code and come up with that like super AGI.
+[00:00:04] SPEAKER_00: I don't see that happening because the next model is more expensive and requires even more people.
+[00:00:07] SPEAKER_00: You have to be even more careful about it.
+[00:00:09] SPEAKER_00: I would believe that if you would say, hey, GPT-5 will cost $1 and it's going to take one second to create.
+[00:00:15] SPEAKER_00: But we're not headed in that direction.
+[00:00:16] SPEAKER_00: It's the opposite.
+[00:00:17] SPEAKER_01: Welcome to the Logan Bartlett Show.
+[00:00:18] SPEAKER_01: On this episode, what you're going to hear is a conversation I had with Ali Ghodsi.
+[00:00:22] SPEAKER_01: Ali is the co-founder and CEO of Databricks, a business valued at over $50 billion.
+[00:00:26] SPEAKER_01: Databricks sits in the center of the artificial intelligence revolution that we're seeing today.
+[00:00:31] SPEAKER_01: Ali and I talk about the state of AI, as well as what he's seeing going on at the ground level, his view on the federation of models that he sees coming, as well as what he sees for the future of AI over the course of the next couple of years.
+[00:00:43] SPEAKER_01: We also go into the founding of Databricks, his journey to becoming ultimately the CEO, as well as the different operating principles that he runs the company with today.
+[00:00:50] SPEAKER_01: A really fun conversation that you'll hear with Ali now.
+[00:00:59] SPEAKER_02: Ali, thanks for doing this.
+[00:01:00] SPEAKER_00: Of course, my pleasure.
+[00:01:01] SPEAKER_02: So you've been doing artificial intelligence since 2013 with Databricks?
+[00:01:07] SPEAKER_00: With Databricks, yeah, before that we were at Berkeley, we were doing also AI.
+[00:01:09] SPEAKER_02: When did you actually start?
+[00:01:11] SPEAKER_00: I think 2009, we started participating early, 2009-10.
+[00:01:16] SPEAKER_00: Spark, when it was originally created, was to participate in the Netflix competition, which was, hey, they gave you all these movies and you had to do recommendations and they would, you know, I think give a million dollars, a half a million dollars to the winner.
+[00:01:26] SPEAKER_00: So we got the highest score on that together with another team.
+[00:01:29] SPEAKER_02: So you're 15 years in now.
+[00:01:30] SPEAKER_02: Yeah.
+[00:01:31] SPEAKER_02: It obviously, it was considered somewhat niche and maybe academic initially, and then obviously we're in a very different point today.
+[00:01:38] SPEAKER_02: I'm curious, as you, as ChatGBT happened, and that moment where it seemingly went from enterprise and business use to sort of mainstream consumer adoption, did that change your perspective on artificial intelligence in any way?
+[00:01:53] SPEAKER_00: Not really.
+[00:01:54] SPEAKER_00: I think that it's kind of changed.
+[00:01:57] SPEAKER_00: I think from 2013, 14, 15, I just didn't understand why people don't really get into AI.
+[00:02:04] SPEAKER_00: You know, in 2014, I remember having this debate with many of the people at the company that I wanted to call it AI.
+[00:02:09] SPEAKER_00: They said, no, that's like not authentic.
+[00:02:11] SPEAKER_00: We should call it machine learning.
+[00:02:12] SPEAKER_00: It's ML.
+[00:02:13] SPEAKER_00: And I said, look, once this stuff goes mainstream,
+[00:02:15] SPEAKER_00: you know, mainstream, it's not going to be called ML, right?
+[00:02:18] SPEAKER_00: They're like, no, but that's not accurate.
+[00:02:19] SPEAKER_00: AI is robotics.
+[00:02:21] SPEAKER_00: And I just never could understand why it's not much bigger of a deal.
+[00:02:25] SPEAKER_00: It was kind of a little bit esoteric, machine learning AI.
+[00:02:29] SPEAKER_00: And in, you know, 2022, November, it just made all the sense.
+[00:02:33] SPEAKER_00: But then the magnitude of how much it sort of just shook everybody up, that was kind of a shock.
+[00:02:40] SPEAKER_02: It was surprising to you.
+[00:02:41] SPEAKER_02: Were there points that you look back on actually in those 15 years that were actually maybe groundbreaking to you, but not to the mainstream?
+[00:02:50] SPEAKER_00: Yeah.
+[00:02:50] SPEAKER_00: I mean, like when we started, people weren't really using machine learning for other things than ad tech.
+[00:02:56] SPEAKER_00: It was really ad placement, you know, click through, you know, click streams for logs to place ads and so on.
+[00:03:04] SPEAKER_00: So I would say 2014, 15, when we said really large enterprises started using this stuff for more interesting things like Expedia, how they listed the hotels, how you ranked the listing of the hotels gave them a huge revenue uplift.
+[00:03:17] SPEAKER_00: It was kind of a game changer.
+[00:03:19] SPEAKER_00: Regeneron found sort of, so they found the marker in the genetic DNA for a disease and they were developing drugs.
+[00:03:26] SPEAKER_00: So you could start seeing like, wow, that has really big impact on a lot of these companies.
+[00:03:30] SPEAKER_00: That was a big deal.
+[00:03:32] SPEAKER_00: But then I would say 2018, 19, we started seeing the natural language processing breakthroughs coming, you know, with GPT-2 and so on.
+[00:03:39] SPEAKER_00: It was already pretty, pretty amazing.
+[00:03:42] SPEAKER_00: So it was pretty clear that the Turing test would be broken soon in a couple of years or so.
+[00:03:45] SPEAKER_00: So, so, you know, it's been many of them, but yeah, who would have anticipated that the whole world would kind of wake up in this way and this would be like front news every day, you know.
+[00:03:55] SPEAKER_00: Yeah, hard to believe.
+[00:03:55] SPEAKER_02: I've heard you compare the chat GPE moment to the iPhone moment.
+[00:03:59] SPEAKER_02: Can you can you compare that analogy and what the implications are for apps and maybe how enterprises or users should think about artificial intelligence?
+[00:04:07] SPEAKER_00: Yeah, I mean, when the iPhone came out, everybody realized kind of what the smartphone revolution would be.
+[00:04:11] SPEAKER_00: And what happened immediately was that every company on the planet said, we have to build lots of apps.
+[00:04:15] SPEAKER_00: We have to build our own iPhone apps.
+[00:04:18] SPEAKER_00: And so there was this flurry of activity, all the companies building apps, but you know, did the apps really make sense?
+[00:04:24] SPEAKER_00: A lot of the apps that they built, you know, I kind of joke about it and I say, it's kind of like building flashlight application for your iPhone.
+[00:04:30] SPEAKER_00: But then a couple of years later, the iPhone just has the flashlight built in.
+[00:04:33] SPEAKER_00: And I think 2023 was one of those years that everybody wanted to say, hey, I own AI at our company.
+[00:04:38] SPEAKER_00: I am the AI leader.
+[00:04:39] SPEAKER_00: I am the gen AI.
+[00:04:40] SPEAKER_00: So there were a lot of chatbots that were built and, you know, they'll be just like, there's an app for that in 2007 or eight, there's going to be an AI company for that, that just does that.
+[00:04:50] SPEAKER_00: So, you know, for instance, people building chatbots for HR documentation, you can ask, you know,
+[00:04:56] SPEAKER_00: What's your policy on paternity leave or maternity leave?
+[00:04:59] SPEAKER_00: And companies building that, but it doesn't make sense that a company builds that for themselves.
+[00:05:03] SPEAKER_00: It makes more sense that there is a SaaS app for that and everybody just buys that.
+[00:05:07] SPEAKER_00: And a little bit, we're in this moment where there's a lot of like, hey, we're going to build our own flashlight app or whatever, chat app for everything.
+[00:05:14] SPEAKER_00: And now we're seeing slowly the companies being built and the apps being built that are going to specialize.
+[00:05:21] SPEAKER_00: And we're all going to just leverage them.
+[00:05:23] SPEAKER_00: I think we're like in the first innings of that.
+[00:05:25] SPEAKER_02: So to take that analogy a step further, do you think that there ultimately will be disintermediation between the end customer and maybe the HRS system where a native AI business sort of takes in that natural language interface and no longer would Workday or ADP or whoever it is on the back end sort of serve as the interface to the user?
+[00:05:45] SPEAKER_00: Could be, I think that this dynamic is playing out, that in this AI era, data is extremely important.
+[00:05:52] SPEAKER_00: So why shouldn't everybody build their own chat app?
+[00:05:54] SPEAKER_00: Well, you know, you should really ask yourself, what's your competitive advantage as a company?
+[00:05:58] SPEAKER_00: What is it you can do uniquely that no one else in your industry can do?
+[00:06:01] SPEAKER_00: Everybody can call OpenAI as LLM.
+[00:06:03] SPEAKER_00: So you just calling, you know, GPT-4 or 506, that's not gonna help.
+[00:06:08] SPEAKER_00: So what does you have?
+[00:06:08] SPEAKER_00: Typically it comes back to the data.
+[00:06:10] SPEAKER_00: or some customer relationship, but typically data, you must have some data advantage that nobody else has.
+[00:06:15] SPEAKER_00: So that's what it's going to come down to.
+[00:06:18] SPEAKER_00: The big companies, the incumbents, they have that data advantage, right?
+[00:06:22] SPEAKER_00: They have customers and they're collecting a lot of data.
+[00:06:24] SPEAKER_00: So the question is, can they leverage that data advantage and incorporate the AI and do the innovation that's needed?
+[00:06:31] SPEAKER_00: On the other hand, we've seen in these waves before that you'll have these smart founding teams that are just completely disrupted, thinking about things differently, and they'll rise and they'll do things in a way that the big companies are just, they're sleep at the wheel and they're not going to do.
+[00:06:43] SPEAKER_00: I think we're going to see both.
+[00:06:44] SPEAKER_00: I think we're going to see some, we're going to see a lot of company startups that fail, just like in 99, when the internet was about to come.
+[00:06:51] SPEAKER_00: But we're also going to see a few that become the next Google, Facebook, and so on.
+[00:06:55] SPEAKER_00: But I think we're also going to see some incumbents that actually figure out how to leverage the data that they have and do the investments needed to crack the code on this.
+[00:07:03] SPEAKER_00: We're going to see both of those.
+[00:07:05] SPEAKER_00: How exactly that, you know, fleshes out, I would probably bet more on the startups, to be honest, than the big ones.
+[00:07:11] SPEAKER_02: Interesting.
+[00:07:12] SPEAKER_00: The big ones move too slow.
+[00:07:14] SPEAKER_00: And, you know, if you have like a killer app,
+[00:07:17] SPEAKER_00: You can get the data flywheel probably collecting data on it and grow the usage, and then you'll have enough data advantage to be able to do that.
+[00:07:24] SPEAKER_00: And if the big guys are not paying attention, it'll move too fast.
+[00:07:28] SPEAKER_00: And before you know it, it's too late to react.
+[00:07:32] SPEAKER_02: Where do you think we are in the hype cycle of AI right now?
+[00:07:35] SPEAKER_00: I think that we're going to see this.
+[00:07:39] SPEAKER_00: I don't think like, hey, we're in trough of disillusionment.
+[00:07:41] SPEAKER_00: I think it's, you know, frankly, I think it's like somewhere at the top and we're going to see that, you know, soon we're going to see more and more companies not doing so well.
+[00:07:51] SPEAKER_00: And I think there's going to be a narrative that, hey, this AI thing was complete, you know, it was over-promised.
+[00:07:56] SPEAKER_00: There's nothing there.
+[00:07:58] SPEAKER_00: The quality of the models aren't there.
+[00:07:59] SPEAKER_00: They just don't work.
+[00:08:00] SPEAKER_00: This stuff doesn't work.
+[00:08:02] SPEAKER_00: it wasn't worth it, all these companies and so on.
+[00:08:04] SPEAKER_00: So I think we're kind of going in towards that very, very soon.
+[00:08:06] SPEAKER_00: But then I think right after that is, you know, when we actually are going to see those very companies start coming out with these applications that are completely game-changing for humanity.
+[00:08:18] SPEAKER_02: Yeah, the good news is crypto is back so people can bounce back and forth between one and the other.
+[00:08:22] SPEAKER_02: I'm curious as we record this, I guess early November of 24, there's been a bunch of reports about scaling laws and maybe the limitations that were reaching some of the outer ends and diminishing returns on that.
+[00:08:33] SPEAKER_02: Do you have any opinion on where we are with scaling laws right now?
+[00:08:36] SPEAKER_00: Yeah, I mean, we actually put out a research paper, you know, my co-founder, Matej Zaria.
+[00:08:42] SPEAKER_00: It's about compound AI systems, we call it.
+[00:08:45] SPEAKER_00: And it was actually put out probably six months ago or maybe even more.
+[00:08:49] SPEAKER_00: And it kind of predicts this.
+[00:08:52] SPEAKER_00: which what it basically says is that to really eke out that last quality bit now and really like move up the other, we really need to build these agent systems where we have many parts, many components that work together.
+[00:09:05] SPEAKER_00: And in particular, it's going to be really important that we can evaluate
+[00:09:09] SPEAKER_00: the quality of that whole AI system on the particular task you want to do.
+[00:09:14] SPEAKER_00: Like just to take that silly example that I gave HR docs Q&A, how well do you answer questions from employees on HR documentation?
+[00:09:22] SPEAKER_00: Not how well do you pass the bar exam or medical exam, general intelligence, not that, but this specific.
+[00:09:28] SPEAKER_00: Only once we have this evaluation, we can start building these agentic systems where we can start doing hill climb.
+[00:09:33] SPEAKER_00: So keep improving the quality for that specific task.
+[00:09:37] SPEAKER_00: So we call these compound AI systems.
+[00:09:39] SPEAKER_00: And these will also leverage a lot of tools.
+[00:09:42] SPEAKER_00: And they will also leverage classic machine learning because classic machine learning has much better numeracy.
+[00:09:48] SPEAKER_00: It's much better at dealing with numbers and so on, calculators, things like nature forecasting and so on.
+[00:09:53] SPEAKER_00: So that's what we call a compound AI system.
+[00:09:56] SPEAKER_00: And the beauty of those is that you can, when you run them and it gets something wrong, you can debug which agent got it wrong.
+[00:10:03] SPEAKER_00: Where was the reasoning step that was broken?
+[00:10:06] SPEAKER_00: And you can then improve it and you can get better and better and you can do this hill climbing and keep increasing the quality of the model or the AI system.
+[00:10:15] SPEAKER_00: Scaling laws, you pre-bake this gigantic models, you wait six months and the model comes out and maybe it's bad at predicting something.
+[00:10:23] SPEAKER_00: Maybe it's numeracy is not good.
+[00:10:25] SPEAKER_00: And you can't even know why it's not good.
+[00:10:27] SPEAKER_00: There's no way for us to know, hey, why did it get this thing wrong?
+[00:10:29] SPEAKER_00: I don't know.
+[00:10:29] SPEAKER_00: You do a bunch of matrix multiply, a bunch of attention layers, something plops out.
+[00:10:33] SPEAKER_00: It's inaccurate.
+[00:10:34] SPEAKER_00: I don't know.
+[00:10:35] SPEAKER_00: Let's go train a bigger one with more data.
+[00:10:38] SPEAKER_00: So it just seems much easier to do this now, more agentic workflows at inference time.
+[00:10:45] SPEAKER_00: So it makes a lot of sense.
+[00:10:46] SPEAKER_00: I think there's going to be a lot of innovation.
+[00:10:48] SPEAKER_00: It is nothing, you know, I think everybody's now focused on this.
+[00:10:51] SPEAKER_02: Do you think there's an implication for like, do you think that results in a federation of model types and different capabilities that people are respectively good for?
+[00:11:00] SPEAKER_00: Yeah, I think you will build AI systems that are very, very good at the particular task.
+[00:11:04] SPEAKER_00: We see it all the time.
+[00:11:05] SPEAKER_00: Our customers, they typically want to do the same thing again and again and again.
+[00:11:10] SPEAKER_00: Like they have massive data, like they have database with SSE filings.
+[00:11:14] SPEAKER_00: Right.
+[00:11:14] SPEAKER_00: And or they're an insurance company and they have all these insurance documents and they want to repetitively again and again on massive amounts of data, repetitively do the same task again and again and again.
+[00:11:24] SPEAKER_00: So then for them, it comes down to what's the highest quality I can do on this specific task.
+[00:11:29] SPEAKER_00: I don't need to be good at AGI, artificial general intelligence.
+[00:11:32] SPEAKER_00: How can I do this again and again really, really well?
+[00:11:34] SPEAKER_00: And can you give me the lowest cost for that?
+[00:11:36] SPEAKER_00: Because I'm going to do this at scale.
+[00:11:37] SPEAKER_00: It's going to cost me a lot of money.
+[00:11:39] SPEAKER_00: So then it makes sense to specialize a system that's really, really good at that.
+[00:11:42] SPEAKER_00: You know, having a generic gigantic model is just way too costly.
+[00:11:45] SPEAKER_00: And actually it won't do as well.
+[00:11:47] SPEAKER_00: even though it's really smart, it won't do as well at that particular task, repetitive tasks that you want to do.
+[00:11:51] SPEAKER_00: So we see this all the time.
+[00:11:52] SPEAKER_00: Like one of the surprising things on Databricks is, you know, we have models of all kinds of sizes.
+[00:11:56] SPEAKER_00: You can use LLAMA 400, 5 billion parameters, but in aggregate, we get more revenue from tiny models.
+[00:12:02] SPEAKER_00: And that was surprising to me because, you know, per model, you make much more on a bigger model, uses much more GPUs and so on, but,
+[00:12:11] SPEAKER_00: Customers want to take the big models, distill the smallest possible that can get good enough quality and just use that because that saves them money.
+[00:12:18] SPEAKER_00: And actually in aggregate, we make more money on that.
+[00:12:20] SPEAKER_00: So yes, I think we're going to see that.
+[00:12:21] SPEAKER_00: And you see that in life also, like, you know, are all the tasks that humans are doing, all the jobs that are happening already, do you need Terence Tao for every task?
+[00:12:29] SPEAKER_00: You know, are you getting the smartest person possible on the planet doing them?
+[00:12:31] SPEAKER_00: Or many of the jobs are repetitive and some things, you know, it's good enough and you want to pay this particular price for it.
+[00:12:37] SPEAKER_00: So it makes sense that you have a smarter model that's specialized.
+[00:12:39] SPEAKER_02: What do you think about the concept of general reasoning, or the path to maybe not AGI, but a more holistic understanding and reasoning that sort of underpins these distinct models?
+[00:12:50] SPEAKER_02: Do you think we're approaching a step function in that?
+[00:12:53] SPEAKER_02: Or do you think that we've reached some certain plateau in it, and now it's about the data and the different functional areas?
+[00:12:59] SPEAKER_00: I mean, look, the scaling laws, it's like on a logarithmic scale.
+[00:13:03] SPEAKER_00: So moving to the right, we are gonna move to the right.
+[00:13:06] SPEAKER_00: And yes, that means that we're gonna get improved intelligence, but the next thousand X is not gonna be as, it's not gonna yield as much as the previous thousand X. Plus, one of our researchers put this out, over the last 11 years, we've had a hundred million times improvement in compute that we've thrown at the problem.
+[00:13:26] SPEAKER_00: We're not going to be able to get the same over the next few years.
+[00:13:29] SPEAKER_00: We're going to improve it, but not as much.
+[00:13:31] SPEAKER_00: You know, there's just not going to be enough energy compute to throw at it.
+[00:13:35] SPEAKER_00: And we're not going to have enough data.
+[00:13:36] SPEAKER_00: Like, you know, Lama was trained on 15 trillion tokens.
+[00:13:39] SPEAKER_00: What's that?
+[00:13:40] SPEAKER_00: 10X the size of the web.
+[00:13:42] SPEAKER_00: Are we gonna 100X, 1,000X the amount of data that can do that?
+[00:13:46] SPEAKER_00: Getting that high quality data, it seems just, it gets exceedingly expensive.
+[00:13:51] SPEAKER_00: It's much easier to build these compound AI systems, these agentic systems, where you can actually debug and get really good at the task.
+[00:13:57] SPEAKER_00: So yeah, I think there's gonna be a slowdown.
+[00:14:01] SPEAKER_00: I also think that a lot of those things where people are like, look, we're gonna really crack the code and come up with that super AGI,
+[00:14:08] SPEAKER_00: That kind of would require some kind of, you know, recursive self-improvement loop.
+[00:14:13] SPEAKER_00: I don't see that happening because the next model is more expensive and requires even more people.
+[00:14:16] SPEAKER_00: You have to be even more careful about it.
+[00:14:19] SPEAKER_00: I would believe that if you would say, hey, GPT-5 will cost, you know, $1 and it's going to take one second to create.
+[00:14:26] SPEAKER_00: If we were headed in that direction.
+[00:14:28] SPEAKER_00: Then you could see like, okay, well, then it can spawn off and we can just apply a genetic algorithm, do lots of them and pick the best and so on.
+[00:14:35] SPEAKER_00: But we're not headed in that direction.
+[00:14:36] SPEAKER_00: It's the opposite.
+[00:14:36] SPEAKER_00: It's like, we're going to do a very specialized data center.
+[00:14:38] SPEAKER_00: We're going to build a model over one year period of time.
+[00:14:41] SPEAKER_00: We're going to be very careful.
+[00:14:41] SPEAKER_00: Lots of humans involved.
+[00:14:44] SPEAKER_00: So I don't have a crystal ball, but my guess is that for many more years, we need humans in the loop.
+[00:14:52] SPEAKER_00: and we need this stuff to be verifiable.
+[00:14:55] SPEAKER_00: We can't just, just like we saw with cars or with autopilots in airplanes, we want to have a human in the loop that can verify that it's not veering off in the wrong direction.
+[00:15:08] SPEAKER_00: And it's just accelerating the work that they do today.
+[00:15:11] SPEAKER_00: And I think for that, we're going to use more of these agentic systems.
+[00:15:14] SPEAKER_02: So it sounds like a lot of lead bullets.
+[00:15:16] SPEAKER_02: There's no silver bullet that you sort of see on the horizon at this point.
+[00:15:19] SPEAKER_02: When you hear people talking about like $50 billion models or throwing all this, very good for your business, I'm sure, as people think about this.
+[00:15:27] SPEAKER_02: But do you think that all of the stuff we were just talking about, it means that that's a little pie in the sky and overly ambitious for diminishing returns as people sort of talk about these models at that level of scale?
+[00:15:41] SPEAKER_00: Well, again, I don't have a crystal ball and maybe they're right.
+[00:15:42] SPEAKER_00: And if they are, it's amazing.
+[00:15:43] SPEAKER_02: You've been pretty good historically in predicting some of these things.
+[00:15:46] SPEAKER_00: I think that, you know, the reasoning that they have makes sense, which is like, hey, we're freaking creating AGI.
+[00:15:51] SPEAKER_00: It's worth any cost.
+[00:15:51] SPEAKER_00: It doesn't matter what it costs and it doesn't matter what dilution and your economic model is done.
+[00:15:55] SPEAKER_00: I don't care about them because look at what we're creating.
+[00:15:58] SPEAKER_00: Makes sense to me if you actually achieve it, but I would probably lean more on the skeptical side.
+[00:16:05] SPEAKER_00: Spending that much money, I guess I'm too much of an operator running a company that needs to think about growth rate, LTV, CAC, so on and so forth, operating margin, that I think if you've got to spend that much money to produce a model,
+[00:16:22] SPEAKER_00: And then you have to do inference on that model for it to sort of pay back the investments that you need to train that model.
+[00:16:30] SPEAKER_00: And it seems right now the case is that before you've even gotten the money back for how much it costs to train the model, it's already commoditized and there's a better version by someone somewhere.
+[00:16:41] SPEAKER_00: So then economically, it's just right now not feasible to do that.
+[00:16:44] SPEAKER_00: It seems that for those particular tasks, the cost to create these compound agentic systems
+[00:16:52] SPEAKER_00: That's worthwhile.
+[00:16:53] SPEAKER_00: And the ROI is there.
+[00:16:54] SPEAKER_00: Why not do that?
+[00:16:55] SPEAKER_00: And it can drive a lot of value and continue doing that.
+[00:16:57] SPEAKER_00: And then maybe we'll be surprised when one of these labs come up with that super model.
+[00:17:01] SPEAKER_00: But I'm skeptical.
+[00:17:02] SPEAKER_00: I think that there's going to be a barrier.
+[00:17:04] SPEAKER_00: We've got to overcome some big barrier to get to that complete autonomous
+[00:17:10] SPEAKER_00: that can just get the accuracy right and it's reliable.
+[00:17:13] SPEAKER_02: If we froze model development right now, do you think that the existing capabilities that we have in AI is enough to
+[00:17:26] SPEAKER_02: catch up at some point with all the tooling and the applications and all that with the excitement and the promise that we're seeing?
+[00:17:32] SPEAKER_02: Or do you think these incremental gains that we're sort of talking about in the more niche sort of specialized models, we need to keep making those improvements to catch up with, you know, the potential of what we could actually accomplish?
+[00:17:44] SPEAKER_00: Absolutely.
+[00:17:45] SPEAKER_00: I think that, you know, humans are the longest pole in the tent here.
+[00:17:50] SPEAKER_00: If no human uses any of this stuff, it's absolutely useless.
+[00:17:53] SPEAKER_00: You can't even come up with that super, you know, AGI thing.
+[00:17:55] SPEAKER_00: If nobody's using it, it doesn't matter.
+[00:17:57] SPEAKER_00: Humans take a very long time to change all of their behaviors, habits, processes in these companies and so on.
+[00:18:02] SPEAKER_00: So it's very, very hard.
+[00:18:05] SPEAKER_00: So I think with what just we have now,
+[00:18:07] SPEAKER_00: There's huge untapped potential and it's not yet been applied in every workplace, in every function, in every process, in everything that we're doing.
+[00:18:17] SPEAKER_00: And I think we can even improve what we have today with those kinds of techniques that we discussed.
+[00:18:21] SPEAKER_00: So I think like, even if we freeze it and we say, hey, that's it, actually, we didn't know how to create a single model that's even better.
+[00:18:26] SPEAKER_00: This is the best we'll see in the next 20 years.
+[00:18:28] SPEAKER_00: I think there's going to be massive implications on the economy and, you know, on what we can do and so on.
+[00:18:34] SPEAKER_00: So I would still be extremely bullish on this.
+[00:18:36] SPEAKER_00: Um, that that's really true to what I believe in.
+[00:18:39] SPEAKER_02: Is there something that you see from your seat and purview that you have that maybe wouldn't be intuitive to the average listener that's, you know, paying attention to all this stuff, but you're, you're able to see so clearly the same way that you maybe did 10 years ago, you're like, Hey, why isn't anyone, why does anyone care about this AI thing?
+[00:18:56] SPEAKER_02: Is there another insight, maybe not at that quantum, but something else that you sort of see that.
+[00:19:01] SPEAKER_02: you feel like might be mainstream or well understood in a couple years that is underappreciated today?
+[00:19:06] SPEAKER_00: Yeah, I mean, I think it's the fact that you're focusing the task.
+[00:19:08] SPEAKER_00: I kind of said it.
+[00:19:09] SPEAKER_00: You focus the tasks on the repetitive stuff that today is costing you a lot of money.
+[00:19:13] SPEAKER_00: And if you can just get the reliability up on those specific tasks, it's massive improvement for these organizations.
+[00:19:19] SPEAKER_00: And it's pretty game changing.
+[00:19:20] SPEAKER_00: We haven't actually reaped that yet.
+[00:19:22] SPEAKER_00: Those use cases are sort of right now being worked on.
+[00:19:26] SPEAKER_00: Folks are building them.
+[00:19:27] SPEAKER_00: They're not in production.
+[00:19:28] SPEAKER_00: It hasn't had impact on all the companies that are using this stuff, but it's just around the corner.
+[00:19:32] SPEAKER_00: It's like guaranteed it's going to appear.
+[00:19:34] SPEAKER_00: It will probably take two, three years before we see it.
+[00:19:37] SPEAKER_00: And then we'll see the impact of it.
+[00:19:39] SPEAKER_00: And actually, you know, I fear or, you know, suspect that there might be before that we hit this trough of disillusionment and then actually these use cases land and we'll see the companies that are doing that.
+[00:19:48] SPEAKER_00: So it's, you can see it baking already.
+[00:19:50] SPEAKER_00: It's just not in production yet.
+[00:19:52] SPEAKER_02: Are there use cases that you've seen people use Databricks or other systems for that have gotten you particularly excited back to the Regeneron analogy that you were saying 10 years ago?
+[00:20:01] SPEAKER_02: Maybe something today that you guys see on the field that is exciting or makes you particularly looking forward to the future of what could happen?
+[00:20:10] SPEAKER_00: In every vertical, in every industry, we see lots and lots of use cases, like financial services.
+[00:20:15] SPEAKER_00: There's so many financial advisors, FAs out there.
+[00:20:18] SPEAKER_00: They basically, now we generate automatically for one of our customers, large bank, automatically in advance what advice they should give to you.
+[00:20:25] SPEAKER_00: It's customized.
+[00:20:26] SPEAKER_00: They understand everything about you, your wealth situation, and so on.
+[00:20:29] SPEAKER_00: They can give you customized advice.
+[00:20:31] SPEAKER_00: It affects thousands of thousands of these folks that are doing that.
+[00:20:35] SPEAKER_00: right, in insurance, sifting through massive, massive amounts of documents to assess risk, right?
+[00:20:43] SPEAKER_00: It's like they can do it.
+[00:20:44] SPEAKER_00: And by the way, one thing that people underestimate is that the models are very fast at reading data.
+[00:20:50] SPEAKER_00: They're slow at producing text, right?
+[00:20:52] SPEAKER_00: They're, you know, much slower.
+[00:20:54] SPEAKER_00: The other insight I would say is like, you know, that's surprising is, you know, it's probably at least a 10 to one ratio between,
+[00:21:00] SPEAKER_00: how much people are using the models to read stuff than to produce.
+[00:21:04] SPEAKER_00: So they have, when they use Databricks, they use us 10 times or a hundred times, sometimes more, or even more to read stuff and then produce very little text or very little data out.
+[00:21:14] SPEAKER_00: Whereas people are focused on that output that comes out, but it's usually much, much smaller.
+[00:21:18] SPEAKER_00: So, you know, underwriting is another one that we're seeing.
+[00:21:22] SPEAKER_00: There's so many going through all the SCC filings and figuring out what's happening, you know,
+[00:21:27] SPEAKER_00: extracting signal.
+[00:21:28] SPEAKER_00: So figuring out alpha, we see it in all the financial sector.
+[00:21:32] SPEAKER_00: So there's so many use cases in healthcare, electronic medical records.
+[00:21:36] SPEAKER_00: There's just so many of them.
+[00:21:37] SPEAKER_00: They're all handwritten, being able to actually finding structure in that.
+[00:21:42] SPEAKER_00: It's, you know, that's a treasure trove by itself.
+[00:21:45] SPEAKER_00: So use cases around that.
+[00:21:46] SPEAKER_00: So there's, you know, hundreds of hundreds of these you see all the time in every industry.
+[00:21:51] SPEAKER_00: They just haven't been productionized yet.
+[00:21:53] SPEAKER_00: They're not fully being used by the workforce.
+[00:21:56] SPEAKER_02: Do you think that read-to-write ratio stays around that?
+[00:22:02] SPEAKER_02: Are there any trends that you see as read going up in comparison to write?
+[00:22:06] SPEAKER_02: Or do you think at some point the writing and the creation catches up with the reading and summarization?
+[00:22:11] SPEAKER_00: I mean, hard to see that because, you know, how much are we gonna read as humans?
+[00:22:16] SPEAKER_00: You know, how much could we, I mean, there's only so much and we read slowly, right?
+[00:22:19] SPEAKER_00: Whereas having the AI crunch a lot of information, you know, so that it has that context makes a lot of sense.
+[00:22:26] SPEAKER_00: So if anything, that probably increases.
+[00:22:28] SPEAKER_00: And if we can do that faster, so that's where the trend is headed.
+[00:22:32] SPEAKER_00: We're seeing even more and more of that when we look at our data than when we started.
+[00:22:36] SPEAKER_02: As you counsel customers, be it big enterprises or smaller ones, about figuring out where AI and automation can exist within their organization and how to continue to dive deeper into that journey, are there any
+[00:22:53] SPEAKER_02: takeaways or key points that you keep hitting that you feel like, hey, if you could tell all customers, this is how to set up a team, or this is how to think about it, any frameworks or primitives or whatever that you think about?
+[00:23:05] SPEAKER_00: First of all, you got to get your data strategy right.
+[00:23:07] SPEAKER_00: Like a lot of companies now want to sort of skip that step and jump straight to the AI.
+[00:23:13] SPEAKER_00: And you know, the data teams have been at it trying to get the data of their company organized, secured,
+[00:23:19] SPEAKER_00: you know, get it in one place so they can actually get access to it, not in different silos.
+[00:23:23] SPEAKER_00: And you know, that has been a journey and it's not finished work.
+[00:23:28] SPEAKER_00: It hasn't, that work has not been on the CEO's radar of the Fortune 500.
+[00:23:32] SPEAKER_00: That's, you know, it's been sort of esoteric topic.
+[00:23:34] SPEAKER_00: Maybe IT was sort of worrying about it.
+[00:23:38] SPEAKER_00: Now the CEOs are waking up after ChatGPT and they're saying, I need AI.
+[00:23:41] SPEAKER_00: It's game changing.
+[00:23:42] SPEAKER_00: I see it now.
+[00:23:43] SPEAKER_00: I've used it myself.
+[00:23:44] SPEAKER_00: Give me AI.
+[00:23:46] SPEAKER_00: And they're sort of skipping that step.
+[00:23:48] SPEAKER_00: So it's extremely important that you go back to the basics.
+[00:23:51] SPEAKER_00: The data is extremely important.
+[00:23:54] SPEAKER_00: So you have to get that in a good place.
+[00:23:56] SPEAKER_00: And if you don't have that in a good place, you're not gonna actually gonna be able to succeed with AI.
+[00:24:00] SPEAKER_00: The second thing is focus the use cases of AI that you wanna do on where you have a data advantage.
+[00:24:06] SPEAKER_00: So for your company, what is your data advantage?
+[00:24:08] SPEAKER_00: And frankly speaking, oftentimes I find myself talking to customers, telling them, maybe don't do this project.
+[00:24:14] SPEAKER_00: And I say, why not?
+[00:24:14] SPEAKER_00: We're very excited about it.
+[00:24:15] SPEAKER_00: We're gonna do this and that.
+[00:24:16] SPEAKER_00: We are ready to go.
+[00:24:17] SPEAKER_00: We'll pay you a lot of money for it.
+[00:24:19] SPEAKER_00: And it's like, yeah, but what's your advantage in this?
+[00:24:21] SPEAKER_00: There'll be an app for that by someone else.
+[00:24:24] SPEAKER_00: So let's focus on places where you have a competitive advantage against your competition.
+[00:24:28] SPEAKER_00: And it typically has to come back to something you have around the data, and you do have it.
+[00:24:32] SPEAKER_00: So let's focus on those use cases, because we want our customers to be successful.
+[00:24:36] SPEAKER_00: Only then, long-term, will we succeed as well.
+[00:24:38] SPEAKER_00: So I would say that's the second thing I say.
+[00:24:40] SPEAKER_00: The third is,
+[00:24:43] SPEAKER_00: There's a lot of people problems in large organizations.
+[00:24:47] SPEAKER_00: There's now many people that are fighting over owning AI in the organization.
+[00:24:51] SPEAKER_00: Like I'm the person who owns AI at our company and so on.
+[00:24:55] SPEAKER_00: So figuring out a way so that you can get the strategy aligned in large organizations is, I know it's boring, but this is the hardest part of a large organization.
+[00:25:04] SPEAKER_00: with so many different people running in different directions, having so many ideas of which vendor to use, what kind of models to use, what kind of people to hire, which project to do.
+[00:25:14] SPEAKER_00: So if you can concentrate sort of the decision making to one person.
+[00:25:21] SPEAKER_00: in the organization and not have lots of departments have political fights over it.
+[00:25:25] SPEAKER_00: It streamlines and moves things faster.
+[00:25:27] SPEAKER_00: Typically you actually have the head of that department being a change agent person.
+[00:25:31] SPEAKER_00: It's someone that doesn't do things that everyone will love, but they'll come in and make the difficult decisions.
+[00:25:37] SPEAKER_00: streamline the data processing, the security around the privacy around it, because everybody's worried about that.
+[00:25:43] SPEAKER_00: And then focus on those use cases that actually matter for that organization.
+[00:25:48] SPEAKER_00: This is as important as a technology.
+[00:25:50] SPEAKER_00: I care a lot about the technology and geek out on that, but this is just as important.
+[00:25:53] SPEAKER_00: Projects will get not funded or they get stuck in security or they go nowhere because different departments are fighting each other.
+[00:26:00] SPEAKER_00: So we need to overcome these things as well.
+[00:26:01] SPEAKER_00: This is why I'm saying it's going to take a few years before we see the impact of these things.
+[00:26:05] SPEAKER_02: As you think about the landscape and the term that you used earlier to sort of talk about was a compound, what was the compound data and all that?
+[00:26:12] SPEAKER_00: Compound agent systems.
+[00:26:13] SPEAKER_02: Yeah, compound agent systems.
+[00:26:15] SPEAKER_02: How do you think about what areas to potentially pursue?
+[00:26:20] SPEAKER_02: There's a bunch of venture
+[00:26:21] SPEAKER_02: companies in spaces like inference or evals or whatever it is, like as you think about different areas to potentially go into for Databricks as a business, how do you evaluate, no pun intended, I guess, those markets to potentially pursue?
+[00:26:36] SPEAKER_00: Yeah, it makes sense.
+[00:26:36] SPEAKER_00: Look, it's just for us, it makes a lot of sense since you already have all your data with Databricks.
+[00:26:41] SPEAKER_00: You already trust us that it's secure.
+[00:26:43] SPEAKER_00: You know that we can handle a security to privacy.
+[00:26:46] SPEAKER_00: So the question is, what's really adjacent to that?
+[00:26:49] SPEAKER_00: And for me as a CEO, where is it we can actually bring extra value to the customer that they otherwise couldn't get elsewhere?
+[00:26:53] SPEAKER_00: Typically comes back to the data that they have with us already.
+[00:26:56] SPEAKER_00: So typically comes with governance around that data.
+[00:27:00] SPEAKER_00: with guardrails around that data.
+[00:27:01] SPEAKER_00: You don't wanna build, this actually happened with a customer.
+[00:27:05] SPEAKER_00: They had a chatbot and if you asked it, what's the best car I could buy, and this was a car manufacturer, it recommended competitor's car.
+[00:27:12] SPEAKER_00: So how do you put guardrails around that?
+[00:27:15] SPEAKER_00: How do you deal with PII data?
+[00:27:17] SPEAKER_00: How do you deal with AI regulation that's coming?
+[00:27:19] SPEAKER_00: A lot of this we can standardize in Databricks.
+[00:27:21] SPEAKER_00: So it makes sense.
+[00:27:22] SPEAKER_00: We can like automatically produce documentation.
+[00:27:24] SPEAKER_00: So you're compliant with the regulation that's coming.
+[00:27:26] SPEAKER_00: We can put guardrails so that it doesn't do those kinds of things.
+[00:27:30] SPEAKER_00: And since we have the data, we can create this data loop so that you get this flywheel of when they use the model, we create the evals.
+[00:27:38] SPEAKER_00: and automatically feed it back to making this model smarter and smarter and doing that.
+[00:27:43] SPEAKER_00: It seems we can do that because they already have the data with us.
+[00:27:46] SPEAKER_00: So it's just advantageous for us to do that.
+[00:27:49] SPEAKER_00: I think in this space, like for startups, they should focus on the applications.
+[00:27:53] SPEAKER_00: I think applications are going to be where
+[00:27:55] SPEAKER_00: a lot of value in the AI space is going to accrue in the future.
+[00:27:57] SPEAKER_00: We'd love to be their infrastructure.
+[00:27:59] SPEAKER_00: So they use us for their data processing, for their governance, and for their AI.
+[00:28:04] SPEAKER_00: The applications, I mean, there's a lot of creativity.
+[00:28:06] SPEAKER_00: There's a lot of things that you're seeing happening.
+[00:28:08] SPEAKER_00: I can't predict what's going to be the apps that are actually going to win in the future.
+[00:28:11] SPEAKER_00: It's kind of like in 2000, trying to predict Facebook or Twitter.
+[00:28:15] SPEAKER_00: No one could have done that.
+[00:28:16] SPEAKER_00: ever would have said, Oh, you know, there's going to be a company that does, you know, 140 character tweets, it's going to be the same thing now.
+[00:28:22] SPEAKER_00: So we just want to be that infrastructure for them so that they can build their AI systems on top of us.
+[00:28:27] SPEAKER_00: And we help them with that data firewall.
+[00:28:29] SPEAKER_02: We back up a little bit to the original early days of spark.
+[00:28:32] SPEAKER_02: So we talked about the Netflix competition in that I had heard that
+[00:28:36] SPEAKER_02: Maybe you tried to actually sell the technology in the early days and there weren't really any takers.
+[00:28:41] SPEAKER_02: Can you just go back to that early story?
+[00:28:44] SPEAKER_02: What did you see and what was your path to getting it off the ground into some commercial entity?
+[00:28:51] SPEAKER_00: Yeah, I mean, what was really happening is that we were seeing that the Silicon Valley tech companies were leveraging AI.
+[00:28:57] SPEAKER_00: This is 2009 or 10.
+[00:28:58] SPEAKER_00: We were seeing what Facebook was doing.
+[00:29:00] SPEAKER_00: We were seeing what Google was doing.
+[00:29:02] SPEAKER_00: And it was very clear that doing AI on the data is going to be the most important thing.
+[00:29:08] SPEAKER_00: And at the time, everybody was stuck on doing basic analytics, backwards looking.
+[00:29:13] SPEAKER_00: call it BI, business intelligence, which is backwards looking.
+[00:29:16] SPEAKER_00: Like how was my revenue last week?
+[00:29:18] SPEAKER_00: And they were excited that they could do that really, really fast.
+[00:29:20] SPEAKER_00: But we were asking, hey, what about, what's your revenue gonna be next week, AI?
+[00:29:25] SPEAKER_00: And there was just not much appetite for that at the time.
+[00:29:29] SPEAKER_00: And we went around and we tried to push the technology out because we just wanted to do research.
+[00:29:32] SPEAKER_00: But it was very hard to actually get anyone to actually see this.
+[00:29:35] SPEAKER_00: You know, you might remember the phrase, it was the Hadoop wars, Hadoop days.
+[00:29:38] SPEAKER_00: It was impossible to get anyone's attention for that stuff.
+[00:29:41] SPEAKER_00: So it was kind of a little bit out of despair that we started the company and said, look, if we don't do it ourselves, no one is going to do it.
+[00:29:48] SPEAKER_00: I remember actually one of our first customers, we said, Hey, this is open source.
+[00:29:52] SPEAKER_00: Just take it.
+[00:29:53] SPEAKER_00: Cause we don't want to make money on this.
+[00:29:55] SPEAKER_00: And I said, no, you got to charge us for it because we want an enterprise that's behind this.
+[00:30:00] SPEAKER_00: And that's kind of when we realized that, okay, there needs to be like an enterprise business.
+[00:30:04] SPEAKER_00: No one else is going to do that.
+[00:30:06] SPEAKER_00: We probably have to do it ourselves.
+[00:30:07] SPEAKER_02: Was it an issue of just pure focus for these vendors?
+[00:30:12] SPEAKER_02: Or was there something from a data structure standpoint that needed to actually happen to have the market evolve to the point that they actually were able to do a lot of the things that you wanted them to do?
+[00:30:22] SPEAKER_00: I think there's these hype cycles that come and everybody's just focused on something.
+[00:30:25] SPEAKER_00: So that era was that Hadoop hype cycle and they were obsessed with it.
+[00:30:28] SPEAKER_00: And we couldn't, for the life of us, tell us AI is more interesting.
+[00:30:31] SPEAKER_00: It's just, you know, you open the newspaper and everything is just about that.
+[00:30:35] SPEAKER_00: And it's happening now too, right?
+[00:30:36] SPEAKER_00: It's like, I think the market works like that.
+[00:30:38] SPEAKER_00: And to create a successful company, you have to kind of bet on something that's non-consensus at the time, and you have to be right about it.
+[00:30:45] SPEAKER_00: So for us, it was AI.
+[00:30:47] SPEAKER_00: It was the cloud.
+[00:30:48] SPEAKER_00: It was open source.
+[00:30:49] SPEAKER_00: Those were the things that we were excited about.
+[00:30:50] SPEAKER_00: But there wasn't much excitement around that.
+[00:30:53] SPEAKER_00: And actually, we were told that this is not going to work.
+[00:30:55] SPEAKER_00: All the data is going to be on premises.
+[00:30:59] SPEAKER_00: Open source, you cannot monetize it, and so on and so forth.
+[00:31:02] SPEAKER_00: So I think it's similar now, right?
+[00:31:06] SPEAKER_02: Were you intellectually, I had heard a story that you, that a customer was going to offer you, I don't know if it was seven figures or eight figures or something to build an on-prem version of the product and you rejected it at a point in time that maybe you could have used.
+[00:31:19] SPEAKER_02: Yes.
+[00:31:19] SPEAKER_02: Now, now less so, but at that point in time you definitely could have used the seven or eight figures or whatever it was.
+[00:31:24] SPEAKER_02: Did you just see this as an inevitable path you were building towards and therefore anything but that was a distraction along the way or what was that philosophical decision?
+[00:31:34] SPEAKER_00: Yeah, a hundred percent.
+[00:31:36] SPEAKER_00: Our view was we have to have an asymmetric bet on something that no one else believes in, and we better be right about it.
+[00:31:42] SPEAKER_00: That's the only way.
+[00:31:43] SPEAKER_00: So if we're going to go on prem and do what everyone else is doing, then there are way bigger sharks that can do them than us.
+[00:31:49] SPEAKER_00: And then this is going to fizzle out and it's not going to work.
+[00:31:51] SPEAKER_00: So yeah, it was a month or so in to my CEO job, 2016, that one of the largest banks told me, you need to bring this stuff on premise.
+[00:32:00] SPEAKER_00: And I said, no, we're not going to do that.
+[00:32:01] SPEAKER_00: And they said, well, how much?
+[00:32:02] SPEAKER_00: And I said, how much what?
+[00:32:03] SPEAKER_00: They said, how much would we pay you for it?
+[00:32:04] SPEAKER_00: And I said, we're not going to do it.
+[00:32:06] SPEAKER_00: And they said, 5 million.
+[00:32:07] SPEAKER_00: I said, we're not going to do it.
+[00:32:08] SPEAKER_00: And they said, 10.
+[00:32:09] SPEAKER_00: I said, we're not going to do it.
+[00:32:10] SPEAKER_00: They said, 20.
+[00:32:11] SPEAKER_00: I'll give you 20 right now.
+[00:32:12] SPEAKER_00: And at the time, 2016,
+[00:32:15] SPEAKER_00: You know, I guess we ended the year with 10 million revenue that year.
+[00:32:19] SPEAKER_00: So, you know, 20 million revenue was a lot.
+[00:32:22] SPEAKER_00: But the idea was like, if you go on-prem, they're a much bigger company.
+[00:32:25] SPEAKER_00: So we have to have an asymmetric bet that we believe in and we continue to double down on.
+[00:32:30] SPEAKER_00: And then once that bet becomes true, we'll be big enough that it's too hard for others to catch up with us.
+[00:32:36] SPEAKER_00: Similar thing, as I said, is gonna happen in this AI and LLM era right now.
+[00:32:42] SPEAKER_00: I think you have to pick
+[00:32:43] SPEAKER_00: something that you think is different than the rest of the market and then bet on it.
+[00:32:49] SPEAKER_00: And then hopefully you're right.
+[00:32:52] SPEAKER_02: As you reflect on the journey, one of the stories that I had heard was giving a lot of credit to Ben Horowitz and actually turning this into a business.
+[00:33:02] SPEAKER_02: Can you tell that story?
+[00:33:03] SPEAKER_02: Typically I don't allow other VC plugs, but I thought it was an interesting one that he actually was pushing you guys to think big and turn this into a commercial product.
+[00:33:11] SPEAKER_00: Yeah, I mean, look, we came out of the research lab.
+[00:33:13] SPEAKER_00: We really wanted to raise only $200,000, $300,000, $400,000 seed and just code away for a year or so.
+[00:33:19] SPEAKER_00: And he's the one that pushed hard, no, let's do the Series A and I want to be exclusive investor.
+[00:33:24] SPEAKER_00: And, you know, we were actually not very excited about it, but then he gave us a price we couldn't refuse.
+[00:33:29] SPEAKER_00: And he said, no, go big.
+[00:33:31] SPEAKER_00: you know, 14 million at the time, which is a lot of money back then.
+[00:33:34] SPEAKER_00: I know it's not much these days.
+[00:33:36] SPEAKER_00: And he said, go, go, go, go, go.
+[00:33:37] SPEAKER_00: So he really pushed us, go aggressive, disrupt the market, think big.
+[00:33:43] SPEAKER_00: You know, he always was a couple of orders of magnitude.
+[00:33:47] SPEAKER_00: bigger sort of vision for Databricks than we ever had.
+[00:33:50] SPEAKER_00: Like whatever was our biggest grandiose vision of Databricks, he always was a couple of orders of magnitude ahead and was pushing aggressively saying, no, no, no, this you're thinking too small, like way too small.
+[00:34:00] SPEAKER_00: And I think he really truly believed it as well.
+[00:34:02] SPEAKER_00: So that kind of set the tone from the early days for us.
+[00:34:05] SPEAKER_02: Cause the early founders are, I don't know if you remember these numbers, but you guys bet, you remember the actual numbers.
+[00:34:10] SPEAKER_02: So, so what were the bets for the early?
+[00:34:12] SPEAKER_00: We were in the, around the table when we started the company said, Hey, what's like a great outcome for the company.
+[00:34:17] SPEAKER_00: And I think when we rented out around the table, the numbers were something along the lines of like 150 million exit for us or 200 and someone said 250 and so on.
+[00:34:26] SPEAKER_00: Uh, so that's how we were thinking.
+[00:34:27] SPEAKER_00: And Ben was immediately like, no, no, no billions for sure.
+[00:34:30] SPEAKER_00: We're going to do.
+[00:34:31] SPEAKER_00: And then when we got to that, you know, it was like, as easily going to be a hundred billion dollar company.
+[00:34:35] SPEAKER_00: And, you know, now where we are now, he's like, definitely a trillion is what you need to think about.
+[00:34:40] SPEAKER_00: And, you know, I would also give credit for Mark Andreessen in one of the meetings.
+[00:34:43] SPEAKER_00: I think we, early days, we said, he said, what's your biggest bottleneck?
+[00:34:47] SPEAKER_00: I think this was 2017.
+[00:34:48] SPEAKER_00: And I said, hey, we can't hire engineers.
+[00:34:51] SPEAKER_00: We can't get the engineers from Facebook and Google.
+[00:34:55] SPEAKER_00: They're just too expensive.
+[00:34:56] SPEAKER_00: And he said, huh, what's, so what's the, so Fang is the problem?
+[00:34:59] SPEAKER_00: And I said, yeah, Fang is the problem.
+[00:35:01] SPEAKER_00: And he said, okay, so you just need to add yourself to that list.
+[00:35:03] SPEAKER_00: It needs to be Fang DB.
+[00:35:05] SPEAKER_00: And that's it.
+[00:35:05] SPEAKER_00: And then he moved on.
+[00:35:06] SPEAKER_00: But after that meeting, we're like, yeah, okay, he kind of is right.
+[00:35:09] SPEAKER_00: We should actually just offer up and, you know, hire those people and become like one of those tech magnets.
+[00:35:15] SPEAKER_00: And it changed our mindset.
+[00:35:16] SPEAKER_00: Like we went back, we changed our compensation, we changed how we hire just based on that one comment.
+[00:35:22] SPEAKER_02: I'm curious, like at a tactical level, I mean, that's very aspirational.
+[00:35:26] SPEAKER_02: It sounds great.
+[00:35:26] SPEAKER_02: Uh, but, but like in changing the compensation or thinking bigger, like what did you then go do?
+[00:35:32] SPEAKER_00: We literally went back and moved the compensation for engineering to 90th percentile of the market.
+[00:35:37] SPEAKER_00: You know, we did the math and we saw how much is it gonna cost us?
+[00:35:41] SPEAKER_00: Are we gonna be able to do this?
+[00:35:42] SPEAKER_00: Is it gonna be, is it something that we can afford as a company?
+[00:35:45] SPEAKER_00: What's the dilution gonna be?
+[00:35:46] SPEAKER_00: This was a long time ago.
+[00:35:48] SPEAKER_00: And actually when we ran the calcs, we were surprised that actually we can do this and it's sustainable.
+[00:35:53] SPEAKER_00: And it was surprising to us, we're data companies, we crunch the data and all the numbers.
+[00:35:57] SPEAKER_00: What we found is that, you know, it's really your market cap divided by number of employees.
+[00:36:02] SPEAKER_00: That's how equity rich you are when you're paying someone equity.
+[00:36:05] SPEAKER_00: And these companies have a lot of employees.
+[00:36:07] SPEAKER_00: So then it turned out, actually, we are actually richer than we think if you take our market cap and divide it by the number of employees.
+[00:36:12] SPEAKER_00: Cause that's, you know, that's not how you're doing financially.
+[00:36:15] SPEAKER_00: That's not about your revenue growth, but that's about what you, you know, what could you offer someone in equity?
+[00:36:20] SPEAKER_00: And it turned out that actually it's absolutely within our reach to do it.
+[00:36:23] SPEAKER_00: So let's explore it a little bit.
+[00:36:24] SPEAKER_00: And it started working and then we were able to hire the people that we couldn't hire before.
+[00:36:28] SPEAKER_00: And they came in and they completely revamped what we were doing with the product.
+[00:36:30] SPEAKER_00: We just could.
+[00:36:31] SPEAKER_00: increase the feature velocity and the innovation cycle at Databricks massively.
+[00:36:37] SPEAKER_00: And that actually helped us kind of slowly start separating from the pack.
+[00:36:40] SPEAKER_00: Because in 2017, if you had talked to us, you know, we would have been one of the startups among hundreds of other ones out there.
+[00:36:46] SPEAKER_00: So these small things kind of that they did to push us think really, really big, go way bigger.
+[00:36:52] SPEAKER_00: And we did that, but we always kind of did it judiciously.
+[00:36:54] SPEAKER_00: We didn't want to kind of
+[00:36:55] SPEAKER_00: go crazy and, you know, burn down the bank account.
+[00:36:58] SPEAKER_00: We wanted to be careful about it.
+[00:37:00] SPEAKER_02: Databricks was founded in 2013.
+[00:37:02] SPEAKER_02: Is that right?
+[00:37:03] SPEAKER_02: And for the first couple of years, you weren't the CEO.
+[00:37:05] SPEAKER_02: What were you doing through that the first couple of years in the journey?
+[00:37:09] SPEAKER_02: And then what was the impetus for you to step in and become the CEO?
+[00:37:12] SPEAKER_00: Yeah, I was, you know, running product and engineering, which I loved.
+[00:37:16] SPEAKER_00: And actually in that phase, it made a lot of sense.
+[00:37:18] SPEAKER_00: Cause you know, what do you do the first two, three years of a company?
+[00:37:20] SPEAKER_00: When you start a startup, you want to get product market fit, build something that just works.
+[00:37:25] SPEAKER_00: So that was the focus for us.
+[00:37:26] SPEAKER_00: Just how do we get one customer that wants to use this?
+[00:37:30] SPEAKER_00: And then how do we get a customer that wants to repeatedly use it?
+[00:37:32] SPEAKER_00: And then how do we get a customer that repeatedly uses and pays us for it?
+[00:37:36] SPEAKER_00: And so that was the first two, three years of the focus.
+[00:37:39] SPEAKER_00: The technology that we had innovated with Spark exploded in 2015.
+[00:37:44] SPEAKER_00: And at that point, we felt like we had succeeded, but we just didn't have any monetization.
+[00:37:50] SPEAKER_00: So we went through a difficult time in 15.
+[00:37:52] SPEAKER_00: We had to figure out, okay, if we can't monetize, maybe there is nothing here.
+[00:37:57] SPEAKER_00: And the company kind of went through a little bit of sort of introspection.
+[00:38:01] SPEAKER_00: And then we said, okay, let's kind of do a little bit of reset of some of the things and rethink some of the stuff and start anew in 2016.
+[00:38:07] SPEAKER_00: So I became CEO in 2016.
+[00:38:10] SPEAKER_00: And we made a bunch of changes that actually started helping us with the monetization.
+[00:38:14] SPEAKER_02: Initially, were you the interim CEO or were you the CEO and they were still talking to other potential outside candidates?
+[00:38:22] SPEAKER_00: Well, I thought I was, well, first of all, I heard through the grapevine that they're interviewing people.
+[00:38:25] SPEAKER_00: So I found out, okay, well, they're actually interviewing other external folks.
+[00:38:28] SPEAKER_00: So that's not true.
+[00:38:28] SPEAKER_02: Were you the CEO at the time or?
+[00:38:29] SPEAKER_00: No, but they were like, Hey, do you want to be the CEO?
+[00:38:31] SPEAKER_00: I was like, sure.
+[00:38:32] SPEAKER_00: And then I found out, okay, they're actually interviewing other people.
+[00:38:34] SPEAKER_00: All right.
+[00:38:35] SPEAKER_00: They didn't tell me about that.
+[00:38:36] SPEAKER_00: But then eventually I was like, okay, I think I am CEO.
+[00:38:38] SPEAKER_00: They've announced it to the company.
+[00:38:39] SPEAKER_00: I am CEO.
+[00:38:39] SPEAKER_00: I'm running it.
+[00:38:40] SPEAKER_00: But then I kind of.
+[00:38:41] SPEAKER_00: You know, my compensation didn't change.
+[00:38:43] SPEAKER_00: And I learned kind of soon that, hey, I'm actually interim CEO.
+[00:38:47] SPEAKER_00: I didn't know that.
+[00:38:49] SPEAKER_02: You didn't have the title until, yeah.
+[00:38:50] SPEAKER_00: So then it turned out, no, no, no.
+[00:38:52] SPEAKER_00: Actually, it was just a test period.
+[00:38:53] SPEAKER_00: And then eventually, I would say after one year, I kind of think they really kind of like, OK, now we're going to go with him.
+[00:39:00] SPEAKER_02: So the first when you came in in 2016, there were three things that you kind of focused on in it sounds like monetization was one of them as well.
+[00:39:09] SPEAKER_02: But can you talk through what those three were?
+[00:39:11] SPEAKER_02: I think it was up leveling the management team sort of changing the focus of the customer type and then monetization.
+[00:39:17] SPEAKER_00: Yeah, enterprise sales.
+[00:39:19] SPEAKER_00: Total pivot into enterprise B2B.
+[00:39:21] SPEAKER_00: We were PLG.
+[00:39:22] SPEAKER_00: I know it's still hot.
+[00:39:23] SPEAKER_00: Everybody wants to build PLG companies, but we learned the hard way after two, three years that PLG doesn't really work.
+[00:39:29] SPEAKER_00: Might work for very few companies.
+[00:39:32] SPEAKER_00: It's a great thing.
+[00:39:33] SPEAKER_00: We still do PLG, but guess what?
+[00:39:36] SPEAKER_00: If you want to sell a data platform where you want to manage the most sensitive data of a large organization, you need to get the buy-in of that organization.
+[00:39:44] SPEAKER_00: nobody's going to just swipe a credit card and start giving their data to you and you're going to succeed.
+[00:39:48] SPEAKER_00: So PLG just won't work in that model.
+[00:39:51] SPEAKER_00: In B2B in general, it's hard.
+[00:39:53] SPEAKER_00: If you want to have big contracts with large enterprises, PLG probably doesn't work.
+[00:39:58] SPEAKER_00: So that was number one, going all in on enterprise sales.
+[00:40:02] SPEAKER_00: We had tried earlier to just be this PLG product-led growth.
+[00:40:06] SPEAKER_00: The second thing is up-leveling the management.
+[00:40:08] SPEAKER_00: So we up-leveled all the exec team.
+[00:40:10] SPEAKER_00: Like every person on the exec team was new.
+[00:40:12] SPEAKER_00: So I basically got a new exec team that had much more experience.
+[00:40:16] SPEAKER_00: They knew what they were doing and a little bit went more with experience over just, hey, we're just going to be smart PhDs that can figure this out on our own.
+[00:40:25] SPEAKER_00: We went instead with, you know, someone who has done sales for 20, 30 years, or someone has done marketing at scale at Oracle knows how marketing is done and so on.
+[00:40:32] SPEAKER_00: So that really helped also with the execution.
+[00:40:35] SPEAKER_00: Because I would say we were really weak on go-to-market.
+[00:40:37] SPEAKER_00: We were great at product innovation research.
+[00:40:40] SPEAKER_00: So those really helped.
+[00:40:41] SPEAKER_00: And then a change to how we actually innovate in open source.
+[00:40:45] SPEAKER_00: Just open sourcing everything and giving it away is not gonna work.
+[00:40:49] SPEAKER_00: So we need proprietary secret sauce that we're not just giving away to the hyperscalers.
+[00:40:53] SPEAKER_00: So that was critical also in changing.
+[00:40:55] SPEAKER_00: And that's difficult to do.
+[00:40:57] SPEAKER_00: If you're a pure open source company, you come from academia,
+[00:41:01] SPEAKER_00: It's difficult to get all your employees to be all in on that, but it was the only way to succeed.
+[00:41:06] SPEAKER_00: We wouldn't have been around if we hadn't done that pivot.
+[00:41:08] SPEAKER_02: Did you have those views as you were running product and you sort of came in prepared to do that?
+[00:41:13] SPEAKER_02: Or was there some point of introspection that ultimately led to those conclusions?
+[00:41:18] SPEAKER_00: Yeah, I think 15, we were not doing super well.
+[00:41:21] SPEAKER_00: And in 15, it was sort of like, okay, we are trying PLG.
+[00:41:24] SPEAKER_00: It's clearly not working, right?
+[00:41:26] SPEAKER_00: Yeah, we don't want to do enterprise B2B because we're not excellent at it.
+[00:41:28] SPEAKER_00: We don't have experience in it.
+[00:41:30] SPEAKER_00: But you know, we ended 2015 with 1.6 million revenue.
+[00:41:37] SPEAKER_00: So if we only have 1.5, 1.6 million revenue, from what we could glean from blogs and whatnot, an enterprise salesperson can sell a million dollars, a million and a half of software.
+[00:41:47] SPEAKER_00: That's just one AE.
+[00:41:49] SPEAKER_00: Why don't we hire three of them and try it out?
+[00:41:52] SPEAKER_00: What do we have to lose?
+[00:41:53] SPEAKER_00: So that kind of emerged in 2015.
+[00:41:55] SPEAKER_00: The other thing was, it was very clear that no matter what we did in the innovation cycle side, the hyperscalers immediately had the same thing.
+[00:42:02] SPEAKER_00: They would just pick that.
+[00:42:03] SPEAKER_00: And in fact, they would add a little bit stuff on top of it.
+[00:42:06] SPEAKER_00: And then they had the whole platform, the whole cloud.
+[00:42:10] SPEAKER_00: So they were always the good enough vendor.
+[00:42:11] SPEAKER_00: So the customers were like, well, you're great.
+[00:42:14] SPEAKER_00: You have great innovation, but I can also get it from the hyperscaler.
+[00:42:17] SPEAKER_00: I'm going to try that first because I already have a contract with these folks.
+[00:42:20] SPEAKER_00: I got security approvals.
+[00:42:21] SPEAKER_00: I've already paid them a bunch of money.
+[00:42:22] SPEAKER_00: Try that first.
+[00:42:24] SPEAKER_00: And if it's not good enough, I'll come back to you.
+[00:42:26] SPEAKER_00: So again, pretty clear that we have to be able to articulate then, yeah, you can go over there, but you won't get XYZ if you go over there.
+[00:42:31] SPEAKER_00: Like we have XYZ that they don't have.
+[00:42:34] SPEAKER_00: And so if you couldn't articulate that, then there was nothing you could give your sellers to sell.
+[00:42:40] SPEAKER_00: And then, you know, it was the experience that we were lacking.
+[00:42:42] SPEAKER_00: So I think throughout the hardships of 2015, kind of.
+[00:42:45] SPEAKER_00: made it pretty clear that we have to try something new.
+[00:42:48] SPEAKER_00: And these three directions seem to be pretty viable.
+[00:42:51] SPEAKER_02: I mean, the one that stands out the most as like potentially a one-way door is the licensing or monetization shift.
+[00:42:58] SPEAKER_02: And it's very different than the culture, I would say, of the people that are very open source purists in some way.
+[00:43:07] SPEAKER_02: Was that a debated decision in a very meaningful way, or was it just kind of declarative, hey guys, we have to do this to be able to build a business?
+[00:43:14] SPEAKER_00: I think when I took over, I was just a little bit more forceful in what needs to be done, but it was big debate internally.
+[00:43:21] SPEAKER_00: And I made it pretty clear.
+[00:43:23] SPEAKER_00: I think I used the analogy and I said, Hey, we have a gun and it has one bullet left in it.
+[00:43:29] SPEAKER_00: We not going to do a thousand things.
+[00:43:30] SPEAKER_00: We have like one bullet left.
+[00:43:31] SPEAKER_00: We better aim it really clearly and we better hit the target.
+[00:43:34] SPEAKER_00: If we don't, we're done here.
+[00:43:36] SPEAKER_00: And so I made it pretty clear that this is existential, the things that we're going to do.
+[00:43:40] SPEAKER_00: And and I think when I kind of got people to wake up, because, you know, in the startup days, you're excited, you're doing stuff.
+[00:43:45] SPEAKER_00: And but if nobody makes it clear to you that, hey, we're actually going to go out of business in a couple of years, it's not all great, just because we have a big valuation.
+[00:43:53] SPEAKER_00: I think people got in line and and started thinking about, OK, what are the ways we can actually do this?
+[00:43:57] SPEAKER_02: Did they quickly start showing up in the business or did it take a few quarters?
+[00:44:01] SPEAKER_00: No, I think pretty soon the engineers started thinking and I made it very clear to them is that this is great that you built this.
+[00:44:06] SPEAKER_00: It's literally available now also on the hyperscalers cloud.
+[00:44:09] SPEAKER_00: So what's the differentiation literally.
+[00:44:10] SPEAKER_00: And I made it very viscerally clear to them and I shared it that we had a extreme transparency culture to make it really clear.
+[00:44:16] SPEAKER_00: So I get them to buy and let them understand themselves that we can't win.
+[00:44:20] SPEAKER_00: We're guaranteed going to lose if we continue this way.
+[00:44:23] SPEAKER_00: Um, and you know, they kind of soon got it that we want to be successful here.
+[00:44:26] SPEAKER_00: So they started coming up with innovations that we're going to this, maybe we don't need to open source.
+[00:44:31] SPEAKER_02: Now, as you think about expanding into new products, I've heard you actually will set up different teams for each product as it gets going.
+[00:44:38] SPEAKER_02: What have you learned about product management and organization as you continue to scale and iterate on these different product areas?
+[00:44:45] SPEAKER_00: Yeah, I think that when you build a product zero to one,
+[00:44:48] SPEAKER_00: You kind of have to do the same thing that you did in the original kind of first two, three years of the company.
+[00:44:53] SPEAKER_00: Um, so there's a lot of processes in any company once you're over 150 employees, let alone thousands.
+[00:44:59] SPEAKER_00: Um, so you got to cut that and say, look for new products.
+[00:45:03] SPEAKER_00: You don't need to satisfy all the security stuff.
+[00:45:05] SPEAKER_00: You don't need to have all the processes.
+[00:45:07] SPEAKER_00: Have a small core team that iterates really, really quickly.
+[00:45:10] SPEAKER_00: Figure out, first of all, who is the sort of innovator type that you have in those early startups.
+[00:45:15] SPEAKER_00: Put them on the project.
+[00:45:17] SPEAKER_00: These are people that are not necessarily good at when the company scales and they're leading mature products.
+[00:45:22] SPEAKER_00: You have to have one such anchor person that you put everything around and you put them in charge, they start building that product.
+[00:45:28] SPEAKER_00: And then you let them iterate really quickly.
+[00:45:29] SPEAKER_00: So get them off the iteration cycle that the big company goes on, but get them on this much quicker, smaller one.
+[00:45:36] SPEAKER_00: And, you know, encourage them just iterate inner dev loop, outer dev loop, that's super, super fast.
+[00:45:40] SPEAKER_00: And just focus on getting users and getting product market fit.
+[00:45:44] SPEAKER_00: Once that happens, you can kind of move it back into the mothership.
+[00:45:48] SPEAKER_00: So, you know, ideally even do it outside of the whole product if you can.
+[00:45:52] SPEAKER_00: So we have a product right now called Genie, which lets you just, you ask an English questions and it can answer immediately.
+[00:45:57] SPEAKER_00: It produces, it understands all the semantics of your data.
+[00:46:00] SPEAKER_00: We call it data intelligence.
+[00:46:02] SPEAKER_00: So it understands your data and it then programs and ask the questions and give you just straight up the answer.
+[00:46:08] SPEAKER_00: But to know that it's not hallucinating, you can actually see how it coded it up and behind the scenes and so on.
+[00:46:13] SPEAKER_00: That product, we actually just built it completely outside of Databricks code base.
+[00:46:17] SPEAKER_00: And it didn't satisfy any of this stuff.
+[00:46:18] SPEAKER_00: We didn't build on anything.
+[00:46:19] SPEAKER_00: We just iterated quickly.
+[00:46:20] SPEAKER_00: Just do that outside of the norm, like a startup almost.
+[00:46:25] SPEAKER_00: And then only when we saw that the results are really good and people like it, we went through the kind of painful process of, okay, let's rewrite it.
+[00:46:31] SPEAKER_00: Let's move it into the mothership.
+[00:46:33] SPEAKER_00: So it's almost like an acquisition at that point happens and you have to integrate it into the whole system and make it secure and so on.
+[00:46:40] SPEAKER_02: So you'll give people autonomy to make the decisions on not the shared primitives necessarily, or if you guys are using some type of, I don't know, single sign on or whatever cloud structure underneath, you'll get people full autonomy to do it and then you'll come back and reconcile it once it actually finds product market fit.
+[00:46:55] SPEAKER_00: literally do it outside in a separate repository, do it on a separate GitHub repository outside of the big system and iterate very quickly is the most important thing.
+[00:47:04] SPEAKER_00: Because that's what you're doing as a startup.
+[00:47:06] SPEAKER_00: As a startup, you operate three to four times.
+[00:47:08] SPEAKER_00: I've seen it, we've done acquisitions.
+[00:47:09] SPEAKER_00: And if you measure it, the startups move three to four times faster than a company like Databricks.
+[00:47:14] SPEAKER_00: And I think we move very fast and we're very innovative, but still it takes us three, four times longer.
+[00:47:19] SPEAKER_00: Why is it?
+[00:47:20] SPEAKER_00: It's the security processes.
+[00:47:22] SPEAKER_00: It's the legal sign off.
+[00:47:24] SPEAKER_00: It's making sure that it works on all the clouds in all of the environments.
+[00:47:28] SPEAKER_00: And the biggest thing that slows you down is that you have thousands of thousands of customers that you can't regress.
+[00:47:34] SPEAKER_00: So you gotta unshackle the new products.
+[00:47:36] SPEAKER_00: Otherwise you're just gonna move too slowly.
+[00:47:37] SPEAKER_00: And that's what we're seeing, honestly, the really, really big companies, they operate that way.
+[00:47:41] SPEAKER_00: It takes them too long.
+[00:47:42] SPEAKER_00: That's why you have startups in the ecosystem.
+[00:47:44] SPEAKER_00: So you have to kind of go back and reproduce the kind of environment that you had when you had a small startup.
+[00:47:50] SPEAKER_02: I'm curious.
+[00:47:51] SPEAKER_02: So now you're coming up on I guess, nine years ish at the CEO job.
+[00:47:56] SPEAKER_02: Is that right?
+[00:47:58] SPEAKER_02: As you reflect on like your leadership style today, you sort of seem like the canonical leader of Databricks.
+[00:48:03] SPEAKER_02: And it's like the job that you've always done.
+[00:48:05] SPEAKER_02: I assume leadership style has kind of evolved in some ways over the course of this period of time.
+[00:48:09] SPEAKER_02: Are there anything that you wish you could anything you could wish you could go back and tell your earlier self taking the CEO job for the first time, or maybe your earliest founder self when you're sort of stepping into the seat?
+[00:48:19] SPEAKER_00: Yeah, I mean, I think that you would want to grow leaders earlier on, like build trust with few leaders that you groom and continue doing that.
+[00:48:27] SPEAKER_00: Because what you find nine, 10 years later, and I have a lot of awesome co-founders that are still active and they run the company where it's almost a partnership where we run it together.
+[00:48:36] SPEAKER_00: But it's not that many people, like, you know, even though we're almost 8,000 employees, how many people are there that are really, can really help you build the business together?
+[00:48:45] SPEAKER_00: It's hard to find those leaders that build your trust
+[00:48:48] SPEAKER_00: with them and grow the company with.
+[00:48:50] SPEAKER_00: So I would just invest more in that much more actively and always be on the lookout for those kind of people in the company.
+[00:48:56] SPEAKER_00: We were just busy executing and we didn't pay attention too much to that maybe.
+[00:49:00] SPEAKER_00: So that's one thing I would do differently.
+[00:49:02] SPEAKER_00: The second thing I would do differently is
+[00:49:07] SPEAKER_00: When these trade-off decisions come up and it's really hard to decide, do we go on-prem or not, or whatever it is, make a bet that is much more for the future.
+[00:49:18] SPEAKER_00: Don't worry so much about the implications that it has on our finances or on the revenue.
+[00:49:24] SPEAKER_00: Don't let short-termism creep in.
+[00:49:27] SPEAKER_00: Easy to say now, but in the early days when you're, it's far from clear that you're going to be successful as a company.
+[00:49:34] SPEAKER_00: And you know, the VCs are asking you, how's it going?
+[00:49:36] SPEAKER_00: You have your board meetings, they're looking for your revenue targets.
+[00:49:39] SPEAKER_00: They are super obsessed.
+[00:49:41] SPEAKER_00: How's that?
+[00:49:41] SPEAKER_00: Is it hockey sticking?
+[00:49:42] SPEAKER_00: Is it going up?
+[00:49:42] SPEAKER_00: What's it looking like?
+[00:49:43] SPEAKER_00: How do you compare with others in the industry?
+[00:49:46] SPEAKER_00: Continue making the bets on the future and don't get carried away on those numbers.
+[00:49:51] SPEAKER_00: That's another advice I would give because we took many shortcuts that
+[00:49:54] SPEAKER_00: backfired.
+[00:49:56] SPEAKER_00: They were not worth doing.
+[00:49:57] SPEAKER_00: We kind of knew it, that this was a shortcut, but it was like, it was worth it because, you know, this is going to bring so much revenue if we just take this shortcut.
+[00:50:04] SPEAKER_00: I would have avoided many of those shortcuts now, you know, err on the side of the future than the present.
+[00:50:10] SPEAKER_00: Now, of course, maybe it's path dependent.
+[00:50:12] SPEAKER_00: And I'm saying it just because we're where we are.
+[00:50:13] SPEAKER_00: If we had done the things that I'm saying we should do, we would have succeeded.
+[00:50:16] SPEAKER_00: But I still kind of, on balance, feel like we could have been more futuristic in our bets than we were.
+[00:50:23] SPEAKER_02: I get the feeling you focus on empowering individual leaders within your organization and having them deputized to make the best decisions for the organization rather than you serving as a central hub for each department.
+[00:50:39] SPEAKER_02: Is that a fair character?
+[00:50:40] SPEAKER_00: I think it's both.
+[00:50:41] SPEAKER_00: I think I also micromanage them.
+[00:50:42] SPEAKER_02: Okay, maybe they would disagree.
+[00:50:44] SPEAKER_00: Yeah, they would probably not say.
+[00:50:45] SPEAKER_02: How do you think about the tension between, you know, a central figure that's able to make definitive decisions that sort of sit across an organization versus more decentralization and empowerment at an individual level?
+[00:50:58] SPEAKER_00: Yeah, I mean, you get more clarity if it's one person, and it's more consistent.
+[00:51:03] SPEAKER_00: And, you know, that's great.
+[00:51:06] SPEAKER_00: The disadvantage is that it slows things down and it bottlenecks things.
+[00:51:10] SPEAKER_00: Uh, and it's maybe less empowering.
+[00:51:12] SPEAKER_00: So you have to strike a balance.
+[00:51:13] SPEAKER_00: And you have to do it in places like, you know, you build trust over time and you figure out which are the parts which you can completely delegate and they're going to do an excellent job.
+[00:51:20] SPEAKER_00: And, you know, they're probably better than you at it.
+[00:51:22] SPEAKER_00: So don't pretend that you're better than them.
+[00:51:24] SPEAKER_00: And what are the areas where you really need to deep dive?
+[00:51:28] SPEAKER_00: And then there's some areas that there's things that only you can do as a CEO.
+[00:51:31] SPEAKER_00: Like, you know, it's literally tie-breaking.
+[00:51:34] SPEAKER_00: It might sound silly, but over time overlapping product areas appear and you get leaders that are kind of building similar-ish things and the Venn diagram intersects.
+[00:51:44] SPEAKER_00: And if you leave it to them, no matter how many times you tell them, you know, figure out how to unify this, do one.
+[00:51:49] SPEAKER_00: We're not going to have two similar offerings.
+[00:51:52] SPEAKER_00: They're not going to be able to do it on their own.
+[00:51:53] SPEAKER_00: So you've got to step in and push so that you got to use the CEO card judiciously.
+[00:51:57] SPEAKER_00: I think that matters a lot and you can make, build a much simpler product.
+[00:52:00] SPEAKER_00: So I think if you want really simple unified product, that makes sense.
+[00:52:04] SPEAKER_00: One person makes much, much more sense.
+[00:52:07] SPEAKER_00: Just have to watch out for bottlenecking things and slowing things down.
+[00:52:10] SPEAKER_02: Why is a willingness to say the same thing over and over again an important part of the CEO's job in your mind?
+[00:52:15] SPEAKER_00: Because I think people are not paying attention to what you're saying.
+[00:52:17] SPEAKER_00: Like, you know, we all have busy lives.
+[00:52:19] SPEAKER_00: We're paying attention to our own life.
+[00:52:20] SPEAKER_00: You know, I didn't even notice this thing that you said.
+[00:52:22] SPEAKER_00: I wasn't even there.
+[00:52:23] SPEAKER_00: Or maybe you said it and I didn't really rock it.
+[00:52:25] SPEAKER_00: I was on my phone and I had actually fired that day and I was having other issues that I was dealing with.
+[00:52:29] SPEAKER_00: So I didn't really, I didn't really internalize it.
+[00:52:31] SPEAKER_00: I didn't really get it.
+[00:52:32] SPEAKER_00: So it's many, many times you tell someone something for a third time and then only then you notice that they are like, you know, and then they repeat it back to you as if it's like,
+[00:52:39] SPEAKER_00: they came up with it, that's great.
+[00:52:42] SPEAKER_00: I think it's just, you gotta repeat it.
+[00:52:43] SPEAKER_00: But what I try to do is figure out a way to repeat it in different ways.
+[00:52:46] SPEAKER_00: Don't repeat it the same way all the time.
+[00:52:47] SPEAKER_00: It gets boring and old.
+[00:52:49] SPEAKER_00: Challenge yourself and come up with a new angle.
+[00:52:51] SPEAKER_00: Find a customer that says the same thing that you wanna say, or use case that's a little bit different.
+[00:52:56] SPEAKER_00: Use different slides, make new slides.
+[00:52:59] SPEAKER_00: And you'll be surprised because people didn't really get it the first time.
+[00:53:01] SPEAKER_00: They'll say, oh, this was completely awesome what you just said now.
+[00:53:04] SPEAKER_00: Even though you're like, well, it's literally what I said like a month ago, but I just refurbished it a little bit.
+[00:53:08] SPEAKER_00: So I think it's super important.
+[00:53:09] SPEAKER_02: Being truth seeking, I think is one of your values.
+[00:53:12] SPEAKER_02: Is that right?
+[00:53:13] SPEAKER_02: How do you implement that in practice?
+[00:53:14] SPEAKER_02: Or how does that be manifest itself as a cultural cultural practice for you guys?
+[00:53:19] SPEAKER_00: Make sure in the hiring process that you test folks on truth seekingness.
+[00:53:23] SPEAKER_00: You know, it's not that hard, actually, to ask someone, you know, tell me, what's your biggest screw up?
+[00:53:27] SPEAKER_00: You know, tell me when you really made a mistake.
+[00:53:28] SPEAKER_00: Who did you really not hire well?
+[00:53:31] SPEAKER_00: Why did you make that mistake?
+[00:53:32] SPEAKER_00: How was it?
+[00:53:32] SPEAKER_00: And so on.
+[00:53:33] SPEAKER_00: Push them, push them, push them to see, you know, until they get uncomfortable.
+[00:53:36] SPEAKER_00: Do they start to come up with lots of excuses?
+[00:53:38] SPEAKER_00: Well, I really actually didn't want to hire this person, but as my boss made me hire them and that was a bad hire.
+[00:53:43] SPEAKER_00: I knew it, but yeah, that was a mistake I made, but technically my boss's mistake.
+[00:53:46] SPEAKER_00: So like, you know, keep pushing them and you can, in the interview process, actually suss out if someone is truth seeking and honest.
+[00:53:52] SPEAKER_00: or whether they're trying to a little bit, you know, make it look much nicer.
+[00:53:56] SPEAKER_00: You know, so that's, that's number one.
+[00:54:00] SPEAKER_00: Number two, don't promote the people in the company that are not truth seeking.
+[00:54:03] SPEAKER_00: Like at least if you made the mistake of hiring them in, then at least make sure you don't promote them.
+[00:54:07] SPEAKER_00: So in the promotions of the company, make sure that you're really evaluating the cultural values.
+[00:54:12] SPEAKER_00: Like really do it.
+[00:54:12] SPEAKER_00: It's easy to have the culture values, but are you evaluating the promotion?
+[00:54:15] SPEAKER_00: I have a rock star.
+[00:54:16] SPEAKER_00: Rockstar is doing great.
+[00:54:17] SPEAKER_00: They moved the needle on the business.
+[00:54:19] SPEAKER_00: Should they get the promotion or not?
+[00:54:20] SPEAKER_00: You don't want to be the person saying, well, wait a minute.
+[00:54:22] SPEAKER_00: Can we like look at if they were truth seeking?
+[00:54:23] SPEAKER_00: Oh, they're not.
+[00:54:24] SPEAKER_00: Let's not promote them.
+[00:54:25] SPEAKER_00: It's like, are you out of your mind?
+[00:54:26] SPEAKER_00: This person had huge impact on the company.
+[00:54:28] SPEAKER_00: Yeah, but they're not truth seeking.
+[00:54:29] SPEAKER_00: But if you mean it, if you want that to be the culture, you have to actually do that in the promotion.
+[00:54:35] SPEAKER_00: And then of course, if it's extreme case, we might have to part ways.
+[00:54:39] SPEAKER_00: You have to do that as well.
+[00:54:40] SPEAKER_00: You can't have people around that don't fit the culture.
+[00:54:43] SPEAKER_00: So that's what I would say.
+[00:54:45] SPEAKER_02: You spend 30, 40% of your time on, on hiring.
+[00:54:48] SPEAKER_02: Is that right?
+[00:54:49] SPEAKER_02: One of the things you said is that you, um, when you're hiring executives, you'll, you'll just find reasons to keep in touch and find a bunch of different touch points.
+[00:54:57] SPEAKER_02: Can you maybe talk through that as a philosophy or how you go about doing it?
+[00:55:00] SPEAKER_00: Yeah, I think that's actually the bigger philosophy is that I don't believe in interviews.
+[00:55:05] SPEAKER_00: Because I think some people interview well, and they might not be good at all.
+[00:55:08] SPEAKER_00: And some people interview really poorly, but it might be excellent.
+[00:55:11] SPEAKER_00: So I actually just think it's a very noisy channel.
+[00:55:14] SPEAKER_00: You can't, there's not that much value in it.
+[00:55:18] SPEAKER_00: So then what can you do?
+[00:55:21] SPEAKER_00: One of the things, this is the one that you mentioned, but there are other ones that we use as well, is I try to actually have them do the job.
+[00:55:26] SPEAKER_00: And I think we think, Oh, you know, in programming, we can do that, ask them to program this thing.
+[00:55:30] SPEAKER_00: And then if they do it well, but we can't do it for any other job.
+[00:55:33] SPEAKER_00: And I disagree with that.
+[00:55:34] SPEAKER_00: Just.
+[00:55:35] SPEAKER_00: If you're hiring someone for head of marketing, work with them to fix something that's broken in marketing right now, whatever it is, if it's a personnel problem, or if it's the webpage, or if it's a product marketing positioning, work with them, call them, call them, you know, in the evening, call them, you know, in the morning, ask them, go through it, like work with them, basically make them do the job.
+[00:55:53] SPEAKER_00: as if they were already an employee in the company.
+[00:55:55] SPEAKER_00: And you will have a very good sense of culturally how they are.
+[00:55:58] SPEAKER_00: You know, are you in the same wavelength?
+[00:56:00] SPEAKER_00: Can they actually do a good job at this?
+[00:56:01] SPEAKER_00: The kind of stuff, especially pick the things that are not working right now in your company, because that's those are the things you would give them to fix when they come in.
+[00:56:07] SPEAKER_00: And if they could fix those things, they're clearly a good hire.
+[00:56:10] SPEAKER_00: So I'd rather do that than coming in an interview and just asking them, you know, the
+[00:56:17] SPEAKER_00: you know, the gotcha questions that they might have practiced, you know, tell me your own weakness, what's your biggest weakness, and so on.
+[00:56:22] SPEAKER_00: So that's one of the big things that we do.
+[00:56:25] SPEAKER_00: The other is backdoors.
+[00:56:26] SPEAKER_00: And I believe you should do the backdoors upfront.
+[00:56:29] SPEAKER_00: So don't go through, a lot of firms, especially recruiting firms, they will do, run you through a cycle, they have you meet all these people, and then at the end, they want to just check the box.
+[00:56:39] SPEAKER_00: By the way, they'll even do the references for you, which is a big mistake.
+[00:56:42] SPEAKER_00: I think you should do the references upfront.
+[00:56:45] SPEAKER_00: Already know who you're hiring.
+[00:56:47] SPEAKER_00: So that the first time I meet a person, I already know a lot about them.
+[00:56:49] SPEAKER_00: I've already asked.
+[00:56:51] SPEAKER_00: And I've also found this thing that if you do five to 10 backdoors on people, their bosses, previous bosses, you actually kind of know the person better in some regards, not in their full entirety, better than they know themselves.
+[00:57:03] SPEAKER_00: Because you know all the things they went through, and you know the perspective of three, four people that saw that happen to them in the previous job.
+[00:57:08] SPEAKER_00: They might not actually fully comprehend what everybody thought about that situation.
+[00:57:11] SPEAKER_00: Of course, they have a unique perspective.
+[00:57:13] SPEAKER_00: So I think the backdoors are extremely important.
+[00:57:16] SPEAKER_00: And then others just look at their trajectory of work.
+[00:57:19] SPEAKER_00: Where were they?
+[00:57:19] SPEAKER_00: Have they seen great?
+[00:57:20] SPEAKER_00: Have they done something stellar?
+[00:57:21] SPEAKER_00: Are they hopping around a lot?
+[00:57:24] SPEAKER_00: Those are the three things that we kind of emphasize in hiring.
+[00:57:27] SPEAKER_02: What are your techniques on the backdoor references?
+[00:57:29] SPEAKER_02: Are there specific questions you like to ask or ways that no one likes to talk poorly about someone they know?
+[00:57:35] SPEAKER_02: So how do you sort of drill in to make sure you're getting the actual high quality information?
+[00:57:39] SPEAKER_00: Yeah, it really depends on who you're talking to and they're all different.
+[00:57:41] SPEAKER_00: You can tell immediately some people are not just going to tell you the truth.
+[00:57:44] SPEAKER_00: This is going to be, you know, they're going to just say good things or they don't want to say anything.
+[00:57:48] SPEAKER_00: So, you know, that's that.
+[00:57:49] SPEAKER_00: So you just move on and end the call.
+[00:57:51] SPEAKER_00: But, and I guess I'm revealing my
+[00:57:53] SPEAKER_00: uh, you know, uh, recipe here, so it will never work again.
+[00:57:57] SPEAKER_00: But, um, I think that if you can find the former person that's, you know, opens up, I think one thing that I like to grill them on is really, really ranking of how good the person is.
+[00:58:07] SPEAKER_00: And don't ask, you know, score from one to 10 and they say 10 really awesome.
+[00:58:11] SPEAKER_00: Like does it rank number one, number two, how many have you, and then want to go really deep.
+[00:58:14] SPEAKER_00: Who did you, who's number one, who's number two in your list, by the way, you go after those as well, of course.
+[00:58:18] SPEAKER_00: And then I really asked them, you know, go through scenarios.
+[00:58:21] SPEAKER_00: Like, it's just the follow-up questions.
+[00:58:22] SPEAKER_00: Like, what did they do well?
+[00:58:23] SPEAKER_00: Tell me something that went wrong.
+[00:58:25] SPEAKER_00: Give me a scenario.
+[00:58:26] SPEAKER_00: What was that scenario?
+[00:58:27] SPEAKER_00: Really push the boundary.
+[00:58:28] SPEAKER_00: You got to kind of almost to the point that they become uncomfortable.
+[00:58:31] SPEAKER_00: So many times I've done it so far that, you know, they call back and say like, you know, this is, you know, what's going on here.
+[00:58:37] SPEAKER_00: But yeah, you want to, but you'll find when you're doing the backdoors that, okay, that guy and that gal, they're like super forthcoming.
+[00:58:43] SPEAKER_00: That's a straight shooter.
+[00:58:44] SPEAKER_00: They're going to tell you the whole thing.
+[00:58:46] SPEAKER_00: and others are not.
+[00:58:47] SPEAKER_00: Front door references, the references that the candidate gives you, are similar but kind of inverted.
+[00:58:52] SPEAKER_00: They're, you know, the vast majority are actually people that the person is going to hire next.
+[00:58:56] SPEAKER_00: If it's a manager, they're just literally giving you their, and that's useful too, because you can interview those people and you know who they're going to hire next.
+[00:59:02] SPEAKER_00: So you can gauge the quality of the people that they're going to hire.
+[00:59:05] SPEAKER_00: But occasionally you find the front door that also tells you the real truth and tells you like really what's going on.
+[00:59:11] SPEAKER_00: Um, and you learn a lot there too.
+[00:59:12] SPEAKER_00: Uh, and when I do these references, I'm not looking for, Hey, what's your one fault that I'm going to cancel?
+[00:59:17] SPEAKER_00: You know, the, I'm not going to hire you for, it's just to get a complete picture.
+[00:59:21] SPEAKER_00: You're going to have faults.
+[00:59:22] SPEAKER_00: You're going to have strengths.
+[00:59:22] SPEAKER_00: We want to understand that full picture before we go ahead and hire you.
+[00:59:26] SPEAKER_00: Uh, so that's kind of what we're going for.
+[00:59:27] SPEAKER_00: But yeah, for some execs, I've done 15 of these backdoors before I hired them.
+[00:59:32] SPEAKER_02: From a, as a leader, you've had to ramp up in different functional areas, one of which was enterprise sales.
+[00:59:38] SPEAKER_02: I don't think you had experience to it.
+[00:59:40] SPEAKER_02: How did, how did you go about learning in that area?
+[00:59:42] SPEAKER_02: And I think you copied maybe best practices or sort of internalized stitch together to build your own model from a bunch of different organizations.
+[00:59:49] SPEAKER_02: Maybe you can talk through learning a new area or discipline and how you went about it.
+[00:59:53] SPEAKER_00: Yeah, I mean, first of all, I would just say, you know, we hired Ron Grubesko, who, you know, took us from essentially zero to now over 2 billion ARR, right, basically 3 billion ARR.
+[01:00:03] SPEAKER_00: And so he's been phenomenal.
+[01:00:04] SPEAKER_02: And what did you see in him?
+[01:00:06] SPEAKER_00: Yeah.
+[01:00:08] SPEAKER_00: I thought that he was extremely smart.
+[01:00:11] SPEAKER_00: So I thought he's actually different from many of the salespeople.
+[01:00:13] SPEAKER_00: He is the classical enterprise B2B sales guy.
+[01:00:16] SPEAKER_00: You know, so he's not like the engineer type that's, you know, he is the classic archetype of a sales leader, you know, with all the raw, raw and motivational speech and get everybody riled up.
+[01:00:28] SPEAKER_00: So it's like, he has all that.
+[01:00:30] SPEAKER_00: So that's great.
+[01:00:30] SPEAKER_00: That's the stuff we didn't understand or have.
+[01:00:33] SPEAKER_00: He had the big enterprise experience because there's a lot of sellers that sell to mid-market SMB, but he had actually sold to really big, gigantic enterprises.
+[01:00:40] SPEAKER_00: So that's also something we don't understand anything about.
+[01:00:42] SPEAKER_00: And he was thinking very big.
+[01:00:44] SPEAKER_00: Like when he came in, he was like, oh, we're going to do a $10 million contract or a hundred million.
+[01:00:48] SPEAKER_00: We were like, no one's going to ever pay $10 million for Databricks.
+[01:00:51] SPEAKER_00: It was our mindset.
+[01:00:53] SPEAKER_00: So that was also useful.
+[01:00:54] SPEAKER_00: But he also was,
+[01:00:57] SPEAKER_00: He was cerebral and he was extremely smart and went by first principle.
+[01:01:01] SPEAKER_00: So there was a compatibility.
+[01:01:02] SPEAKER_00: He had an engineering degree.
+[01:01:04] SPEAKER_00: So he was sort of the unicorn of someone who spoke our language and couldn't understand us and was extremely smart, but also had this whole other thing that we couldn't understand.
+[01:01:15] SPEAKER_00: So that hire was important.
+[01:01:16] SPEAKER_00: It took us a year to hire.
+[01:01:17] SPEAKER_00: We went through a lot of candidates, and I think we kind of nailed that one.
+[01:01:21] SPEAKER_00: It was luck.
+[01:01:23] SPEAKER_00: So that's important.
+[01:01:24] SPEAKER_00: The other thing I would say is in the interview process, when you're searching, like we took us a year to hire a salesperson.
+[01:01:32] SPEAKER_00: I've seen people make this mistake.
+[01:01:33] SPEAKER_00: Take the exact hiring process super seriously.
+[01:01:38] SPEAKER_00: It's a learning process.
+[01:01:39] SPEAKER_00: You're basically going to school to learn what a head of sales looks like.
+[01:01:43] SPEAKER_00: So in that, talk to all the top head of sales and grill them and pay attention and use them also in the interviews.
+[01:01:49] SPEAKER_00: Since I don't believe in interviews, as I said, use the interviews a little bit of as a tutorial for yourself to learn how does excellent sales look like in your organization, for your company, for your company, for your company.
+[01:01:59] SPEAKER_00: And you get the, after, you know, talking to 20 people.
+[01:02:03] SPEAKER_00: You get a pretty good picture of, okay, this is kind of it.
+[01:02:05] SPEAKER_00: This is what they're doing.
+[01:02:06] SPEAKER_00: They all have that.
+[01:02:07] SPEAKER_00: All the stellar ones seem to have this in common.
+[01:02:10] SPEAKER_00: This is what it's about.
+[01:02:11] SPEAKER_00: And you can go deeper.
+[01:02:12] SPEAKER_00: And then in the backdoor process, you figure out who's who.
+[01:02:15] SPEAKER_00: You figure out who are the top people in this industry that you can't hire.
+[01:02:18] SPEAKER_00: Try to get some time with them as well to just learn from them and build a relationship with them or get them to be advisors.
+[01:02:23] SPEAKER_00: So really put yourself in the, hey, you're going to university to learn.
+[01:02:27] SPEAKER_00: That's what that process is.
+[01:02:29] SPEAKER_00: You're not an expert and trust the people that are the best in the industry at that.
+[01:02:34] SPEAKER_00: Try to find the number one person and go with them.
+[01:02:37] SPEAKER_02: In hiring for Databricks, are there certain things that you feel you uniquely prioritize or the types of people that succeed within the organization that is maybe unique to Databricks?
+[01:02:50] SPEAKER_00: Yeah, well, so our culture principles have been reverse engineered to exactly answer your question.
+[01:02:53] SPEAKER_02: So you didn't start with the principals and went the other way.
+[01:02:55] SPEAKER_02: You started with the people that succeeded and came back.
+[01:02:57] SPEAKER_02: Succeeded and failed.
+[01:02:58] SPEAKER_02: Okay.
+[01:02:59] SPEAKER_00: We also looked at people that had perfect CVs that we hired and they bombed out.
+[01:03:03] SPEAKER_00: Why was that?
+[01:03:04] SPEAKER_00: And we went back and said, okay, we couldn't agree on the hiring bar.
+[01:03:07] SPEAKER_00: They were like, I've worked with these 10 people.
+[01:03:09] SPEAKER_00: They're stellar.
+[01:03:09] SPEAKER_00: And we're like, no, that doesn't look like our bar.
+[01:03:12] SPEAKER_00: That was a big issue.
+[01:03:13] SPEAKER_00: So raise the bar, don't settle.
+[01:03:16] SPEAKER_00: We'd rather have more false negatives than have false positives.
+[01:03:23] SPEAKER_00: So we'd rather reject someone that's really great by mistake than hire someone by mistake that's not great.
+[01:03:28] SPEAKER_00: And that's painful.
+[01:03:30] SPEAKER_00: We learned that that way.
+[01:03:31] SPEAKER_00: Truth seeking.
+[01:03:32] SPEAKER_00: A lot of the execs from the big companies had this attitude of, you know,
+[01:03:38] SPEAKER_00: everything's going great, I got this, my team's got that, we're working on this, here's a nice slide deck, manage up, nothing to look for here.
+[01:03:46] SPEAKER_00: But that didn't work for us.
+[01:03:48] SPEAKER_00: It's like, that's where the truth-seeking principle came in.
+[01:03:51] SPEAKER_00: We really need to know, like, what's broken?
+[01:03:53] SPEAKER_00: Who in your team is not working out well?
+[01:03:54] SPEAKER_00: What are we not doing well?
+[01:03:56] SPEAKER_00: Where are we not satisfying the customer?
+[01:03:57] SPEAKER_00: So that was the second principle.
+[01:04:00] SPEAKER_00: You know, third principle, I've done this before, I know how it's done, this is how much bigger, better company's doing it, we should do it this way.
+[01:04:06] SPEAKER_00: So that was not first principles.
+[01:04:07] SPEAKER_00: We needed to know exactly how and why and go from first principles on every decision.
+[01:04:12] SPEAKER_00: So being first principle became another culture principle.
+[01:04:15] SPEAKER_00: So our culture principles are the recipe for succeeding at Databricks.
+[01:04:19] SPEAKER_00: Like execs ask me all the time at the end, you know, before we just shake hands and I hire them, they say, Hey, so do you think I'm going to be successful here?
+[01:04:25] SPEAKER_00: What do you think is going to be needed?
+[01:04:26] SPEAKER_00: And it's like, it's super simple.
+[01:04:28] SPEAKER_00: I swear to God, read the culture principles.
+[01:04:30] SPEAKER_00: If you really do those, you will be, I mean, of course the results have to, the output has to be great, but you will work out here.
+[01:04:36] SPEAKER_00: If any of this stuff doesn't look good to you, let's argue about it now, because that's going to be an issue.
+[01:04:41] SPEAKER_00: Those are really the principles of the company.
+[01:04:43] SPEAKER_00: So our culture principles aren't like the aspirational cool stuff that you'd like to have on the wall.
+[01:04:48] SPEAKER_00: It's literally what's worked and didn't work in the past empirically.
+[01:04:51] SPEAKER_02: When, when looking for people within or to come in data bricks, I think people that have a chip on their shoulder a little bit.
+[01:04:58] SPEAKER_02: Do you, is that something you can, do you try to tease out in the conversations?
+[01:05:03] SPEAKER_02: What are the types of things that you'll ask to try to figure that out?
+[01:05:06] SPEAKER_00: Yeah, I mean, the people that, you know, really, really, really went against all odds, really pushed, they have grit.
+[01:05:11] SPEAKER_00: One of the things that Ron said in the sales, you know, interview that kind of I remember now from 2015, I think November was he said, hey, if there's a deal lost,
+[01:05:23] SPEAKER_00: You know, I want to know like, wow, cause there's no way anyone else on the planet could have won that deal.
+[01:05:29] SPEAKER_00: Like, I just know it's humanly impossible because I will have done everything humanly possible to win that deal.
+[01:05:36] SPEAKER_00: So I just want to, and it was a side comment he was doing with something and it was like clear to him that this, this guy is going to go over and beyond.
+[01:05:44] SPEAKER_00: And then of course the negotiation with him to hire him was a real pain.
+[01:05:47] SPEAKER_00: So that was also.
+[01:05:49] SPEAKER_00: reaffirming that, okay, he's probably going to be great at this job.
+[01:05:52] SPEAKER_00: You don't want a sales that's terrible at negotiating their own comp for themselves.
+[01:05:58] SPEAKER_00: So, you want to suss out, is there something, people who have something to prove, are they trying to prove to you, if they're super content and happy with things,
+[01:06:09] SPEAKER_00: you know, then it's probably not gonna work.
+[01:06:11] SPEAKER_00: It's probably for people that are a little bit broken, like all of us are.
+[01:06:14] SPEAKER_00: Like we're all, we have something to prove and we're gonna work our ass off.
+[01:06:17] SPEAKER_00: We're gonna do everything in our power.
+[01:06:19] SPEAKER_00: And you can suss that out in interviews.
+[01:06:21] SPEAKER_00: It's not hard.
+[01:06:22] SPEAKER_02: You mentioned work your ass off there.
+[01:06:24] SPEAKER_02: That's something that I think has went out of vogue, working hard for a while.
+[01:06:28] SPEAKER_02: It's sort of come back in vogue.
+[01:06:30] SPEAKER_02: I'm curious, you had said something along the lines I had here.
+[01:06:33] SPEAKER_02: You never met someone successful who didn't work hard.
+[01:06:35] SPEAKER_02: Can you elaborate on that point?
+[01:06:37] SPEAKER_00: In research, in academia, like genius professors, you know, who had won amazing awards, you know, and that's like, you know, you can be really, really smart in research, and maybe you don't need to work hard.
+[01:06:46] SPEAKER_00: But all of them that I met, they were, you know, working harder than us.
+[01:06:51] SPEAKER_00: And we're like shocked, they're there 24 seven.
+[01:06:53] SPEAKER_00: And then in industry, the same thing.
+[01:06:55] SPEAKER_00: So I just never ever met someone who's just phoning it in, and they're super successful.
+[01:06:58] SPEAKER_00: You find talented people, but they're not successful.
+[01:07:01] SPEAKER_00: It has to go with extremely hard work.
+[01:07:03] SPEAKER_00: So we had that from day one at Databricks, and we never deviated, whether it was in Vogue or not.
+[01:07:08] SPEAKER_00: We were a super hardworking culture from day one.
+[01:07:10] SPEAKER_00: We continue to be, and we said, look, we have lofty goals.
+[01:07:13] SPEAKER_00: To achieve them, we're gonna work extremely hard.
+[01:07:15] SPEAKER_00: Totally understandable if you don't wanna do it, because maybe you have family, maybe other things you wanna do in life.
+[01:07:19] SPEAKER_00: That's totally understandable, but then probably Databricks is not for you.
+[01:07:23] SPEAKER_00: So it's been always true here at Databricks.
+[01:07:26] SPEAKER_00: In fact, we had, you know, our work-life balance scores weren't great in surveys.
+[01:07:31] SPEAKER_00: And, you know, I tried to be upfront.
+[01:07:33] SPEAKER_00: We don't want to actually have terrible work-life balance.
+[01:07:35] SPEAKER_00: We actually focus on teams that have terrible scores and try to, you know, change things.
+[01:07:39] SPEAKER_00: And we got actually improvements in those teams.
+[01:07:41] SPEAKER_00: But I also was upfront.
+[01:07:42] SPEAKER_00: I don't want to be best in class and have the highest work-life balance score in the industry.
+[01:07:45] SPEAKER_00: That's not...
+[01:07:47] SPEAKER_00: We're not going to win that way.
+[01:07:49] SPEAKER_00: Um, so that it's as simple as that.
+[01:07:52] SPEAKER_00: Now I try to myself also match that.
+[01:07:54] SPEAKER_00: So I don't want anyone to work harder than me.
+[01:07:56] SPEAKER_00: Like, so I got to kind of match that myself.
+[01:07:59] SPEAKER_00: Um, but, and it has to be sustainable.
+[01:08:01] SPEAKER_00: What I mean by that is I've been doing this for a decade more, uh, and I want it to be the same way for the employees.
+[01:08:06] SPEAKER_00: So if they're like really burning themselves out and they can't do it for many more years, that's not, I don't want them to do that.
+[01:08:11] SPEAKER_00: I want them to be able to do it, and it's sustainable.
+[01:08:14] SPEAKER_00: And then hopefully we can achieve great things together.
+[01:08:17] SPEAKER_00: And if they don't, that's okay, too.
+[01:08:18] SPEAKER_00: No hard feelings, you know, or maybe in a period of their life, they want to do it, but they don't want to do it another.
+[01:08:23] SPEAKER_00: That's okay, too.
+[01:08:24] SPEAKER_02: One of the hardest things our companies deal with in scaling is when the people that got you there
+[01:08:30] SPEAKER_02: they're starting to question if they're the ones that can get you there to the next step along the journey.
+[01:08:34] SPEAKER_02: It sounds like when you came in, you made that decision as CEO to uplevel a lot of leadership.
+[01:08:38] SPEAKER_02: And I'm sure along the way, you've kept Ron and he's continued to scale in his role, but I'm sure there's other functional areas that you've decided to upgrade.
+[01:08:46] SPEAKER_02: How have you gone about making the decision that, hey, it might be time to part with someone who's done a great job up to that point, but you might need someone new to take you to the next level?
+[01:08:55] SPEAKER_00: I think you have to just be truth seeking with yourself.
+[01:08:57] SPEAKER_00: So number one is like, when do you know yourself that, you know, I think we kind of know there's the signals, but we just don't want to see the truth.
+[01:09:03] SPEAKER_00: We want to ignore it because it's, it's so hard because this person helped build a company with you.
+[01:09:07] SPEAKER_00: It's so you don't want to kind of admit it to yourself, but deep inside, you know, deep, deep, deep, deep inside.
+[01:09:13] SPEAKER_00: So just immediately when that is there, just recognize it and face the truth.
+[01:09:17] SPEAKER_00: Be truth seeking with yourself.
+[01:09:18] SPEAKER_00: Don't like yourself at least as an exec.
+[01:09:20] SPEAKER_00: Okay, once you know it yourself, now you have to take action.
+[01:09:23] SPEAKER_00: I found it easiest if you can explain to the person and get them on board that it's not really working.
+[01:09:27] SPEAKER_00: Don't make it about like, just make it like, is it working or not?
+[01:09:30] SPEAKER_00: Are you winning or not here?
+[01:09:32] SPEAKER_00: Are you winning or not?
+[01:09:33] SPEAKER_00: Just focus on that.
+[01:09:34] SPEAKER_00: And if they realize that, hey, okay, I am not winning.
+[01:09:36] SPEAKER_00: Well, let's discuss why.
+[01:09:38] SPEAKER_00: Then I think everything else becomes much simpler.
+[01:09:40] SPEAKER_00: It's like, okay, but then what do we do about, what about you then?
+[01:09:42] SPEAKER_00: So after, you know, like, okay, I'm not winning.
+[01:09:44] SPEAKER_00: It's not quite working.
+[01:09:45] SPEAKER_00: There are many reasons.
+[01:09:46] SPEAKER_00: Okay, let's figure out a way to make this work.
+[01:09:48] SPEAKER_00: Then you can change, steer the conversation towards, okay, what's the best thing for you, your career?
+[01:09:53] SPEAKER_00: I want to help you.
+[01:09:53] SPEAKER_00: I want you to be successful.
+[01:09:55] SPEAKER_00: I have found that there are new roles for people where they can continue to crush it.
+[01:09:58] SPEAKER_00: I have had people that, you know, they,
+[01:10:02] SPEAKER_00: in that role it wasn't working anymore and we found a new person that leads it or you know you do the layering or whatever but you find a new role for this person and they crush it and they're awesome at it and they'll be happier actually you know after a while goes on they'll be like hey Ali's no longer bugging me
+[01:10:18] SPEAKER_00: you know, about it not working.
+[01:10:20] SPEAKER_00: Second, I'm actually happier when I'm succeeding.
+[01:10:22] SPEAKER_00: When I'm winning, I'm happier than when I'm constantly it's not working and everything is going, you know, I'm having a bad day every day.
+[01:10:28] SPEAKER_00: So I've actually found that many of those folks, you can keep them in the company.
+[01:10:31] SPEAKER_00: But you should also part ways if they're like just phoning it in and they're not interested anymore.
+[01:10:35] SPEAKER_00: And they're just there for some memory of what happened in the early days when everything was great.
+[01:10:41] SPEAKER_00: You're better off also parting ways too.
+[01:10:42] SPEAKER_00: Let's not waste their time and our time.
+[01:10:44] SPEAKER_02: Maybe zooming back out as we wrap, if someone's listening to this in a couple of years time, and we're sort of looking forward with your crystal ball that you claim not to have, but I think you're pretty good on it.
+[01:10:56] SPEAKER_02: Are there elements of the world around Databricks or what you guys are operating that
+[01:11:06] SPEAKER_02: you think are on the cusp of being possible in the next five years, just things that get you really excited to get out of bed every day and do this job and just the potential maybe at an industry level, not even at a company level that you think we're on the cusp of seeing.
+[01:11:20] SPEAKER_00: Yeah, I think what's going to happen is that we're going to see many of the things that we see today are going to be disrupted.
+[01:11:26] SPEAKER_00: And there's going to be a sort of AI app for those things in the future.
+[01:11:29] SPEAKER_00: We don't even know what they're going to look like, you know, but what do they all need at their core?
+[01:11:35] SPEAKER_00: Like what did apps need in the last 10, 20, 30, 40 years?
+[01:11:38] SPEAKER_00: They needed an Oracle database under the hood.
+[01:11:40] SPEAKER_00: The joke is you stuff all the complexity into a database, and then you build workflows and UIs on top, or the two-tiered or three-tiered model.
+[01:11:49] SPEAKER_00: I think in the future, you need the AI database under the hood.
+[01:11:52] SPEAKER_00: And if you have an AI database, you have all your transactional data, you have all your analytics and AI in there with the model, and then you can do wonders on top.
+[01:12:01] SPEAKER_00: So I think we're gonna see an ecosystem of these applications in the AI space being built, and they all need an AI database under the hood.
+[01:12:09] SPEAKER_00: And that's what basically Databricks is.
+[01:12:11] SPEAKER_00: Databricks is basically AI database.
+[01:12:12] SPEAKER_00: We don't call it that.
+[01:12:13] SPEAKER_00: We don't market it that way, but essentially it's an AI database under the hood.
+[01:12:17] SPEAKER_00: And you will need that for every application.
+[01:12:18] SPEAKER_00: Every company in the planet will need that.
+[01:12:20] SPEAKER_00: And I hope that we can be the company that powers all of these applications in the future.
+[01:12:25] SPEAKER_00: There'll be others also that do that as well, but that's the goal.
+[01:12:30] SPEAKER_00: I think, you know, we're seeing already the seeds of this happening.
+[01:12:33] SPEAKER_02: The seeds of it, I guess I'm curious just to elaborate on that, like the seeds of this happening, are you seeing just particularly exciting use cases or just customers?
+[01:12:42] SPEAKER_00: Look, in the same space, they need to do massive log processing securely and detect zero-day attacks.
+[01:12:50] SPEAKER_00: Okay, that's like kind of what Databricks bread and butter is, real-time processing of massive logs with AI built in.
+[01:12:56] SPEAKER_00: In the observability space, same thing.
+[01:12:57] SPEAKER_00: You need to observe your log processing, understand the metrics, detect anomalies, and so on.
+[01:13:03] SPEAKER_00: In the customer 360 space, CDPs and understanding what your customers are doing, same thing again there.
+[01:13:10] SPEAKER_00: It's like massive data that you have to
+[01:13:12] SPEAKER_00: collect from many, many different places, and then get telemetry on it.
+[01:13:15] SPEAKER_00: It's huge data processing.
+[01:13:17] SPEAKER_00: You need to do it in real time.
+[01:13:18] SPEAKER_00: You need to do AI to get the insights in doing those.
+[01:13:20] SPEAKER_00: So each one of these spaces, I think, are going to be built on basically an AI database.
+[01:13:25] SPEAKER_00: I hope we can be the AI database that powers all of them.
+[01:13:28] SPEAKER_00: This disruption, I think, is going to happen in the next two, three, four years.
+[01:13:30] SPEAKER_02: It's exciting.
+[01:13:31] SPEAKER_02: Well, thank you for doing this.
+[01:13:32] SPEAKER_00: Likewise.
+[01:13:36] SPEAKER_02: Thank you for joining this episode of The Logan Bartlett Show with co-founder and CEO of Databricks, Ali Godsey.
+[01:13:41] SPEAKER_02: If you enjoyed this conversation, we'd appreciate it if you shared to anyone else that you think might find it interesting, as well as subscribe to us on whatever podcast platform you're listening to us on.
+[01:13:50] SPEAKER_02: We look forward to seeing you back here next week with another great guest on The Logan Bartlett Show.
+[01:13:54] SPEAKER_02: Have a good weekend, everyone.
