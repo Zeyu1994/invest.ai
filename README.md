@@ -28,7 +28,14 @@
 
  # For local audio files  
  python transcribe_video.py --audio path/to/audio.mp3
+
+ # For summarize text, will use general summary prompt combine summary + QA
+ python summarize.py "script.txt/.md" 
+
+ # For summarize earning call
+ python summarize.py "script.txt/.md" --transcript_type earning_transcript
  ```
+
 
 
 # 

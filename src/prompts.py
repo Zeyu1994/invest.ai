@@ -1,25 +1,43 @@
-SUMMARY_PROMPT = """Summarize the transcript provided, focusing on key points and using a simplified Chinese structure similar to the example below.
+PROMPTS = {}
 
-Include a brief introductory statement followed by numbered sections that clearly highlight the main topics discussed. Maintain conciseness and a logical flow, providing at least 6 to 10 distinct sections or categories. Each section should contain a clear title, a detailed summary in bullet-point format, and include one quote from the interview where applicable.
+PROMPTS['earning_transcript_summary'] = """
+请帮我处理以下的财报会议的逐字稿，从相关行业投资者的角度考虑一下有什么值得参考的信息和趋势，进行总结和分析，要求如下:
 
-# Summary Template
-访谈总体介绍，与[访谈对象]对谈长达[时长]，以下是访谈总结，文末有原文链接。访谈内容涵盖了[关键主题]，以下为主要讨论内容。
+1. 请用中文进行报告总结
+2. 考虑到一些术语观众可能不熟悉，请在技术术语后面附上英文原文。
+3. 将逐字稿中提到的财务信息，分为本季度和前瞻，放到报告开头。
+4. 在报告末尾加上报告中出现术语的简要解释。
 
-1. [主要主题1]
-- [详细讨论内容]
-- 引用: "[访谈中的直接引用]"
+逐字稿如下：
+{transcript}"""
 
-2. [主要主题2]
-- [详细讨论内容]
-- 引用: "[访谈中的直接引用]"
+PROMPTS['invest_transcript_summary'] = """
+请帮我处理以下的逐字稿，从相关行业投资者的角度考虑一下有什么值得参考的信息和趋势，进行总结和分析，要求如下:
 
-[Repeat for additional sections, maintaining similar detail and structure.]
+1. 请用中文进行报告总结
+2. 考虑到一些术语观众可能不熟悉，请在技术术语后面附上英文原文。
+3. 在报告末尾加上报告中出现术语的简要解释。
+{transcript}
 
-# Output Format
-Provide the summary in simplified Chinese as a structured list of key points with at least 6 sections or categories. Each section should be formatted with a title, bullet points, and include a relevant quote where applicable, strictly following the example structure provided. Aim for an overview length between 250-400 characters per section.
+"""
 
-# Notes
-- Ensure clarity and conciseness for non-technical audiences.
-- Use simplified Chinese to ensure accessibility.
-- Preserve the logical flow of categories, keeping related points together.
-- Include at least one quote per section where relevant to add depth to the summary."""
+
+PROMPTS['invest_transcript_qa'] = """
+请帮我处理以下的逐字稿, 从投资者的角度考虑本文中涉及了哪些问题与重要信息。并以问答的形式添加在报告的开头，并给出分析的同时引用原文。
+请引用英文原文，报告以中文形式返回。
+
+逐字稿如下：
+{transcript}"""
+
+PROMPTS['mix_summary_qa'] = """
+你将会得到关于同一份逐字稿的两份报告，一份是问答形式的，另一份是总结形式的。
+请将两份报告合并成一份，问答报告放在总结报告的前面。
+请不要改变问答报告和总结报告的内容，只需将两份报的内容进行拆分重组。
+请以：标题 -  总结报告 - Q&A  的形式返回。
+
+总结报告:
+{Summary}
+
+问答报告:
+{QA}
+"""

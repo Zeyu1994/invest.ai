@@ -16,7 +16,7 @@ def main():
     # Initialize components
     downloader = YouTubeDownloader(Config.OUTPUT_DIR)
     transcriber = WhisperTranscriber(
-        device=Config.DEVICE,
+        device = "cuda",
         batch_size=Config.BATCH_SIZE,
         compute_type=Config.COMPUTE_TYPE
     )
