@@ -14,7 +14,7 @@ class WhisperTranscriber:
         """Transcribe audio file using WhisperX"""
         try:
             # Load model and transcribe
-            model = whisperx.load_model("large-v2", self.device, compute_type=self.compute_type)
+            model = whisperx.load_model("large-v3", self.device, compute_type=self.compute_type)
             audio = whisperx.load_audio(str(audio_path))
             result = model.transcribe(audio, batch_size=self.batch_size)
             

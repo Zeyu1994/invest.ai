@@ -4,8 +4,11 @@ import argparse
 import os
 from src.summarizer import Summarizer
 from src.config import Config
+from dotenv import load_dotenv
 
 def main():
+    load_dotenv()
+
     parser = argparse.ArgumentParser(description='Summarize a transcript.')
     parser.add_argument('filepath', type=str, help='Path to the text or markdown file.')
     parser.add_argument('--chain_type', type=str, choices=['summary', 'qa', 'final'], default='final', help='Type of chain to use.')
@@ -19,7 +22,7 @@ def main():
     with open(args.filepath, 'r', encoding='utf-8') as f:
         transcript = f.read()
 
-    summarizer = Summarizer(api_key=Config.OPENAI_API_KEY)
+    summarizer = Summarizer()
 
     # Determine which prompts to use based on the transcript type
     if args.transcript_type == 'earning_transcript':

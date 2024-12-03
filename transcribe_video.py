@@ -20,7 +20,7 @@ def main():
         batch_size=Config.BATCH_SIZE,
         compute_type=Config.COMPUTE_TYPE
     )
-    summarizer = Summarizer(Config.OPENAI_API_KEY)
+    summarizer = Summarizer()
     
     # Get audio path based on input type
     if args.youtube:

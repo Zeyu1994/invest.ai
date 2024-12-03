@@ -34,8 +34,13 @@
 
  # For summarize earning call
  python summarize.py "script.txt/.md" --transcript_type earning_transcript
+
+ 
  ```
 
+## Convert PDF
 
-
+```bash
+magic-pdf -p "path_to_pdf.pdf" -o "out_put_path" -m auto
+```
 # 
