@@ -28,11 +28,11 @@ def main():
     if args.transcript_type == 'earning_transcript':
         summary_prompt_key = 'earning_transcript_summary'
     else:
-        summary_prompt_key = 'invest_transcript_summary'
+        summary_prompt_key = 'default_summary_prompt'
 
     # Use default prompts for QA and final prompts
-    qa_prompt_key = 'invest_transcript_qa'
-    final_prompt_key = 'mix_summary_qa'
+    qa_prompt_key = 'default_qa_prompt'
+    final_prompt_key = 'default_final_prompt'
 
     # Generate the summary
     summary = summarizer.summarize(
