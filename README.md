@@ -27,7 +27,10 @@
  python transcribe_video.py --youtube https://www.youtube.com/watch?v=ZEyPHhBKgJ4
 
  # For local audio files  
- python transcribe_video.py --audio path/to/audio.mp3
+ python transcribe_video.py --audio path/to/audio.mp3 
+
+ # transcribe-only
+  python transcribe_video.py --audio path/to/audio.mp3 --transcribe-only
 
  # For summarize text, will use general summary prompt combine summary + QA
  python summarize.py "script.txt/.md" 
